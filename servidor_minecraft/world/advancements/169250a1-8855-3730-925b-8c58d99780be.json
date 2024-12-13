@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "cobblemon:obtain_berry": {
+    "criteria": {
+      "check_inv": "2024-12-13 23:53:03 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/traders/card_display/dark_oak/orange": {
     "criteria": {
       "money": "2024-12-13 23:08:36 +0000"
@@ -239,6 +245,12 @@
     },
     "done": true
   },
+  "cobblemon:obtain_all_berries": {
+    "criteria": {
+      "obtain_chesto_berry": "2024-12-13 23:53:03 +0000"
+    },
+    "done": false
+  },
   "lightmanscurrency:recipes/misc/traders/card_display/biomeswevegone/maple/yellow": {
     "criteria": {
       "money": "2024-12-13 23:08:36 +0000"
@@ -260,6 +272,12 @@
   "lightmanscurrency:recipes/misc/traders/card_display/biomeswevegone/sakura/black": {
     "criteria": {
       "money": "2024-12-13 23:08:36 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/sakura_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-13 23:46:27 +0000"
     },
     "done": true
   },
@@ -356,6 +374,12 @@
   "lightmanscurrency:recipes/misc/traders/card_display/biomeswevegone/holly/red": {
     "criteria": {
       "money": "2024-12-13 23:08:36 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/palm_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-13 23:46:27 +0000"
     },
     "done": true
   },
@@ -497,6 +521,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/transportation/pine_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-13 23:46:27 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/traders/card_display/oak/yellow": {
     "criteria": {
       "money": "2024-12-13 23:08:35 +0000"
@@ -599,6 +629,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/transportation/jacaranda_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-13 23:46:27 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/atm": {
     "criteria": {
       "money": "2024-12-13 23:08:36 +0000"
@@ -662,6 +698,12 @@
   "lightmanscurrency:recipes/misc/traders/card_display/biomeswevegone/witch_hazel/blue": {
     "criteria": {
       "money": "2024-12-13 23:08:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-13 23:46:27 +0000"
     },
     "done": true
   },
@@ -851,6 +893,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/transportation/ebony_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-13 23:46:27 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/coins/coin_emerald_from_pile": {
     "criteria": {
       "money": "2024-12-13 23:08:36 +0000"
@@ -896,6 +944,12 @@
   "lightmanscurrency:recipes/misc/traders/card_display/crimson/yellow": {
     "criteria": {
       "money": "2024-12-13 23:08:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-13 23:46:27 +0000"
     },
     "done": true
   },
@@ -1047,6 +1101,12 @@
   "lightmanscurrency:recipes/misc/traders/bookshelf/biomeswevegone/ebony": {
     "criteria": {
       "money": "2024-12-13 23:08:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-13 23:46:27 +0000"
     },
     "done": true
   },
@@ -1332,6 +1392,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-13 23:46:27 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/apple_cider": {
     "criteria": {
       "has_apple": "2024-12-13 23:10:27 +0000"
@@ -1578,6 +1644,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/transportation/zelkova_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-13 23:46:27 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/traders/card_display/acacia/pink": {
     "criteria": {
       "money": "2024-12-13 23:08:36 +0000"
@@ -1650,6 +1722,12 @@
     },
     "done": true
   },
+  "cobblemon:recipes/agriculture/mulch_base": {
+    "criteria": {
+      "has_berry": "2024-12-13 23:53:03 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/traders/card_display/bamboo/blue": {
     "criteria": {
       "money": "2024-12-13 23:08:35 +0000"
@@ -1671,6 +1749,12 @@
   "lightmanscurrency:recipes/misc/traders/bookshelf/biomeswevegone/aspen": {
     "criteria": {
       "money": "2024-12-13 23:08:36 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:any_plant": {
+    "criteria": {
+      "check_inv": "2024-12-13 23:53:03 +0000"
     },
     "done": true
   },
@@ -1830,6 +1914,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/transportation/ironwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-13 23:46:27 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/portable_atm_swap": {
     "criteria": {
       "money": "2024-12-13 23:08:36 +0000"
@@ -1890,6 +1980,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/transportation/green_enchanted_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-13 23:46:27 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/traders/card_display/biomeswevegone/maple/black": {
     "criteria": {
       "money": "2024-12-13 23:08:36 +0000"
@@ -1905,6 +2001,12 @@
   "lightmanscurrency:recipes/misc/traders/card_display/bamboo/red": {
     "criteria": {
       "money": "2024-12-13 23:08:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2024-12-13 23:46:27 +0000"
     },
     "done": true
   },
@@ -1941,6 +2043,12 @@
   "lightmanscurrency:recipes/misc/wallet/wallet_diamond": {
     "criteria": {
       "coin": "2024-12-13 23:08:35 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/willow_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-13 23:46:27 +0000"
     },
     "done": true
   },
@@ -2571,6 +2679,12 @@
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2024-12-13 23:10:27 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/maple_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-13 23:46:27 +0000"
     },
     "done": true
   },
@@ -4063,6 +4177,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/transportation/cika_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-13 23:46:27 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/traders/card_display/biomeswevegone/blue_enchanted/light_blue": {
     "criteria": {
       "money": "2024-12-13 23:08:36 +0000"
@@ -4273,6 +4393,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2024-12-13 23:50:46 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/traders/card_display/biomeswevegone/witch_hazel/light_gray": {
     "criteria": {
       "money": "2024-12-13 23:08:36 +0000"
@@ -4306,6 +4432,12 @@
   "lightmanscurrency:recipes/misc/traders/bookshelf/jungle": {
     "criteria": {
       "money": "2024-12-13 23:08:36 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/transportation/apricorn_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-13 23:46:27 +0000"
     },
     "done": true
   },
@@ -4408,6 +4540,18 @@
   "lightmanscurrency:recipes/misc/coins/coinpile_chocolate_copper_from_block": {
     "criteria": {
       "money": "2024-12-13 23:08:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-13 23:46:27 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/mahogany_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-13 23:46:27 +0000"
     },
     "done": true
   },
@@ -4618,6 +4762,12 @@
   "lightmanscurrency:recipes/misc/traders/card_display/biomeswevegone/ironwood/gray": {
     "criteria": {
       "money": "2024-12-13 23:08:35 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/florus_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-13 23:46:27 +0000"
     },
     "done": true
   },
@@ -4861,9 +5011,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-13 23:46:27 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/coins/coin_iron_from_pile": {
     "criteria": {
       "money": "2024-12-13 23:08:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-13 23:46:27 +0000"
     },
     "done": true
   },
@@ -4918,6 +5080,12 @@
   "lightmanscurrency:recipes/misc/traders/shelf2/biomeswevegone/witch_hazel": {
     "criteria": {
       "money": "2024-12-13 23:08:35 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/baobab_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-13 23:46:27 +0000"
     },
     "done": true
   },
@@ -5050,6 +5218,12 @@
   "smallships:recipes/transportation/mangrove_galley": {
     "criteria": {
       "in_water": "2024-12-13 23:36:13 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/cypress_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-13 23:46:27 +0000"
     },
     "done": true
   },
@@ -5239,6 +5413,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/transportation/blue_enchanted_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-13 23:46:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
       "has_log": "2024-12-13 23:10:27 +0000"
@@ -5371,9 +5551,21 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/transportation/witch_hazel_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-13 23:46:27 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/traders/card_display/biomeswevegone/pine/yellow": {
     "criteria": {
       "money": "2024-12-13 23:08:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-13 23:46:27 +0000"
     },
     "done": true
   },
@@ -5587,6 +5779,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/transportation/skyris_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-13 23:46:27 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/traders/card_display/bamboo/gray": {
     "criteria": {
       "money": "2024-12-13 23:08:36 +0000"
@@ -5641,6 +5839,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/transportation/redwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-13 23:46:27 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/traders/card_display/biomeswevegone/green_enchanted/red": {
     "criteria": {
       "money": "2024-12-13 23:08:36 +0000"
@@ -5668,6 +5872,12 @@
   "lightmanscurrency:recipes/misc/traders/bookshelf/biomeswevegone/fir": {
     "criteria": {
       "money": "2024-12-13 23:08:35 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/white_mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-13 23:46:27 +0000"
     },
     "done": true
   },
@@ -5950,6 +6160,12 @@
   "lightmanscurrency:recipes/misc/traders/vending_machine/dye_blue": {
     "criteria": {
       "money": "2024-12-13 23:08:35 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/rainbow_eucalyptus_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-13 23:46:27 +0000"
     },
     "done": true
   },
@@ -6711,6 +6927,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/transportation/fir_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-13 23:46:27 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/traders/card_display/bamboo/magenta": {
     "criteria": {
       "money": "2024-12-13 23:08:35 +0000"
@@ -6768,6 +6990,12 @@
   "lightmanscurrency:recipes/misc/wallet/wallet_nether_star": {
     "criteria": {
       "coin": "2024-12-13 23:08:36 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/aspen_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-13 23:46:27 +0000"
     },
     "done": true
   },
@@ -6924,6 +7152,12 @@
   "lightmanscurrency:recipes/misc/traders/card_display/biomeswevegone/palm/light_gray": {
     "criteria": {
       "money": "2024-12-13 23:08:36 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/holly_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-13 23:46:27 +0000"
     },
     "done": true
   },

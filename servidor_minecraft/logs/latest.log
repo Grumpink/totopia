@@ -1510,3 +1510,9 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [13Dec2024 23:44:20.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeruuk was shot by Skeleton
 [13Dec2024 23:46:41.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nach: Teleported Nach to Jeruuk]
 [13Dec2024 23:46:41.322] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nach moved too quickly! -12.205910849705093,71.0,-96.68033598754275
+[13Dec2024 23:47:47.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeruuk has made the advancement [Very Berry]
+[13Dec2024 23:53:03.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nach has made the advancement [Very Berry]
+[13Dec2024 23:53:03.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nach has made the advancement [Mother Nature's Bounty]
+[13Dec2024 23:55:29.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nach was slain by Spider
+[13Dec2024 23:56:19.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nach was slain by Spider
+[13Dec2024 23:56:49.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeruuk was blown up by Creeper
