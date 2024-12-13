@@ -5298,12 +5298,6 @@
     },
     "done": true
   },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:old_growth_birch_forest": "2024-12-13 23:11:35 +0000"
-    },
-    "done": false
-  },
   "lightmanscurrency:recipes/misc/traders/card_display/biomeswevegone/witch_hazel/cyan": {
     "criteria": {
       "money": "2024-12-13 23:11:34 +0000"
@@ -5733,6 +5727,253 @@
   "lightmanscurrency:recipes/misc/traders/card_display/biomeswevegone/redwood/white": {
     "criteria": {
       "money": "2024-12-13 23:11:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:dark_forest": "2024-12-13 23:19:34 +0000",
+      "minecraft:old_growth_birch_forest": "2024-12-13 23:11:35 +0000"
+    },
+    "done": false
+  },
+  "cobblemon:root": {
+    "criteria": {
+      "picked_starter": "2024-12-13 23:18:37 +0000"
+    },
+    "done": true
+  },
+  "cobblepedia:grant_cobblepedia": {
+    "criteria": {
+      "picked_starter": "2024-12-13 23:18:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2024-12-13 23:32:14 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/consumables/bold_mint": {
+    "criteria": {
+      "has_detriment_mint": "2024-12-13 23:31:01 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/birch_window": {
+    "criteria": {
+      "has_ingredient": "2024-12-13 23:31:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2024-12-13 23:31:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2024-12-13 23:31:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2024-12-13 23:31:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2024-12-13 23:32:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/crafting_blueprint": {
+    "criteria": {
+      "has_item": "2024-12-13 23:31:54 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/consumables/calm_mint": {
+    "criteria": {
+      "has_detriment_mint": "2024-12-13 23:31:01 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2024-12-13 23:31:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2024-12-13 23:31:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2024-12-13 23:31:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-13 23:31:45 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/consumables/modest_mint": {
+    "criteria": {
+      "has_detriment_mint": "2024-12-13 23:31:01 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2024-12-13 23:31:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-13 23:31:45 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:any_plant": {
+    "criteria": {
+      "check_inv": "2024-12-13 23:31:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2024-12-13 23:31:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2024-12-13 23:32:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2024-12-13 23:32:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2024-12-13 23:31:28 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/consumables/timid_mint": {
+    "criteria": {
+      "has_detriment_mint": "2024-12-13 23:31:01 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2024-12-13 23:32:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2024-12-13 23:32:14 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:obtain_mint": {
+    "criteria": {
+      "check_inv": "2024-12-13 23:31:01 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:obtain_all_mints": {
+    "criteria": {
+      "obtain_red_mint_leaf": "2024-12-13 23:31:01 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2024-12-13 23:31:45 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/flint_knife": {
+    "criteria": {
+      "has_stick": "2024-12-13 23:32:14 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/consumables/brave_mint": {
+    "criteria": {
+      "has_benefit_mint": "2024-12-13 23:31:01 +0000"
+    },
+    "done": false
+  },
+  "cobblemon:recipes/held/power_bracer": {
+    "criteria": {
+      "has_mint": "2024-12-13 23:31:01 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/consumables/naughty_mint": {
+    "criteria": {
+      "has_benefit_mint": "2024-12-13 23:31:01 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2024-12-13 23:32:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-13 23:31:45 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/consumables/adamant_mint": {
+    "criteria": {
+      "has_benefit_mint": "2024-12-13 23:31:01 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-13 23:31:45 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/cutting_board": {
+    "criteria": {
+      "has_stick": "2024-12-13 23:32:14 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/consumables/lonely_mint": {
+    "criteria": {
+      "has_benefit_mint": "2024-12-13 23:31:01 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-12-13 23:31:54 +0000"
     },
     "done": true
   },

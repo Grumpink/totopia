@@ -7,6 +7,14 @@
         "discoveredTimestamp": 1734131366775,
         "caughtTimestamp": 1734131366775
       }
+    },
+    "treecko": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1734131917965,
+        "caughtTimestamp": 1734131917965
+      }
     }
   }
 }

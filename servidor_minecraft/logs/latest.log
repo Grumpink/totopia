@@ -1466,3 +1466,28 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [13Dec2024 23:11:35.942] [Netty Epoll Server IO #5/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Jeruuk
 [13Dec2024 23:14:11.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nach has made the advancement [Sky of Beginning]
 [13Dec2024 23:16:38.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nach has made the advancement [Acquire Hardware]
+[13Dec2024 23:17:52.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nach has made the advancement [Monster Hunter]
+[13Dec2024 23:18:36.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nach was shot by Skeleton
+[13Dec2024 23:18:37.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeruuk has made the advancement [The World of Cobblemon!]
+[13Dec2024 23:19:50.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nach was slain by Spider
+[13Dec2024 23:20:45.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nach was slain by Zombie
+[13Dec2024 23:21:08.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nach was slain by Zombie
+[13Dec2024 23:21:36.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nach was slain by Zombie
+[13Dec2024 23:22:49.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Expected whitespace to end one argument, but found trailing data
+[13Dec2024 23:22:49.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kill e@[zombie]<--[HERE]
+[13Dec2024 23:23:08.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Nach a server operator
+[13Dec2024 23:23:19.060] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-6, y=150, z=-32}
+[13Dec2024 23:23:26.643] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-6, y=150, z=-33}
+[13Dec2024 23:24:16.842] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jeruuk lost connection: Disconnected
+[13Dec2024 23:24:16.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeruuk left the game
+[13Dec2024 23:27:04.411] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jeruuk[/100.92.187.4:50596] logged in with entity id 2096 at (-4.7173553019635435, 152.0, -38.70765447369592)
+[13Dec2024 23:27:04.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeruuk joined the game
+[13Dec2024 23:27:04.502] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to Jeruuk
+[13Dec2024 23:27:06.142] [Netty Epoll Server IO #0/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Jeruuk
+[13Dec2024 23:28:18.909] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-4, y=152, z=-41}
+[13Dec2024 23:31:01.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeruuk has made the advancement [Mother Nature's Bounty]
+[13Dec2024 23:31:01.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeruuk has made the advancement [Minty Fresh]
+[13Dec2024 23:33:32.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeruuk has made the advancement [Stone Age]
+[13Dec2024 23:35:22.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nach has made the advancement [Stone Age]
+[13Dec2024 23:35:39.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nach has made the advancement [Getting an Upgrade]
+[13Dec2024 23:36:23.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeruuk has made the advancement [Getting an Upgrade]

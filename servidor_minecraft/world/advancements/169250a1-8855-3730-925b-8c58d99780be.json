@@ -101,6 +101,12 @@
     },
     "done": true
   },
+  "botania:challenge/root": {
+    "criteria": {
+      "flower": "2024-12-13 23:14:11 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/traders/card_display/biomeswevegone/blue_enchanted/green": {
     "criteria": {
       "money": "2024-12-13 23:08:36 +0000"
@@ -110,6 +116,12 @@
   "lightmanscurrency:recipes/misc/traders/card_display/biomeswevegone/imbued_blue_enchanted/lime": {
     "criteria": {
       "money": "2024-12-13 23:08:36 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/blocks/healing_machine": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-13 23:16:38 +0000"
     },
     "done": true
   },
@@ -293,6 +305,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/dark_oak_window": {
+    "criteria": {
+      "has_ingredient": "2024-12-13 23:17:30 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:biomeswevegone/root": {
     "criteria": {
       "tick": "2024-12-13 23:08:33 +0000"
@@ -455,6 +473,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/iron_helmet": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-13 23:16:38 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/traders/card_display/birch/red": {
     "criteria": {
       "money": "2024-12-13 23:08:36 +0000"
@@ -611,6 +635,12 @@
     },
     "done": true
   },
+  "immersive_aircraft:misc/aircraftery": {
+    "criteria": {
+      "has_item": "2024-12-13 23:16:38 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/traders/freezer/brown": {
     "criteria": {
       "money": "2024-12-13 23:08:36 +0000"
@@ -707,6 +737,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-12-13 23:14:02 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/traders/vending_machine/dye_light_blue": {
     "criteria": {
       "money": "2024-12-13 23:08:36 +0000"
@@ -722,6 +758,18 @@
   "lightmanscurrency:recipes/misc/traders/card_display/biomeswevegone/willow/red": {
     "criteria": {
       "money": "2024-12-13 23:08:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/shears": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-13 23:16:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2024-12-13 23:17:30 +0000"
     },
     "done": true
   },
@@ -833,6 +881,13 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:spider": "2024-12-13 23:17:52 +0000",
+      "minecraft:zombie": "2024-12-13 23:20:27 +0000"
+    },
+    "done": false
+  },
   "lightmanscurrency:recipes/misc/traders/card_display/biomeswevegone/green_enchanted/blue": {
     "criteria": {
       "money": "2024-12-13 23:08:35 +0000"
@@ -887,6 +942,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/iron_block": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-13 23:16:38 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/traders/card_display/crimson/cyan": {
     "criteria": {
       "money": "2024-12-13 23:08:36 +0000"
@@ -902,6 +963,12 @@
   "lightmanscurrency:recipes/misc/traders/card_display/biomeswevegone/rainbow_eucalyptus/cyan": {
     "criteria": {
       "money": "2024-12-13 23:08:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2024-12-13 23:16:44 +0000"
     },
     "done": true
   },
@@ -932,6 +999,12 @@
   "lightmanscurrency:recipes/misc/traders/card_display/biomeswevegone/redwood/blue": {
     "criteria": {
       "money": "2024-12-13 23:08:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/cooking_pot": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-13 23:16:38 +0000"
     },
     "done": true
   },
@@ -1031,6 +1104,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/andesite_alloy": {
+    "criteria": {
+      "has_item": "2024-12-13 23:16:38 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/traders/bookshelf/biomeswevegone/palm": {
     "criteria": {
       "money": "2024-12-13 23:08:35 +0000"
@@ -1058,6 +1137,12 @@
   "lightmanscurrency:recipes/misc/traders/card_display/biomeswevegone/aspen/orange": {
     "criteria": {
       "money": "2024-12-13 23:08:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2024-12-13 23:16:44 +0000"
     },
     "done": true
   },
@@ -1160,6 +1245,12 @@
   "lightmanscurrency:recipes/misc/traders/card_display/warped/black": {
     "criteria": {
       "money": "2024-12-13 23:08:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-13 23:17:30 +0000"
     },
     "done": true
   },
@@ -1469,6 +1560,12 @@
     },
     "done": true
   },
+  "botania:recipes/tools/flower_bag": {
+    "criteria": {
+      "has_item": "2024-12-13 23:14:11 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/traders/card_display/biomeswevegone/sakura/red": {
     "criteria": {
       "money": "2024-12-13 23:08:36 +0000"
@@ -1487,6 +1584,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2024-12-13 23:17:30 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/coins/coinpile_chocolate_iron_from_coin": {
     "criteria": {
       "money": "2024-12-13 23:08:35 +0000"
@@ -1496,6 +1599,12 @@
   "lightmanscurrency:recipes/misc/auction_stand/biomeswevegone/palo_verde": {
     "criteria": {
       "money": "2024-12-13 23:08:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/hopper": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-13 23:16:38 +0000"
     },
     "done": true
   },
@@ -1655,6 +1764,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/iron_boots": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-13 23:16:38 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/coins/coin_chocolate_iron_from_pile": {
     "criteria": {
       "money": "2024-12-13 23:08:35 +0000"
@@ -1754,6 +1869,12 @@
   "lightmanscurrency:recipes/misc/traders/card_display/biomeswevegone/white_mangrove/light_gray": {
     "criteria": {
       "money": "2024-12-13 23:08:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lantern": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-13 23:16:38 +0000"
     },
     "done": true
   },
@@ -1901,6 +2022,12 @@
     },
     "done": true
   },
+  "botania:main/flower_pickup_lexicon": {
+    "criteria": {
+      "flower": "2024-12-13 23:14:11 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/traders/freezer/red": {
     "criteria": {
       "money": "2024-12-13 23:08:35 +0000"
@@ -1928,6 +2055,12 @@
   "lightmanscurrency:recipes/misc/traders/card_display/biomeswevegone/zelkova/orange": {
     "criteria": {
       "money": "2024-12-13 23:08:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_shovel": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-13 23:16:38 +0000"
     },
     "done": true
   },
@@ -2000,6 +2133,12 @@
   "lightmanscurrency:recipes/misc/wallet/upgrade_wallet_gold_to_wallet_diamond": {
     "criteria": {
       "coin": "2024-12-13 23:08:36 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/purple_shiny_flower": {
+    "criteria": {
+      "has_item": "2024-12-13 23:31:18 +0000"
     },
     "done": true
   },
@@ -2261,9 +2400,27 @@
     },
     "done": true
   },
+  "botania:recipes/misc/petal_purple": {
+    "criteria": {
+      "has_item": "2024-12-13 23:31:18 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/traders/card_display/biomeswevegone/sakura/gray": {
     "criteria": {
       "money": "2024-12-13 23:08:35 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/green_shiny_flower": {
+    "criteria": {
+      "has_item": "2024-12-13 23:14:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2024-12-13 23:16:42 +0000"
     },
     "done": true
   },
@@ -2306,6 +2463,18 @@
   "lightmanscurrency:recipes/misc/traders/shelf/biomeswevegone/skyris": {
     "criteria": {
       "money": "2024-12-13 23:08:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_trapdoor": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-13 23:16:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-12-13 23:17:52 +0000"
     },
     "done": true
   },
@@ -2435,6 +2604,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-13 23:16:38 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/traders/card_display/biomeswevegone/palo_verde/magenta": {
     "criteria": {
       "money": "2024-12-13 23:08:35 +0000"
@@ -2462,6 +2637,18 @@
   "lightmanscurrency:recipes/misc/traders/card_display/biomeswevegone/mahogany/light_blue": {
     "criteria": {
       "money": "2024-12-13 23:08:36 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/evolution/metal_coat": {
+    "criteria": {
+      "has_iron": "2024-12-13 23:16:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2024-12-13 23:17:30 +0000"
     },
     "done": true
   },
@@ -2556,6 +2743,12 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/brown_shiny_flower": {
+    "criteria": {
+      "has_item": "2024-12-13 23:30:59 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/traders/card_display/biomeswevegone/imbued_blue_enchanted/pink": {
     "criteria": {
       "money": "2024-12-13 23:08:36 +0000"
@@ -2622,6 +2815,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/combat/iron_knife": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-13 23:16:38 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/traders/card_display/biomeswevegone/skyris/pink": {
     "criteria": {
       "money": "2024-12-13 23:08:35 +0000"
@@ -2676,6 +2875,12 @@
     },
     "done": true
   },
+  "botania:recipes/misc/petal_green": {
+    "criteria": {
+      "has_item": "2024-12-13 23:14:11 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/traders/card_display/biomeswevegone/imbued_blue_enchanted/yellow": {
     "criteria": {
       "money": "2024-12-13 23:08:36 +0000"
@@ -2697,6 +2902,12 @@
   "lightmanscurrency:recipes/misc/wallet/upgrade_wallet_copper_to_wallet_diamond": {
     "criteria": {
       "coin": "2024-12-13 23:08:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2024-12-13 23:17:30 +0000"
     },
     "done": true
   },
@@ -2868,6 +3079,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-13 23:16:38 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/traders/card_display/biomeswevegone/cika/brown": {
     "criteria": {
       "money": "2024-12-13 23:08:36 +0000"
@@ -2907,6 +3124,12 @@
   "lightmanscurrency:recipes/misc/traders/card_display/biomeswevegone/witch_hazel/white": {
     "criteria": {
       "money": "2024-12-13 23:08:36 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dog_food": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-13 23:20:38 +0000"
     },
     "done": true
   },
@@ -2973,6 +3196,12 @@
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2024-12-13 23:11:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_leggings": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-13 23:16:38 +0000"
     },
     "done": true
   },
@@ -3060,6 +3289,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-13 23:17:30 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/traders/card_display/biomeswevegone/aspen/pink": {
     "criteria": {
       "money": "2024-12-13 23:08:35 +0000"
@@ -3144,6 +3379,12 @@
     },
     "done": true
   },
+  "botania:main/root": {
+    "criteria": {
+      "flower": "2024-12-13 23:14:11 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/traders/shelf2/jungle": {
     "criteria": {
       "money": "2024-12-13 23:08:36 +0000"
@@ -3165,6 +3406,18 @@
   "lightmanscurrency:recipes/misc/traders/shelf2/biomeswevegone/aspen": {
     "criteria": {
       "money": "2024-12-13 23:08:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_chestplate": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-13 23:16:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-13 23:17:30 +0000"
     },
     "done": true
   },
@@ -3294,6 +3547,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_nugget": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-13 23:16:38 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/traders/card_display/biomeswevegone/maple/white": {
     "criteria": {
       "money": "2024-12-13 23:08:35 +0000"
@@ -3348,6 +3607,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bucket": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-13 23:16:38 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/traders/card_display/spruce/pink": {
     "criteria": {
       "money": "2024-12-13 23:08:36 +0000"
@@ -3390,6 +3655,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2024-12-13 23:16:44 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/coins/coinpile_chocolate_netherite_from_coin": {
     "criteria": {
       "money": "2024-12-13 23:08:36 +0000"
@@ -3405,6 +3676,18 @@
   "lightmanscurrency:recipes/coin_mint/coin_mint/melt_coin_netherite": {
     "criteria": {
       "money": "2024-12-13 23:08:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/minecart": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-13 23:16:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_hoe": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-13 23:16:38 +0000"
     },
     "done": true
   },
@@ -3600,6 +3883,12 @@
     },
     "done": true
   },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2024-12-13 23:16:38 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/traders/card_display/biomeswevegone/white_mangrove/light_blue": {
     "criteria": {
       "money": "2024-12-13 23:08:36 +0000"
@@ -3609,6 +3898,12 @@
   "lightmanscurrency:recipes/misc/traders/card_display/spruce/green": {
     "criteria": {
       "money": "2024-12-13 23:08:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2024-12-13 23:16:44 +0000"
     },
     "done": true
   },
@@ -3648,9 +3943,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2024-12-13 23:17:30 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/traders/bookshelf/biomeswevegone/ironwood": {
     "criteria": {
       "money": "2024-12-13 23:08:35 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/coal_generator": {
+    "criteria": {
+      "has_coal_generator": "2024-12-13 23:16:38 +0000"
     },
     "done": true
   },
@@ -3669,6 +3976,12 @@
   "lightmanscurrency:recipes/misc/traders/card_display/biomeswevegone/aspen/light_gray": {
     "criteria": {
       "money": "2024-12-13 23:08:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2024-12-13 23:14:32 +0000"
     },
     "done": true
   },
@@ -3828,6 +4141,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/chain": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-13 23:16:38 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/traders/card_display/biomeswevegone/pine/brown": {
     "criteria": {
       "money": "2024-12-13 23:08:36 +0000"
@@ -3924,6 +4243,12 @@
     },
     "done": true
   },
+  "ad_astra:recipes/compressing/compressing/iron_plate_from_compressing_iron_ingot": {
+    "criteria": {
+      "has_item": "2024-12-13 23:16:38 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/traders/card_display/biomeswevegone/fir/cyan": {
     "criteria": {
       "money": "2024-12-13 23:08:36 +0000"
@@ -3933,6 +4258,12 @@
   "lightmanscurrency:recipes/misc/traders/card_display/crimson/light_blue": {
     "criteria": {
       "money": "2024-12-13 23:08:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smithing_table": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-13 23:16:38 +0000"
     },
     "done": true
   },
@@ -4050,6 +4381,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/empty_blaze_burner": {
+    "criteria": {
+      "has_item": "2024-12-13 23:16:38 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/traders/card_display/biomeswevegone/mahogany/lime": {
     "criteria": {
       "money": "2024-12-13 23:08:35 +0000"
@@ -4077,6 +4414,12 @@
   "lightmanscurrency:recipes/misc/traders/card_display/biomeswevegone/rainbow_eucalyptus/red": {
     "criteria": {
       "money": "2024-12-13 23:08:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-12-13 23:18:12 +0000"
     },
     "done": true
   },
@@ -4242,6 +4585,12 @@
     },
     "done": true
   },
+  "cobblemon:recipes/blocks/pc": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-13 23:16:38 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/traders/card_display/biomeswevegone/fir/blue": {
     "criteria": {
       "money": "2024-12-13 23:08:36 +0000"
@@ -4266,6 +4615,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-13 23:17:30 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/traders/card_display/biomeswevegone/jacaranda/black": {
     "criteria": {
       "money": "2024-12-13 23:08:35 +0000"
@@ -4287,6 +4642,12 @@
   "lightmanscurrency:recipes/misc/traders/shelf/biomeswevegone/cypress": {
     "criteria": {
       "money": "2024-12-13 23:08:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2024-12-13 23:17:30 +0000"
     },
     "done": true
   },
@@ -4326,6 +4687,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/iron_sword": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-13 23:16:38 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/traders/card_display/acacia/purple": {
     "criteria": {
       "money": "2024-12-13 23:08:36 +0000"
@@ -4356,9 +4723,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/iron_pickaxe": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-13 23:16:38 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/traders/freezer/cyan": {
     "criteria": {
       "money": "2024-12-13 23:08:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2024-12-13 23:17:30 +0000"
     },
     "done": true
   },
@@ -4464,6 +4843,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/shield": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-13 23:16:38 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/traders/large_vending_machine/dye_black": {
     "criteria": {
       "money": "2024-12-13 23:08:36 +0000"
@@ -4509,6 +4894,12 @@
   "lightmanscurrency:recipes/misc/traders/card_display/bamboo/green": {
     "criteria": {
       "money": "2024-12-13 23:08:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/iron_bars": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-13 23:16:38 +0000"
     },
     "done": true
   },
@@ -5280,9 +5671,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2024-12-13 23:16:44 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/traders/card_display/biomeswevegone/blue_enchanted/white": {
     "criteria": {
       "money": "2024-12-13 23:08:35 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_brown": {
+    "criteria": {
+      "has_item": "2024-12-13 23:30:59 +0000"
     },
     "done": true
   },
@@ -5325,6 +5728,12 @@
   "lightmanscurrency:recipes/decorations/coin_jar/sus_jar": {
     "criteria": {
       "money": "2024-12-13 23:08:36 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2024-12-13 23:20:38 +0000"
     },
     "done": true
   },
@@ -5376,6 +5785,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/iron_axe": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-13 23:16:38 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/traders/card_display/biomeswevegone/imbued_blue_enchanted/orange": {
     "criteria": {
       "money": "2024-12-13 23:08:36 +0000"
@@ -5412,6 +5827,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:spider": "2024-12-13 23:17:52 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/traders/card_display/biomeswevegone/holly/lime": {
     "criteria": {
       "money": "2024-12-13 23:08:35 +0000"
@@ -5434,6 +5855,12 @@
   "lightmanscurrency:recipes/misc/traders/card_display/biomeswevegone/witch_hazel/cyan": {
     "criteria": {
       "money": "2024-12-13 23:08:36 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-12-13 23:18:12 +0000"
     },
     "done": true
   },
@@ -5557,6 +5984,12 @@
     },
     "done": true
   },
+  "ad_astra:recipes/misc/compressor": {
+    "criteria": {
+      "has_compressor": "2024-12-13 23:16:38 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/cutting_board": {
     "criteria": {
       "has_stick": "2024-12-13 23:10:27 +0000"
@@ -5586,6 +6019,12 @@
       "money": "2024-12-13 23:08:35 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "apple": "2024-12-13 23:18:12 +0000"
+    },
+    "done": false
   },
   "lightmanscurrency:recipes/misc/traders/card_display/biomeswevegone/sakura/light_gray": {
     "criteria": {
@@ -5689,6 +6128,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2024-12-13 23:16:44 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/traders/card_display/biomeswevegone/palm/green": {
     "criteria": {
       "money": "2024-12-13 23:08:35 +0000"
@@ -5710,6 +6155,12 @@
   "lightmanscurrency:recipes/misc/traders/card_display/bamboo/magenta": {
     "criteria": {
       "money": "2024-12-13 23:08:35 +0000"
+    },
+    "done": true
+  },
+  "botania:main/flower_pickup": {
+    "criteria": {
+      "flower": "2024-12-13 23:14:11 +0000"
     },
     "done": true
   },
@@ -5749,6 +6200,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/industrial_iron_block_from_ingots_iron_stonecutting": {
+    "criteria": {
+      "has_ingots_iron": "2024-12-13 23:16:38 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/traders/card_display/birch/purple": {
     "criteria": {
       "money": "2024-12-13 23:08:35 +0000"
@@ -5764,6 +6221,12 @@
   "lightmanscurrency:recipes/misc/traders/card_display/biomeswevegone/cika/red": {
     "criteria": {
       "money": "2024-12-13 23:08:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_door": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-13 23:16:38 +0000"
     },
     "done": true
   },

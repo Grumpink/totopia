@@ -1,13 +1,23 @@
 {
   "uuid": "fd304688-7d28-349e-8539-553f0a94a5ca",
-  "starterPrompted": false,
+  "starterPrompted": true,
   "starterLocked": false,
-  "starterSelected": false,
+  "starterSelected": true,
+  "starterUUID": "72731de3-6e58-408a-be8d-09c046e43cdf",
   "keyItems": [],
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {
     "cobbledex_discovery": {
-      "registers": {},
+      "registers": {
+        "treecko": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1734131917965,
+            "caughtTimestamp": 1734131917965
+          }
+        }
+      },
       "name": "cobbledex_discovery"
     },
     "Cobbledex_RewardHistory": {
