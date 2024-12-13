@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "ff9db988-fa98-3a68-bad5-d16836d50417",
+    "name": "God",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
