@@ -8486,3 +8486,94 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [14Dec2024 23:03:49.977] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
 [14Dec2024 23:03:49.977] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
 [14Dec2024 23:03:49.977] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[14Dec2024 23:04:03.999] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 25
+[14Dec2024 23:04:03.999] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {net.minecraft.world.level.block.entity.BarrelBlockEntity@5b70e726=InventoryMapping{i=net.minecraft.world.level.block.entity.BarrelBlockEntity@5b70e726, c=net.minecraft.world.inventory.ChestMenu@4cff9d88, b=0, e=26}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@4cff9d88, b=27, e=53}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@4cff9d88, b=54, e=62}}
+[14Dec2024 23:04:03.999] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.level.block.entity.BarrelBlockEntity@5b70e726, c=net.minecraft.world.inventory.ChestMenu@4cff9d88, b=0, e=26}
+[14Dec2024 23:04:14.009] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 58
+[14Dec2024 23:04:14.009] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.p3pp3rf1y.sophisticatedbackpacks.common.gui.BackpackContainer@54e4c552, b=0, e=44}, []=InventoryMapping{i=[], c=net.p3pp3rf1y.sophisticatedbackpacks.common.gui.BackpackContainer@54e4c552, b=45, e=71}, []=InventoryMapping{i=[], c=net.p3pp3rf1y.sophisticatedbackpacks.common.gui.BackpackContainer@54e4c552, b=72, e=80}}
+[14Dec2024 23:04:14.009] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=[], c=net.p3pp3rf1y.sophisticatedbackpacks.common.gui.BackpackContainer@54e4c552, b=45, e=71}
+[14Dec2024 23:04:20.027] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[14Dec2024 23:04:20.027] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[14Dec2024 23:04:20.027] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[14Dec2024 23:04:33.979] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 5
+[14Dec2024 23:04:33.979] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@c8a7ce1, b=27, e=53}, net.minecraft.world.level.block.entity.BarrelBlockEntity@5a3d2ed5=InventoryMapping{i=net.minecraft.world.level.block.entity.BarrelBlockEntity@5a3d2ed5, c=net.minecraft.world.inventory.ChestMenu@c8a7ce1, b=0, e=26}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@c8a7ce1, b=54, e=62}}
+[14Dec2024 23:04:33.979] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.level.block.entity.BarrelBlockEntity@5a3d2ed5, c=net.minecraft.world.inventory.ChestMenu@c8a7ce1, b=0, e=26}
+[14Dec2024 23:04:46.110] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Dec2024 23:04:46.145] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Dec2024 23:04:50.077] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[14Dec2024 23:04:50.077] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[14Dec2024 23:04:50.077] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[14Dec2024 23:05:20.127] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[14Dec2024 23:05:20.127] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[14Dec2024 23:05:20.127] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[14Dec2024 23:05:45.269] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 13
+[14Dec2024 23:05:45.270] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@72aeaf98, b=27, e=53}, net.minecraft.world.level.block.entity.BarrelBlockEntity@18bfce15=InventoryMapping{i=net.minecraft.world.level.block.entity.BarrelBlockEntity@18bfce15, c=net.minecraft.world.inventory.ChestMenu@72aeaf98, b=0, e=26}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@72aeaf98, b=54, e=62}}
+[14Dec2024 23:05:45.270] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.level.block.entity.BarrelBlockEntity@18bfce15, c=net.minecraft.world.inventory.ChestMenu@72aeaf98, b=0, e=26}
+[14Dec2024 23:05:50.177] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[14Dec2024 23:05:50.177] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[14Dec2024 23:05:50.177] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[14Dec2024 23:05:57.951] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 66
+[14Dec2024 23:05:57.952] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.p3pp3rf1y.sophisticatedbackpacks.common.gui.BackpackContainer@721d26d6, b=0, e=44}, []=InventoryMapping{i=[], c=net.p3pp3rf1y.sophisticatedbackpacks.common.gui.BackpackContainer@721d26d6, b=45, e=71}, []=InventoryMapping{i=[], c=net.p3pp3rf1y.sophisticatedbackpacks.common.gui.BackpackContainer@721d26d6, b=72, e=80}}
+[14Dec2024 23:05:57.952] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=[], c=net.p3pp3rf1y.sophisticatedbackpacks.common.gui.BackpackContainer@721d26d6, b=45, e=71}
+[14Dec2024 23:06:20.227] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[14Dec2024 23:06:20.227] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[14Dec2024 23:06:20.227] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[14Dec2024 23:06:33.079] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Pillager did not drop coins, as it was spawned by a spawner.
+[14Dec2024 23:06:40.806] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Pillager did not drop coins, as it was spawned by a spawner.
+[14Dec2024 23:06:45.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nach was shot by Pillager
+[14Dec2024 23:06:47.279] [Server thread/DEBUG] [Radiant Gear/]: Built new CuriosLightSourceContainer for player ServerPlayer['Nach'/169, l='ServerLevel[world]', x=-442.50, y=63.00, z=-272.50]
+[14Dec2024 23:06:50.277] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[14Dec2024 23:06:50.277] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[14Dec2024 23:06:50.277] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[14Dec2024 23:07:20.327] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[14Dec2024 23:07:20.327] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[14Dec2024 23:07:20.327] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[14Dec2024 23:07:30.378] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Pillager did not drop coins, as it was spawned by a spawner.
+[14Dec2024 23:07:42.479] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Pillager did not drop coins, as it was spawned by a spawner.
+[14Dec2024 23:07:50.377] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[14Dec2024 23:07:50.377] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[14Dec2024 23:07:50.377] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[14Dec2024 23:07:54.329] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Pillager did not drop coins, as it was spawned by a spawner.
+[14Dec2024 23:08:20.427] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[14Dec2024 23:08:20.427] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[14Dec2024 23:08:20.427] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[14Dec2024 23:08:40.629] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Pillager did not drop coins, as it was spawned by a spawner.
+[14Dec2024 23:08:50.477] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[14Dec2024 23:08:50.477] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[14Dec2024 23:08:50.477] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[14Dec2024 23:09:20.527] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[14Dec2024 23:09:20.527] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[14Dec2024 23:09:20.527] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[14Dec2024 23:09:28.990] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 21
+[14Dec2024 23:09:28.990] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@597a6d97, b=27, e=53}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@597a6d97, b=54, e=62}, net.minecraft.world.level.block.entity.BarrelBlockEntity@664bd774=InventoryMapping{i=net.minecraft.world.level.block.entity.BarrelBlockEntity@664bd774, c=net.minecraft.world.inventory.ChestMenu@597a6d97, b=0, e=26}}
+[14Dec2024 23:09:28.990] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.level.block.entity.BarrelBlockEntity@664bd774, c=net.minecraft.world.inventory.ChestMenu@597a6d97, b=0, e=26}
+[14Dec2024 23:09:46.110] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Dec2024 23:09:46.149] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Dec2024 23:09:50.577] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[14Dec2024 23:09:50.577] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[14Dec2024 23:09:50.577] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[14Dec2024 23:10:20.627] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[14Dec2024 23:10:20.627] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[14Dec2024 23:10:20.627] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[14Dec2024 23:10:50.677] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[14Dec2024 23:10:50.677] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[14Dec2024 23:10:50.677] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[14Dec2024 23:11:05.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nach has made the advancement [Sweet Dreams]
+[14Dec2024 23:11:20.727] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[14Dec2024 23:11:20.727] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[14Dec2024 23:11:20.728] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[14Dec2024 23:11:50.777] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[14Dec2024 23:11:50.777] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[14Dec2024 23:11:50.777] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[14Dec2024 23:12:20.827] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[14Dec2024 23:12:20.827] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[14Dec2024 23:12:20.827] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[14Dec2024 23:12:50.877] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[14Dec2024 23:12:50.877] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[14Dec2024 23:12:50.877] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[14Dec2024 23:13:20.927] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[14Dec2024 23:13:20.927] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[14Dec2024 23:13:20.927] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[14Dec2024 23:13:50.977] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[14Dec2024 23:13:50.977] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[14Dec2024 23:13:50.977] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
