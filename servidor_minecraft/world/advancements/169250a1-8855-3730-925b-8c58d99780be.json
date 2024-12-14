@@ -6285,6 +6285,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2024-12-14 22:50:30 +0000",
+      "minecraft:skeleton": "2024-12-14 23:14:05 +0000",
       "minecraft:vindicator": "2024-12-14 00:15:11 +0000",
       "minecraft:spider": "2024-12-13 23:17:52 +0000",
       "minecraft:cave_spider": "2024-12-14 00:27:10 +0000",
@@ -7158,7 +7159,9 @@
   },
   "cobblemon:obtain_all_berries": {
     "criteria": {
-      "obtain_chesto_berry": "2024-12-13 23:53:03 +0000"
+      "obtain_chesto_berry": "2024-12-13 23:53:03 +0000",
+      "obtain_persim_berry": "2024-12-14 23:16:20 +0000",
+      "obtain_oran_berry": "2024-12-14 23:13:26 +0000"
     },
     "done": false
   },
@@ -7261,9 +7264,11 @@
   },
   "cobblemon:recipes/balls/lure_ball": {
     "criteria": {
-      "has_green_apricorn": "2024-12-14 00:26:56 +0000"
+      "has_blue_apricorn": "2024-12-14 23:15:53 +0000",
+      "has_green_apricorn": "2024-12-14 00:26:56 +0000",
+      "has_red_apricorn": "2024-12-14 23:16:39 +0000"
     },
-    "done": false
+    "done": true
   },
   "cobblepedia:recipes/cobblepedia": {
     "criteria": {
@@ -7291,15 +7296,17 @@
   },
   "cobblemon:recipes/balls/friend_ball": {
     "criteria": {
-      "has_green_apricorn": "2024-12-14 00:26:56 +0000"
+      "has_green_apricorn": "2024-12-14 00:26:56 +0000",
+      "has_red_apricorn": "2024-12-14 23:16:39 +0000"
     },
     "done": false
   },
   "cobblemon:recipes/balls/park_ball": {
     "criteria": {
-      "has_green_apricorn": "2024-12-14 00:26:56 +0000"
+      "has_green_apricorn": "2024-12-14 00:26:56 +0000",
+      "has_red_apricorn": "2024-12-14 23:16:39 +0000"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:recipes/balls/verdant_ball": {
     "criteria": {
@@ -7343,6 +7350,12 @@
     },
     "done": true
   },
+  "cobblemon:recipes/balls/dive_ball": {
+    "criteria": {
+      "has_blue_apricorn": "2024-12-14 23:15:53 +0000"
+    },
+    "done": false
+  },
   "create:recipes/misc/crafting/appliances/copper_backtank": {
     "criteria": {
       "has_item": "2024-12-14 22:56:54 +0000"
@@ -7351,9 +7364,11 @@
   },
   "cobblemon:recipes/balls/dream_ball": {
     "criteria": {
+      "has_blue_apricorn": "2024-12-14 23:15:53 +0000",
+      "has_red_apricorn": "2024-12-14 23:16:39 +0000",
       "has_pink_apricorn": "2024-12-14 22:39:12 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
@@ -7376,6 +7391,18 @@
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2024-12-14 22:47:08 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/heavy_ball": {
+    "criteria": {
+      "has_blue_apricorn": "2024-12-14 23:15:53 +0000"
+    },
+    "done": false
+  },
+  "lightmanscurrency:recipes/ticket_machine/ticket_station/golden_ticket_pass": {
+    "criteria": {
+      "ticket_material": "2024-12-14 23:12:06 +0000"
     },
     "done": true
   },
@@ -7435,6 +7462,7 @@
   },
   "cobblemon:recipes/balls/level_ball": {
     "criteria": {
+      "has_red_apricorn": "2024-12-14 23:16:39 +0000",
       "has_pink_apricorn": "2024-12-14 22:39:12 +0000"
     },
     "done": false
@@ -7448,6 +7476,12 @@
   "botania:recipes/redstone/red_string_container": {
     "criteria": {
       "has_base_block": "2024-12-14 22:34:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-14 23:11:05 +0000"
     },
     "done": true
   },
@@ -7511,6 +7545,18 @@
     },
     "done": true
   },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "sugar_cane": "2024-12-14 23:11:55 +0000"
+    },
+    "done": false
+  },
+  "lightmanscurrency:recipes/ticket_machine/ticket_station/ticket_pass": {
+    "criteria": {
+      "ticket_material": "2024-12-14 23:12:06 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/fluid_pipe_vertical": {
     "criteria": {
       "has_item": "2024-12-14 22:56:54 +0000"
@@ -7526,6 +7572,12 @@
   "minecraft:recipes/building_blocks/copper_block": {
     "criteria": {
       "has_copper_ingot": "2024-12-14 22:56:54 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/ticket_machine/ticket_station/master_ticket": {
+    "criteria": {
+      "ticket_material": "2024-12-14 23:12:06 +0000"
     },
     "done": true
   },
@@ -7583,6 +7635,12 @@
     },
     "done": true
   },
+  "lightmanscurrency:recipes/ticket_machine/ticket_station/golden_master_ticket": {
+    "criteria": {
+      "ticket_material": "2024-12-14 23:12:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2024-12-14 22:33:44 +0000"
@@ -7601,9 +7659,21 @@
     },
     "done": true
   },
+  "cobblemon:recipes/balls/quick_ball": {
+    "criteria": {
+      "has_blue_apricorn": "2024-12-14 23:15:53 +0000"
+    },
+    "done": false
+  },
   "create:recipes/misc/crafting/kinetics/copper_valve_handle": {
     "criteria": {
       "has_item": "2024-12-14 22:56:54 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/azure_ball": {
+    "criteria": {
+      "has_blue_apricorn": "2024-12-14 23:15:53 +0000"
     },
     "done": true
   },
@@ -7703,6 +7773,12 @@
     },
     "done": true
   },
+  "cobblemon:recipes/balls/poke_ball": {
+    "criteria": {
+      "has_red_apricorn": "2024-12-14 23:16:39 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/petal_black": {
     "criteria": {
       "has_item": "2024-12-14 22:40:05 +0000"
@@ -7745,9 +7821,27 @@
     },
     "done": false
   },
+  "cobblemon:recipes/agriculture/blue_apricorn_smelt_to_dye": {
+    "criteria": {
+      "has_apricorn": "2024-12-14 23:15:53 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/cyan_shiny_flower": {
+    "criteria": {
+      "has_item": "2024-12-14 23:18:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2024-12-14 22:52:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2024-12-14 23:12:06 +0000"
     },
     "done": true
   },
@@ -7756,6 +7850,12 @@
       "has_wool": "2024-12-14 22:44:39 +0000"
     },
     "done": true
+  },
+  "cobblemon:recipes/balls/repeat_ball": {
+    "criteria": {
+      "has_red_apricorn": "2024-12-14 23:16:39 +0000"
+    },
+    "done": false
   },
   "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
     "criteria": {
@@ -7780,6 +7880,12 @@
       "has_item": "2024-12-14 22:44:59 +0000"
     },
     "done": true
+  },
+  "cobblemon:recipes/balls/moon_ball": {
+    "criteria": {
+      "has_blue_apricorn": "2024-12-14 23:15:53 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
@@ -7823,6 +7929,18 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/schematics/schematic_and_quill": {
+    "criteria": {
+      "has_item": "2024-12-14 23:12:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/empty_schematic": {
+    "criteria": {
+      "has_item": "2024-12-14 23:12:06 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/copper_shingles_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2024-12-14 22:56:54 +0000"
@@ -7832,6 +7950,12 @@
   "create:recipes/misc/crafting/kinetics/fluid_pipe": {
     "criteria": {
       "has_item": "2024-12-14 22:56:54 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_cyan": {
+    "criteria": {
+      "has_item": "2024-12-14 23:18:18 +0000"
     },
     "done": true
   },
@@ -7871,6 +7995,12 @@
     },
     "done": true
   },
+  "cobblemon:recipes/held/weakness_policy": {
+    "criteria": {
+      "has_paper": "2024-12-14 23:12:06 +0000"
+    },
+    "done": true
+  },
   "cobblemon:recipes/held/mystic_water": {
     "criteria": {
       "has_water": "2024-12-14 22:46:38 +0000"
@@ -7880,6 +8010,30 @@
   "botania:recipes/misc/petal_red": {
     "criteria": {
       "has_item": "2024-12-14 22:43:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2024-12-14 23:11:31 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/agriculture/red_apricorn_smelt_to_dye": {
+    "criteria": {
+      "has_apricorn": "2024-12-14 23:16:39 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/fast_ball": {
+    "criteria": {
+      "has_red_apricorn": "2024-12-14 23:16:39 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/misc/crafting/materials/sand_paper": {
+    "criteria": {
+      "has_item": "2024-12-14 23:12:06 +0000"
     },
     "done": true
   },
@@ -7913,15 +8067,33 @@
     },
     "done": true
   },
+  "lightmanscurrency:recipes/ticket_machine/ticket_station/golden_ticket": {
+    "criteria": {
+      "ticket_material": "2024-12-14 23:12:06 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/fluid_valve": {
     "criteria": {
       "has_item": "2024-12-14 22:56:54 +0000"
     },
     "done": true
   },
+  "cobblemon:recipes/held/red_card": {
+    "criteria": {
+      "has_paper": "2024-12-14 23:12:06 +0000"
+    },
+    "done": true
+  },
   "create:recipes/decorations/copper_ladder_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2024-12-14 22:56:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/red_sand_paper": {
+    "criteria": {
+      "has_item": "2024-12-14 23:12:06 +0000"
     },
     "done": true
   },
@@ -7961,9 +8133,22 @@
     },
     "done": true
   },
+  "cobblemon:recipes/balls/great_ball": {
+    "criteria": {
+      "has_blue_apricorn": "2024-12-14 23:15:53 +0000",
+      "has_red_apricorn": "2024-12-14 23:16:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/purple_dye": {
     "criteria": {
       "has_red_dye": "2024-12-14 22:56:06 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/spell_tag": {
+    "criteria": {
+      "has_item": "2024-12-14 23:12:06 +0000"
     },
     "done": true
   },
@@ -7991,11 +8176,23 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2024-12-14 23:11:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2024-12-14 22:44:39 +0000"
     },
     "done": true
+  },
+  "cobblemon:recipes/balls/net_ball": {
+    "criteria": {
+      "has_blue_apricorn": "2024-12-14 23:15:53 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/red_candle": {
     "criteria": {
@@ -8027,6 +8224,12 @@
     },
     "done": true
   },
+  "lightmanscurrency:recipes/ticket_machine/ticket_station/ticket": {
+    "criteria": {
+      "ticket_material": "2024-12-14 23:12:06 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/misc/yellow_dye_from_bwg_tag": {
     "criteria": {
       "TagKey[minecraft:item / biomeswevegone:dye/makes_yellow_dye]": "2024-12-14 22:45:28 +0000"
@@ -8051,6 +8254,12 @@
     },
     "done": true
   },
+  "cobblemon:recipes/balls/luxury_ball": {
+    "criteria": {
+      "has_red_apricorn": "2024-12-14 23:16:39 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
     "criteria": {
       "has_red_dye": "2024-12-14 22:56:06 +0000"
@@ -8060,6 +8269,24 @@
   "cobblemon:recipes/evolution/sachet": {
     "criteria": {
       "has_allium": "2024-12-14 22:48:29 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/sport_ball": {
+    "criteria": {
+      "has_red_apricorn": "2024-12-14 23:16:39 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2024-12-14 23:12:06 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2024-12-14 23:10:32 +0000"
     },
     "done": true
   },
@@ -8074,6 +8301,12 @@
       "has_item": "2024-12-14 22:43:18 +0000"
     },
     "done": true
+  },
+  "cobblemon:recipes/balls/timer_ball": {
+    "criteria": {
+      "has_red_apricorn": "2024-12-14 23:16:39 +0000"
+    },
+    "done": false
   },
   "create:recipes/misc/crafting/materials/zinc_nugget_from_decompacting": {
     "criteria": {
@@ -8102,6 +8335,12 @@
   "farmersdelight:recipes/cooking/vegetable_soup": {
     "criteria": {
       "has_any_ingredient": "2024-12-14 22:47:41 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/blunder_policy": {
+    "criteria": {
+      "has_paper": "2024-12-14 23:12:06 +0000"
     },
     "done": true
   },
