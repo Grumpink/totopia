@@ -6284,6 +6284,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2024-12-14 22:50:30 +0000",
       "minecraft:vindicator": "2024-12-14 00:15:11 +0000",
       "minecraft:spider": "2024-12-13 23:17:52 +0000",
       "minecraft:cave_spider": "2024-12-14 00:27:10 +0000",
@@ -7324,6 +7325,24 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/rose_quartz_lamp": {
+    "criteria": {
+      "has_item": "2024-12-14 22:55:23 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/steam_whistle": {
+    "criteria": {
+      "has_item": "2024-12-14 22:56:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/copper_backtank": {
+    "criteria": {
+      "has_item": "2024-12-14 22:56:54 +0000"
+    },
+    "done": true
+  },
   "cobblemon:recipes/balls/dream_ball": {
     "criteria": {
       "has_pink_apricorn": "2024-12-14 22:39:12 +0000"
@@ -7342,6 +7361,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/misc/red_dye_from_bwg_tag": {
+    "criteria": {
+      "TagKey[minecraft:item / biomeswevegone:dye/makes_red_dye]": "2024-12-14 22:56:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2024-12-14 22:47:08 +0000"
@@ -7351,6 +7376,12 @@
   "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
     "criteria": {
       "has_sentry_armor_trim_smithing_template": "2024-12-14 22:47:38 +0000"
+    },
+    "done": true
+  },
+  "create:copper": {
+    "criteria": {
+      "0": "2024-12-14 22:56:54 +0000"
     },
     "done": true
   },
@@ -7378,6 +7409,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_red_dye": "2024-12-14 22:56:06 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/magenta_seat": {
     "criteria": {
       "has_wool": "2024-12-14 22:44:39 +0000"
@@ -7396,6 +7433,12 @@
     },
     "done": false
   },
+  "create:recipes/misc/crafting/kinetics/steam_engine": {
+    "criteria": {
+      "has_item": "2024-12-14 22:56:54 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/redstone/red_string_container": {
     "criteria": {
       "has_base_block": "2024-12-14 22:34:35 +0000"
@@ -7408,15 +7451,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-14 22:56:54 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/light_blue_seat": {
     "criteria": {
       "has_wool": "2024-12-14 22:44:39 +0000"
     },
     "done": true
   },
+  "create:recipes/misc/smelting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2024-12-14 22:52:54 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/red_industrial_lamp": {
+    "criteria": {
+      "has_red_industrial_lamp": "2024-12-14 22:56:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copper_tiles_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2024-12-14 22:56:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2024-12-14 22:33:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/copper_diving_helmet": {
+    "criteria": {
+      "has_item": "2024-12-14 22:56:54 +0000"
     },
     "done": true
   },
@@ -7429,6 +7502,24 @@
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2024-12-14 22:47:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_pipe_vertical": {
+    "criteria": {
+      "has_item": "2024-12-14 22:56:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_pump": {
+    "criteria": {
+      "has_item": "2024-12-14 22:56:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-14 22:56:54 +0000"
     },
     "done": true
   },
@@ -7447,6 +7538,36 @@
   "minecraft:recipes/building_blocks/raw_copper_block": {
     "criteria": {
       "has_raw_copper": "2024-12-14 22:42:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-12-14 22:56:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-14 22:56:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/copper_diving_boots": {
+    "criteria": {
+      "has_item": "2024-12-14 22:56:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-12-14 22:56:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_red_dye": "2024-12-14 22:56:06 +0000"
     },
     "done": true
   },
@@ -7474,9 +7595,33 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/copper_valve_handle": {
+    "criteria": {
+      "has_item": "2024-12-14 22:56:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copycat_panel_from_ingots_zinc_stonecutting": {
+    "criteria": {
+      "has_ingots_zinc": "2024-12-14 22:55:23 +0000"
+    },
+    "done": true
+  },
   "cobblemon:recipes/held/silk_scarf": {
     "criteria": {
       "has_wool": "2024-12-14 22:44:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/smart_fluid_pipe": {
+    "criteria": {
+      "has_item": "2024-12-14 22:56:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_red_dye": "2024-12-14 22:56:06 +0000"
     },
     "done": true
   },
@@ -7510,6 +7655,18 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/copper_valve_handle_from_others": {
+    "criteria": {
+      "has_item": "2024-12-14 22:56:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_rose_red": "2024-12-14 22:56:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2024-12-14 22:47:08 +0000"
@@ -7521,6 +7678,18 @@
       "has_diamond": "2024-12-14 22:47:08 +0000"
     },
     "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2024-12-14 22:57:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/copper_bars_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2024-12-14 22:56:54 +0000"
+    },
+    "done": true
   },
   "botania:recipes/misc/petal_black": {
     "criteria": {
@@ -7558,15 +7727,33 @@
     },
     "done": false
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-12-14 22:52:41 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/brown_seat": {
     "criteria": {
       "has_wool": "2024-12-14 22:44:39 +0000"
     },
     "done": true
   },
+  "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2024-12-14 22:52:54 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/gray_seat": {
     "criteria": {
       "has_wool": "2024-12-14 22:44:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/copper_nugget": {
+    "criteria": {
+      "has_item": "2024-12-14 22:56:54 +0000"
     },
     "done": true
   },
@@ -7612,9 +7799,33 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/copper_shingles_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2024-12-14 22:56:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_pipe": {
+    "criteria": {
+      "has_item": "2024-12-14 22:56:54 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/barbecue_stick": {
     "criteria": {
       "has_onion": "2024-12-14 22:47:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-12-14 22:56:06 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/small_red_industrial_lamp": {
+    "criteria": {
+      "has_small_red_industrial_lamp": "2024-12-14 22:56:06 +0000"
     },
     "done": true
   },
@@ -7648,15 +7859,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/rose_petal_block": {
+    "criteria": {
+      "has_rose": "2024-12-14 22:56:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_allium": {
     "criteria": {
       "has_allium": "2024-12-14 22:48:29 +0000"
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/zinc_block_from_compacting": {
+    "criteria": {
+      "has_item": "2024-12-14 22:55:23 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/cell_battery": {
+    "criteria": {
+      "has_copper": "2024-12-14 22:56:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2024-12-14 22:47:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_valve": {
+    "criteria": {
+      "has_item": "2024-12-14 22:56:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/copper_ladder_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2024-12-14 22:56:54 +0000"
     },
     "done": true
   },
@@ -7669,6 +7910,12 @@
   "create:recipes/building_blocks/crafting/kinetics/pink_seat": {
     "criteria": {
       "has_wool": "2024-12-14 22:44:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copycat_step_from_ingots_zinc_stonecutting": {
+    "criteria": {
+      "has_ingots_zinc": "2024-12-14 22:55:23 +0000"
     },
     "done": true
   },
@@ -7690,15 +7937,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_red_dye": "2024-12-14 22:56:06 +0000"
+    },
+    "done": true
+  },
   "cobblemon:recipes/held/heat_rock": {
     "criteria": {
       "has_stone": "2024-12-14 22:46:38 +0000"
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/andesite_alloy_from_zinc": {
+    "criteria": {
+      "has_item": "2024-12-14 22:55:23 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/copper_scaffolding_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2024-12-14 22:56:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2024-12-14 22:44:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_candle": {
+    "criteria": {
+      "has_red_dye": "2024-12-14 22:56:06 +0000"
     },
     "done": true
   },
@@ -7726,6 +7997,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/hose_pulley": {
+    "criteria": {
+      "has_item": "2024-12-14 22:56:54 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/white_seat": {
     "criteria": {
       "has_wool": "2024-12-14 22:44:39 +0000"
@@ -7735,6 +8012,12 @@
   "farmersdelight:recipes/cooking/ratatouille": {
     "criteria": {
       "has_any_ingredient": "2024-12-14 22:47:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_red_dye": "2024-12-14 22:56:06 +0000"
     },
     "done": true
   },
@@ -7753,6 +8036,18 @@
   "botania:recipes/decorations/red_shiny_flower": {
     "criteria": {
       "has_item": "2024-12-14 22:43:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/zinc_nugget_from_decompacting": {
+    "criteria": {
+      "has_item": "2024-12-14 22:55:23 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/raw_zinc_block": {
+    "criteria": {
+      "has_item": "2024-12-14 22:52:54 +0000"
     },
     "done": true
   },
