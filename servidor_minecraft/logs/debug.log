@@ -8328,3 +8328,84 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [14Dec2024 22:43:17.927] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
 [14Dec2024 22:43:17.927] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
 [14Dec2024 22:43:17.927] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[14Dec2024 22:43:47.977] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[14Dec2024 22:43:47.977] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[14Dec2024 22:43:47.977] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[14Dec2024 22:44:18.027] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[14Dec2024 22:44:18.027] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[14Dec2024 22:44:18.027] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[14Dec2024 22:44:46.118] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Dec2024 22:44:46.158] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Dec2024 22:44:48.077] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[14Dec2024 22:44:48.077] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[14Dec2024 22:44:48.077] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[14Dec2024 22:45:18.128] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[14Dec2024 22:45:18.128] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[14Dec2024 22:45:18.129] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[14Dec2024 22:45:48.177] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[14Dec2024 22:45:48.177] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[14Dec2024 22:45:48.177] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[14Dec2024 22:46:18.227] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[14Dec2024 22:46:18.227] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[14Dec2024 22:46:18.227] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[14Dec2024 22:46:48.277] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[14Dec2024 22:46:48.277] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[14Dec2024 22:46:48.277] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[14Dec2024 22:47:03.409] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[14Dec2024 22:47:03.413] [Server thread/DEBUG] [mixin/]: Mixing PiglinBarterMixin from mixins.cobblemon-common.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[14Dec2024 22:47:08.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nach has made the advancement [Diamonds!]
+[14Dec2024 22:47:18.327] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[14Dec2024 22:47:18.327] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[14Dec2024 22:47:18.327] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[14Dec2024 22:47:28.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nach was shot by Pillager
+[14Dec2024 22:47:29.687] [Server thread/DEBUG] [Radiant Gear/]: Built new CuriosLightSourceContainer for player ServerPlayer['Nach'/169, l='ServerLevel[world]', x=-442.50, y=63.00, z=-272.50]
+[14Dec2024 22:47:41.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nach has made the advancement [Crops of the Wild]
+[14Dec2024 22:47:48.377] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[14Dec2024 22:47:48.377] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[14Dec2024 22:47:48.377] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[14Dec2024 22:48:04.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nach was shot by Pillager
+[14Dec2024 22:48:06.690] [Server thread/DEBUG] [Radiant Gear/]: Built new CuriosLightSourceContainer for player ServerPlayer['Nach'/169, l='ServerLevel[world]', x=-442.50, y=63.00, z=-272.50]
+[14Dec2024 22:48:18.427] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[14Dec2024 22:48:18.427] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[14Dec2024 22:48:18.427] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[14Dec2024 22:48:47.173] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 32
+[14Dec2024 22:48:47.174] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.minecraft.world.inventory.InventoryMenu@66f4db24, b=9, e=35}, net.minecraft.world.inventory.TransientCraftingContainer@52b55d8c=InventoryMapping{i=net.minecraft.world.inventory.TransientCraftingContainer@52b55d8c, c=net.minecraft.world.inventory.InventoryMenu@66f4db24, b=1, e=4}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.InventoryMenu@66f4db24, b=45, e=45}, net.minecraft.world.inventory.ResultContainer@c9ad0a7=InventoryMapping{i=net.minecraft.world.inventory.ResultContainer@c9ad0a7, c=net.minecraft.world.inventory.InventoryMenu@66f4db24, b=0, e=0}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.InventoryMenu@66f4db24, b=36, e=44}}
+[14Dec2024 22:48:47.174] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=[], c=net.minecraft.world.inventory.InventoryMenu@66f4db24, b=9, e=35}
+[14Dec2024 22:48:48.477] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[14Dec2024 22:48:48.477] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[14Dec2024 22:48:48.477] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[14Dec2024 22:49:18.527] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[14Dec2024 22:49:18.527] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[14Dec2024 22:49:18.527] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[14Dec2024 22:49:46.117] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Dec2024 22:49:46.151] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Dec2024 22:49:48.577] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[14Dec2024 22:49:48.577] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[14Dec2024 22:49:48.577] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[14Dec2024 22:50:18.627] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[14Dec2024 22:50:18.627] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[14Dec2024 22:50:18.627] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[14Dec2024 22:50:31.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nach was shot by Pillager
+[14Dec2024 22:50:33.246] [Server thread/DEBUG] [Radiant Gear/]: Built new CuriosLightSourceContainer for player ServerPlayer['Nach'/169, l='ServerLevel[world]', x=-442.50, y=63.00, z=-272.50]
+[14Dec2024 22:50:48.677] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[14Dec2024 22:50:48.677] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[14Dec2024 22:50:48.677] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[14Dec2024 22:51:18.727] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[14Dec2024 22:51:18.727] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[14Dec2024 22:51:18.727] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[14Dec2024 22:51:23.880] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 35
+[14Dec2024 22:51:23.880] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=top.theillusivec4.curios.common.inventory.container.CuriosContainerV2@1faa9f76, b=46, e=55}, net.minecraft.world.inventory.ResultContainer@3d90f4b3=InventoryMapping{i=net.minecraft.world.inventory.ResultContainer@3d90f4b3, c=top.theillusivec4.curios.common.inventory.container.CuriosContainerV2@1faa9f76, b=0, e=0}, []=InventoryMapping{i=[], c=top.theillusivec4.curios.common.inventory.container.CuriosContainerV2@1faa9f76, b=9, e=35}, net.minecraft.world.inventory.TransientCraftingContainer@801238=InventoryMapping{i=net.minecraft.world.inventory.TransientCraftingContainer@801238, c=top.theillusivec4.curios.common.inventory.container.CuriosContainerV2@1faa9f76, b=1, e=4}, []=InventoryMapping{i=[], c=top.theillusivec4.curios.common.inventory.container.CuriosContainerV2@1faa9f76, b=45, e=45}, []=InventoryMapping{i=[], c=top.theillusivec4.curios.common.inventory.container.CuriosContainerV2@1faa9f76, b=36, e=44}}
+[14Dec2024 22:51:23.880] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=[], c=top.theillusivec4.curios.common.inventory.container.CuriosContainerV2@1faa9f76, b=9, e=35}
+[14Dec2024 22:51:48.777] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[14Dec2024 22:51:48.777] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[14Dec2024 22:51:48.777] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[14Dec2024 22:52:18.827] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[14Dec2024 22:52:18.827] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[14Dec2024 22:52:18.827] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[14Dec2024 22:52:41.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nach has made the advancement [Isn't It Iron Pick]
+[14Dec2024 22:52:48.877] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[14Dec2024 22:52:48.877] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[14Dec2024 22:52:48.877] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[14Dec2024 22:53:18.927] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[14Dec2024 22:53:18.927] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[14Dec2024 22:53:18.927] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
