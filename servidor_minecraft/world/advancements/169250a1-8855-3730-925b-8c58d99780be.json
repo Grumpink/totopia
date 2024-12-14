@@ -1032,6 +1032,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2024-12-14 00:01:16 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/traders/card_display/biomeswevegone/green_enchanted/blue": {
     "criteria": {
       "money": "2024-12-13 23:08:35 +0000"
@@ -2013,6 +2019,12 @@
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2024-12-13 23:16:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2024-12-14 00:01:16 +0000"
     },
     "done": true
   },
@@ -3718,6 +3730,12 @@
   "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
       "has_planks": "2024-12-13 23:17:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_sword": "2024-12-13 23:56:43 +0000"
     },
     "done": true
   },
@@ -6580,6 +6598,12 @@
   "lightmanscurrency:recipes/misc/traders/card_display/biomeswevegone/palo_verde/yellow": {
     "criteria": {
       "money": "2024-12-13 23:08:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_sword": "2024-12-13 23:56:43 +0000"
     },
     "done": true
   },
