@@ -6104,6 +6104,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2024-12-15 22:54:53 +0000",
       "minecraft:vindicator": "2024-12-14 00:14:23 +0000",
       "minecraft:spider": "2024-12-13 23:38:57 +0000",
       "minecraft:cave_spider": "2024-12-15 22:00:26 +0000",

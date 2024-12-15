@@ -8442,6 +8442,12 @@
     },
     "done": true
   },
+  "cobblemon:craft_base_balls": {
+    "criteria": {
+      "poke_ball": "2024-12-15 22:52:07 +0000"
+    },
+    "done": false
+  },
   "biomeswevegone:recipes/food/blueberry_pie": {
     "criteria": {
       "has_blueberries": "2024-12-15 22:06:50 +0000"
@@ -8508,6 +8514,12 @@
     },
     "done": true
   },
+  "cobblemon:craft_all_balls": {
+    "criteria": {
+      "poke_ball": "2024-12-15 22:52:07 +0000"
+    },
+    "done": false
+  },
   "biomeswevegone:recipes/decorations/foragers_table": {
     "criteria": {
       "has_mushrooms": "2024-12-15 22:38:02 +0000"
@@ -8523,6 +8535,12 @@
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2024-12-15 22:20:13 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:craft_poke_ball": {
+    "criteria": {
+      "requirement": "2024-12-15 22:52:07 +0000"
     },
     "done": true
   },

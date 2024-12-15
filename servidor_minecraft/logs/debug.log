@@ -9796,3 +9796,90 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [15Dec2024 22:49:59.907] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
 [15Dec2024 22:49:59.907] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
 [15Dec2024 22:49:59.908] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[15Dec2024 22:50:29.957] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[15Dec2024 22:50:29.957] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Dec2024 22:50:29.957] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[15Dec2024 22:51:00.007] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[15Dec2024 22:51:00.007] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Dec2024 22:51:00.008] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[15Dec2024 22:51:22.106] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Dec2024 22:51:22.138] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Dec2024 22:51:30.057] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[15Dec2024 22:51:30.058] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Dec2024 22:51:30.058] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[15Dec2024 22:52:00.107] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[15Dec2024 22:52:00.107] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Dec2024 22:52:00.107] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[15Dec2024 22:52:07.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nach has made the advancement [The First of Many]
+[15Dec2024 22:52:30.157] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[15Dec2024 22:52:30.157] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Dec2024 22:52:30.158] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[15Dec2024 22:53:00.207] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[15Dec2024 22:53:00.207] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Dec2024 22:53:00.207] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[15Dec2024 22:53:30.257] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[15Dec2024 22:53:30.257] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Dec2024 22:53:30.257] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[15Dec2024 22:53:43.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeruuk was shot by Skeleton
+[15Dec2024 22:53:43.172] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ServerPlayer['Jeruuk'/17353, l='ServerLevel[world]', x=-865.83, y=25.00, z=-78.70]
+[15Dec2024 22:53:44.718] [Server thread/DEBUG] [Radiant Gear/]: Built new CuriosLightSourceContainer for player ServerPlayer['Jeruuk'/17353, l='ServerLevel[world]', x=-9.50, y=149.00, z=-38.50]
+[15Dec2024 22:54:00.307] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[15Dec2024 22:54:00.307] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Dec2024 22:54:00.308] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[15Dec2024 22:54:19.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nach: Teleported Jeruuk to -862.500000, 20.000000, -68.500000]
+[15Dec2024 22:54:30.357] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[15Dec2024 22:54:30.357] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Dec2024 22:54:30.358] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[15Dec2024 22:54:40.433] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jeruuk'/17353, l='ServerLevel[world]', x=-865.58, y=26.00, z=-78.75], dimensionLocationPath overworld
+[15Dec2024 22:54:40.433] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jeruuk'/17353, l='ServerLevel[world]', x=-865.58, y=26.00, z=-78.75] in list []
+[15Dec2024 22:55:00.407] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[15Dec2024 22:55:00.407] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Dec2024 22:55:00.408] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[15Dec2024 22:55:00.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeruuk was slain by Cave Spider
+[15Dec2024 22:55:00.780] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ServerPlayer['Jeruuk'/17353, l='ServerLevel[world]', x=-867.70, y=27.00, z=-85.70]
+[15Dec2024 22:55:09.724] [Server thread/DEBUG] [Radiant Gear/]: Built new CuriosLightSourceContainer for player ServerPlayer['Jeruuk'/17353, l='ServerLevel[world]', x=-8.50, y=150.00, z=-39.50]
+[15Dec2024 22:55:30.457] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[15Dec2024 22:55:30.457] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Dec2024 22:55:30.458] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[15Dec2024 22:56:00.508] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[15Dec2024 22:56:00.509] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Dec2024 22:56:00.510] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[15Dec2024 22:56:14.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nach was slain by Zombie
+[15Dec2024 22:56:17.934] [Server thread/DEBUG] [Radiant Gear/]: Built new CuriosLightSourceContainer for player ServerPlayer['Nach'/170, l='ServerLevel[world]', x=-2.50, y=153.00, z=-41.50]
+[15Dec2024 22:56:22.096] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Dec2024 22:56:22.130] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Dec2024 22:56:30.557] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[15Dec2024 22:56:30.557] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Dec2024 22:56:30.558] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[15Dec2024 22:56:37.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nach: Teleported Jeruuk to -862.500000, 20.000000, -68.500000]
+[15Dec2024 22:57:00.607] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[15Dec2024 22:57:00.608] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Dec2024 22:57:00.609] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[15Dec2024 22:57:16.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nach was slain by Zombie
+[15Dec2024 22:57:19.320] [Server thread/DEBUG] [Radiant Gear/]: Built new CuriosLightSourceContainer for player ServerPlayer['Nach'/170, l='ServerLevel[world]', x=-396.50, y=71.00, z=-1509.50]
+[15Dec2024 22:57:25.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nach: Set the time to 1000]
+[15Dec2024 22:57:28.566] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jeruuk'/17353, l='ServerLevel[world]', x=-867.47, y=27.00, z=-84.63], dimensionLocationPath overworld
+[15Dec2024 22:57:28.567] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jeruuk'/17353, l='ServerLevel[world]', x=-867.47, y=27.00, z=-84.63] in list []
+[15Dec2024 22:57:30.657] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[15Dec2024 22:57:30.657] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Dec2024 22:57:30.658] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[15Dec2024 22:57:35.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nach was slain by Zombie
+[15Dec2024 22:57:35.621] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Nach'/170, l='ServerLevel[world]', x=-396.30, y=71.00, z=-1509.30]
+[15Dec2024 22:57:35.621] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Nach'/170, l='ServerLevel[world]', x=-396.30, y=71.00, z=-1509.30]
+[15Dec2024 22:57:37.018] [Server thread/DEBUG] [Radiant Gear/]: Built new CuriosLightSourceContainer for player ServerPlayer['Nach'/170, l='ServerLevel[world]', x=-396.50, y=71.00, z=-1509.50]
+[15Dec2024 22:58:00.707] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[15Dec2024 22:58:00.707] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Dec2024 22:58:00.708] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[15Dec2024 22:58:30.757] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[15Dec2024 22:58:30.758] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Dec2024 22:58:30.759] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[15Dec2024 22:59:00.807] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[15Dec2024 22:59:00.807] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Dec2024 22:59:00.808] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[15Dec2024 22:59:06.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeruuk has made the advancement [The Root of Basic Healing]
+[15Dec2024 22:59:30.857] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[15Dec2024 22:59:30.857] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Dec2024 22:59:30.858] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[15Dec2024 23:00:00.907] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[15Dec2024 23:00:00.908] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Dec2024 23:00:00.909] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
