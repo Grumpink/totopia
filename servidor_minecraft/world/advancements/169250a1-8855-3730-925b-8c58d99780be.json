@@ -7238,6 +7238,8 @@
   },
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
+      "biomeswevegone:forgotten_forest": "2024-12-15 22:28:05 +0000",
+      "biomeswevegone:amaranth_grassland": "2024-12-15 22:28:28 +0000",
       "biomeswevegone:weeping_witch_forest": "2024-12-14 00:21:06 +0000",
       "biomeswevegone:prairie": "2024-12-15 22:14:20 +0000",
       "biomeswevegone:aspen_boreal": "2024-12-14 22:46:14 +0000",

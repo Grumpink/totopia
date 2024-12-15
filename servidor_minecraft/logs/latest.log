@@ -1522,3 +1522,8 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [15Dec2024 22:26:45.776] [Worker-Main-9/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_end_1_pool
 [15Dec2024 22:26:45.777] [Worker-Main-9/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_end_1_pool
 [15Dec2024 22:27:35.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nach: Teleported Jeruuk to -895.500000, 63.000000, -95.500000]
+[15Dec2024 22:33:38.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeruuk has made the advancement [Herb your Enthusiasm]
+[15Dec2024 22:37:01.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nach: Teleported Nach to Jeruuk]
+[15Dec2024 22:38:18.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeruuk was shot by Skeleton
+[15Dec2024 22:38:30.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nach: Teleported Jeruuk to Nach]
+[15Dec2024 22:39:53.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nach has made the advancement [A Realistical Logical Ideologist]
