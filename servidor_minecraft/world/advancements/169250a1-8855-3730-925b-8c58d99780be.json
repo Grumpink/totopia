@@ -7168,7 +7168,8 @@
     "criteria": {
       "obtain_chesto_berry": "2024-12-13 23:53:03 +0000",
       "obtain_persim_berry": "2024-12-14 23:16:20 +0000",
-      "obtain_oran_berry": "2024-12-14 23:13:26 +0000"
+      "obtain_oran_berry": "2024-12-14 23:13:26 +0000",
+      "obtain_cheri_berry": "2024-12-15 23:09:49 +0000"
     },
     "done": false
   },
@@ -8179,7 +8180,9 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
-      "sugar_cane": "2024-12-14 23:11:55 +0000"
+      "sugar_cane": "2024-12-14 23:11:55 +0000",
+      "potato": "2024-12-15 22:59:26 +0000",
+      "carrot": "2024-12-15 22:59:53 +0000"
     },
     "done": false
   },
@@ -8436,6 +8439,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2024-12-15 22:56:44 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/steak_and_potatoes": {
     "criteria": {
       "has_baked_potato": "2024-12-15 22:41:53 +0000"
@@ -8444,6 +8453,7 @@
   },
   "cobblemon:craft_base_balls": {
     "criteria": {
+      "roseate_ball": "2024-12-15 23:05:59 +0000",
       "poke_ball": "2024-12-15 22:52:07 +0000"
     },
     "done": false
@@ -8508,6 +8518,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2024-12-15 23:06:57 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/gray_shiny_flower": {
     "criteria": {
       "has_item": "2024-12-15 22:21:01 +0000"
@@ -8516,7 +8532,8 @@
   },
   "cobblemon:craft_all_balls": {
     "criteria": {
-      "poke_ball": "2024-12-15 22:52:07 +0000"
+      "poke_ball": "2024-12-15 22:52:07 +0000",
+      "roseate_ball": "2024-12-15 23:05:59 +0000"
     },
     "done": false
   },
@@ -8586,6 +8603,12 @@
     },
     "done": true
   },
+  "cobblemon:recipes/consumables/berry_juice": {
+    "criteria": {
+      "has_berries": "2024-12-15 23:07:59 +0000"
+    },
+    "done": true
+  },
   "cobblemon:harvest_apricorn_seed": {
     "criteria": {
       "check_inv": "2024-12-15 22:09:36 +0000"
@@ -8598,11 +8621,23 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2024-12-15 22:58:50 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:biomeswevegone/adventure/little_house_on_the_prairie": {
     "criteria": {
       "abondoned_prairie_house": "2024-12-15 22:15:52 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2024-12-15 22:56:44 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/dye_magenta_bed": {
     "criteria": {
@@ -8637,6 +8672,24 @@
   "botania:recipes/tools/dreamwood_wand": {
     "criteria": {
       "has_item": "2024-12-15 22:38:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2024-12-15 22:58:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2024-12-15 22:56:44 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-15 22:56:44 +0000"
     },
     "done": true
   },
