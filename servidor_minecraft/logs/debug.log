@@ -10056,3 +10056,94 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [15Dec2024 23:20:32.957] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
 [15Dec2024 23:20:32.957] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
 [15Dec2024 23:20:32.958] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[15Dec2024 23:21:03.007] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[15Dec2024 23:21:03.007] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Dec2024 23:21:03.007] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[15Dec2024 23:21:22.111] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Dec2024 23:21:22.141] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Dec2024 23:21:29.117] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jeruuk'/17353, l='ServerLevel[world]', x=-849.92, y=37.00, z=-49.97]
+[15Dec2024 23:21:33.057] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[15Dec2024 23:21:33.057] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Dec2024 23:21:33.057] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[15Dec2024 23:21:35.121] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jeruuk'/17353, l='ServerLevel[world]', x=-848.34, y=37.47, z=-51.18], dimensionLocationPath overworld
+[15Dec2024 23:21:35.121] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jeruuk'/17353, l='ServerLevel[world]', x=-848.34, y=37.47, z=-51.18] in list []
+[15Dec2024 23:21:36.165] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jeruuk'/17353, l='ServerLevel[world]', x=-848.70, y=37.55, z=-52.70]
+[15Dec2024 23:21:37.514] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jeruuk'/17353, l='ServerLevel[world]', x=-848.70, y=34.80, z=-54.03], dimensionLocationPath overworld
+[15Dec2024 23:21:37.514] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jeruuk'/17353, l='ServerLevel[world]', x=-848.70, y=34.80, z=-54.03] in list []
+[15Dec2024 23:21:38.521] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jeruuk'/17353, l='ServerLevel[world]', x=-848.71, y=28.66, z=-54.61]
+[15Dec2024 23:21:41.316] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jeruuk'/17353, l='ServerLevel[world]', x=-848.75, y=22.60, z=-55.00], dimensionLocationPath overworld
+[15Dec2024 23:21:41.317] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jeruuk'/17353, l='ServerLevel[world]', x=-848.75, y=22.60, z=-55.00] in list []
+[15Dec2024 23:21:41.616] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jeruuk'/17353, l='ServerLevel[world]', x=-848.74, y=22.06, z=-54.91]
+[15Dec2024 23:21:42.415] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jeruuk'/17353, l='ServerLevel[world]', x=-848.75, y=20.66, z=-55.01], dimensionLocationPath overworld
+[15Dec2024 23:21:42.416] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jeruuk'/17353, l='ServerLevel[world]', x=-848.75, y=20.66, z=-55.01] in list []
+[15Dec2024 23:21:43.115] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jeruuk'/17353, l='ServerLevel[world]', x=-848.87, y=18.07, z=-55.54]
+[15Dec2024 23:21:44.115] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jeruuk'/17353, l='ServerLevel[world]', x=-849.16, y=17.00, z=-56.04], dimensionLocationPath overworld
+[15Dec2024 23:21:44.115] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jeruuk'/17353, l='ServerLevel[world]', x=-849.16, y=17.00, z=-56.04] in list []
+[15Dec2024 23:21:47.117] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jeruuk'/17353, l='ServerLevel[world]', x=-848.99, y=17.00, z=-55.99]
+[15Dec2024 23:21:48.217] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jeruuk'/17353, l='ServerLevel[world]', x=-848.85, y=18.33, z=-55.32], dimensionLocationPath overworld
+[15Dec2024 23:21:48.218] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jeruuk'/17353, l='ServerLevel[world]', x=-848.85, y=18.33, z=-55.32] in list []
+[15Dec2024 23:21:49.018] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jeruuk'/17353, l='ServerLevel[world]', x=-849.00, y=20.39, z=-54.67]
+[15Dec2024 23:21:53.366] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jeruuk'/17353, l='ServerLevel[world]', x=-848.41, y=30.34, z=-54.33], dimensionLocationPath overworld
+[15Dec2024 23:21:53.367] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jeruuk'/17353, l='ServerLevel[world]', x=-848.41, y=30.34, z=-54.33] in list []
+[15Dec2024 23:21:53.917] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jeruuk'/17353, l='ServerLevel[world]', x=-848.43, y=31.89, z=-54.01]
+[15Dec2024 23:21:55.672] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jeruuk'/17353, l='ServerLevel[world]', x=-848.69, y=38.93, z=-51.34], dimensionLocationPath overworld
+[15Dec2024 23:21:55.672] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jeruuk'/17353, l='ServerLevel[world]', x=-848.69, y=38.93, z=-51.34] in list []
+[15Dec2024 23:22:03.107] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[15Dec2024 23:22:03.107] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Dec2024 23:22:03.107] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[15Dec2024 23:22:33.157] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[15Dec2024 23:22:33.157] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Dec2024 23:22:33.158] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[15Dec2024 23:23:03.207] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[15Dec2024 23:23:03.207] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Dec2024 23:23:03.207] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[15Dec2024 23:23:10.166] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jeruuk lost connection: Disconnected
+[15Dec2024 23:23:10.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeruuk left the game
+[15Dec2024 23:23:10.208] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ServerPlayer['Jeruuk'/17353, l='ServerLevel[world]', x=-898.11, y=63.00, z=-55.00, removed=UNLOADED_WITH_PLAYER]
+[15Dec2024 23:23:33.257] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[15Dec2024 23:23:33.257] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Dec2024 23:23:33.257] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[15Dec2024 23:24:03.307] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[15Dec2024 23:24:03.307] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Dec2024 23:24:03.307] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[15Dec2024 23:24:33.357] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[15Dec2024 23:24:33.357] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Dec2024 23:24:33.358] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[15Dec2024 23:25:03.407] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[15Dec2024 23:25:03.407] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Dec2024 23:25:03.407] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[15Dec2024 23:25:33.457] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[15Dec2024 23:25:33.457] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Dec2024 23:25:33.457] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[15Dec2024 23:26:03.507] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[15Dec2024 23:26:03.507] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Dec2024 23:26:03.507] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[15Dec2024 23:26:22.087] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Dec2024 23:26:22.118] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Dec2024 23:26:33.557] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[15Dec2024 23:26:33.557] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Dec2024 23:26:33.557] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[15Dec2024 23:27:03.607] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[15Dec2024 23:27:03.607] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Dec2024 23:27:03.607] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[15Dec2024 23:27:33.657] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[15Dec2024 23:27:33.657] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Dec2024 23:27:33.657] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[15Dec2024 23:28:03.707] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[15Dec2024 23:28:03.709] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Dec2024 23:28:03.709] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[15Dec2024 23:28:33.757] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[15Dec2024 23:28:33.757] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Dec2024 23:28:33.757] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[15Dec2024 23:29:03.807] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[15Dec2024 23:29:03.807] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Dec2024 23:29:03.807] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[15Dec2024 23:29:33.857] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[15Dec2024 23:29:33.857] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Dec2024 23:29:33.859] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[15Dec2024 23:30:03.907] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[15Dec2024 23:30:03.907] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Dec2024 23:30:03.907] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[15Dec2024 23:30:33.957] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[15Dec2024 23:30:33.957] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Dec2024 23:30:33.957] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
