@@ -6324,6 +6324,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_beef": "2024-12-15 22:40:41 +0000",
+      "baked_potato": "2024-12-15 22:41:59 +0000",
       "apple": "2024-12-13 23:18:12 +0000"
     },
     "done": false
@@ -7239,6 +7241,7 @@
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
       "biomeswevegone:forgotten_forest": "2024-12-15 22:28:05 +0000",
+      "biomeswevegone:ironwood_gour": "2024-12-15 22:36:23 +0000",
       "biomeswevegone:amaranth_grassland": "2024-12-15 22:28:28 +0000",
       "biomeswevegone:weeping_witch_forest": "2024-12-14 00:21:06 +0000",
       "biomeswevegone:prairie": "2024-12-15 22:14:20 +0000",
@@ -8421,9 +8424,39 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/apothecary_mossy": {
+    "criteria": {
+      "has_item": "2024-12-15 22:38:02 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/apothecary_deepslate": {
+    "criteria": {
+      "has_item": "2024-12-15 22:38:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2024-12-15 22:41:53 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/food/blueberry_pie": {
     "criteria": {
       "has_blueberries": "2024-12-15 22:06:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_magenta_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-12-15 22:37:45 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/twig_wand": {
+    "criteria": {
+      "has_item": "2024-12-15 22:38:02 +0000"
     },
     "done": true
   },
@@ -8436,6 +8469,24 @@
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2024-12-15 22:16:21 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/small_magenta_industrial_lamp": {
+    "criteria": {
+      "has_small_magenta_industrial_lamp": "2024-12-15 22:37:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_candle": {
+    "criteria": {
+      "has_magenta_dye": "2024-12-15 22:37:45 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/magenta_industrial_lamp": {
+    "criteria": {
+      "has_magenta_industrial_lamp": "2024-12-15 22:37:45 +0000"
     },
     "done": true
   },
@@ -8457,6 +8508,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/decorations/foragers_table": {
+    "criteria": {
+      "has_mushrooms": "2024-12-15 22:38:02 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/petal_gray": {
     "criteria": {
       "has_item": "2024-12-15 22:21:01 +0000"
@@ -8466,6 +8523,12 @@
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2024-12-15 22:20:13 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/apothecary_default": {
+    "criteria": {
+      "has_item": "2024-12-15 22:38:02 +0000"
     },
     "done": true
   },
@@ -8523,15 +8586,57 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/dye_magenta_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-12-15 22:37:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_magenta_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-12-15 22:37:45 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/misc/orange_dye_from_bwg_tag": {
     "criteria": {
       "TagKey[minecraft:item / biomeswevegone:dye/makes_orange_dye]": "2024-12-15 21:38:34 +0000"
     },
     "done": true
   },
+  "cobblemon:recipes/consumables/leek_and_potato_stew": {
+    "criteria": {
+      "has_potato": "2024-12-15 22:41:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2024-12-15 22:07:07 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/dreamwood_wand": {
+    "criteria": {
+      "has_item": "2024-12-15 22:38:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_magenta_dye": "2024-12-15 22:37:45 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2024-12-15 22:41:53 +0000"
+    },
+    "done": true
+  },
+  "botania:main/lexicon_use": {
+    "criteria": {
+      "use_lexicon": "2024-12-15 22:39:53 +0000"
     },
     "done": true
   },

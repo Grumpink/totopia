@@ -1527,3 +1527,9 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [15Dec2024 22:38:18.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeruuk was shot by Skeleton
 [15Dec2024 22:38:30.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nach: Teleported Jeruuk to Nach]
 [15Dec2024 22:39:53.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nach has made the advancement [A Realistical Logical Ideologist]
+[15Dec2024 22:40:22.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeruuk has made the advancement [Diamonds!]
+[15Dec2024 22:44:10.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeruuk was shot by Skeleton
+[15Dec2024 22:44:55.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nach: Teleported Jeruuk to -852.500000, -26.000000, -58.500000]
+[15Dec2024 22:46:57.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nach: Teleported Jeruuk to -862.500000, 20.000000, -68.500000]
+[15Dec2024 22:48:06.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeruuk was slain by Zombie
+[15Dec2024 22:48:47.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nach: Teleported Jeruuk to -861.500000, 20.000000, -67.500000]
