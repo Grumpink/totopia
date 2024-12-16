@@ -31,6 +31,14 @@
         "discoveredTimestamp": 1734369983936,
         "caughtTimestamp": 1734369983936
       }
+    },
+    "igglybuff": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1734378476626,
+        "caughtTimestamp": 1734378476626
+      }
     }
   }
 }

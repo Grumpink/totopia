@@ -32,6 +32,14 @@
             "discoveredTimestamp": 1734369983936,
             "caughtTimestamp": 1734369983936
           }
+        },
+        "igglybuff": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1734378476626,
+            "caughtTimestamp": 1734378476626
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -42,18 +50,18 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 2,
+    "totalCaptureCount": 3,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 0,
-    "totalBattleVictoryCount": 4,
+    "totalBattleVictoryCount": 5,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 4,
+    "totalPvWBattleVictoryCount": 5,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
     "totalTypeCaptureCounts": {
-      "fairy": 1,
-      "normal": 1,
+      "fairy": 2,
+      "normal": 2,
       "grass": 1
     },
     "totalDefeatedCounts": {
