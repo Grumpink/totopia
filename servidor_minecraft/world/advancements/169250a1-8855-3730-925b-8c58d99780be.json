@@ -9102,5 +9102,11 @@
     },
     "done": true
   },
+  "cobblemon:first_catch": {
+    "criteria": {
+      "catch": "2024-12-16 17:22:11 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

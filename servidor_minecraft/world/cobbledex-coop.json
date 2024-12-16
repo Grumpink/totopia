@@ -15,6 +15,22 @@
         "discoveredTimestamp": 1734131917965,
         "caughtTimestamp": 1734131917965
       }
+    },
+    "flabebe": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1734369731889,
+        "caughtTimestamp": 1734369731889
+      }
+    },
+    "deerling": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1734369983936,
+        "caughtTimestamp": 1734369983936
+      }
     }
   }
 }
