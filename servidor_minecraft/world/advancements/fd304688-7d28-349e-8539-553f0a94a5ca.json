@@ -5735,10 +5735,12 @@
       "minecraft:deep_ocean": "2024-12-14 00:17:18 +0000",
       "minecraft:birch_forest": "2024-12-14 00:24:20 +0000",
       "minecraft:dark_forest": "2024-12-13 23:19:34 +0000",
+      "minecraft:river": "2024-12-16 17:10:33 +0000",
       "minecraft:stony_shore": "2024-12-14 00:18:41 +0000",
       "minecraft:lush_caves": "2024-12-15 22:14:07 +0000",
       "minecraft:ocean": "2024-12-14 00:16:02 +0000",
-      "minecraft:old_growth_birch_forest": "2024-12-13 23:11:35 +0000"
+      "minecraft:old_growth_birch_forest": "2024-12-13 23:11:35 +0000",
+      "minecraft:plains": "2024-12-16 17:09:13 +0000"
     },
     "done": false
   },
@@ -6957,7 +6959,10 @@
   },
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
-      "biomeswevegone:weeping_witch_forest": "2024-12-14 00:21:29 +0000"
+      "biomeswevegone:temperate_grove": "2024-12-16 17:11:21 +0000",
+      "biomeswevegone:weeping_witch_forest": "2024-12-14 00:21:29 +0000",
+      "biomeswevegone:prairie": "2024-12-16 17:11:04 +0000",
+      "biomeswevegone:aspen_boreal": "2024-12-16 17:11:46 +0000"
     },
     "done": false
   },
@@ -8818,6 +8823,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2024-12-16 17:15:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2024-12-16 17:15:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_red_rock_bricks_from_moss_block": {
     "criteria": {
       "has_moss_block": "2024-12-16 16:27:48 +0000"
@@ -8839,6 +8856,30 @@
   "cobblemon:recipes/held/choice_scarf": {
     "criteria": {
       "has_scarf": "2024-12-16 16:17:55 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2024-12-16 17:15:56 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/misc/purple_dye_from_bwg_tag": {
+    "criteria": {
+      "TagKey[minecraft:item / biomeswevegone:dye/makes_purple_dye]": "2024-12-16 17:16:32 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2024-12-16 17:15:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2024-12-16 17:15:56 +0000"
     },
     "done": true
   },
