@@ -8427,36 +8427,35 @@
     },
     "done": true
   },
-  "botania:recipes/decorations/apothecary_mossy": {
+  "biomeswevegone:recipes/misc/orange_dye_from_bwg_tag": {
     "criteria": {
-      "has_item": "2024-12-15 22:38:02 +0000"
+      "TagKey[minecraft:item / biomeswevegone:dye/makes_orange_dye]": "2024-12-15 21:38:34 +0000"
     },
     "done": true
   },
-  "botania:recipes/decorations/apothecary_deepslate": {
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
-      "has_item": "2024-12-15 22:38:02 +0000"
+      "has_beef": "2024-12-15 21:57:19 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
     "criteria": {
-      "has_mutton": "2024-12-15 22:56:44 +0000"
+      "has_any_ingredient": "2024-12-15 21:57:19 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/food/steak_and_potatoes": {
+  "minecraft:recipes/food/cooked_beef": {
     "criteria": {
-      "has_baked_potato": "2024-12-15 22:41:53 +0000"
+      "has_beef": "2024-12-15 21:57:19 +0000"
     },
     "done": true
   },
-  "cobblemon:craft_base_balls": {
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
-      "roseate_ball": "2024-12-15 23:05:59 +0000",
-      "poke_ball": "2024-12-15 22:52:07 +0000"
+      "has_beef": "2024-12-15 21:57:19 +0000"
     },
-    "done": false
+    "done": true
   },
   "biomeswevegone:recipes/food/blueberry_pie": {
     "criteria": {
@@ -8464,17 +8463,41 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_magenta_carpet": {
+  "biomeswevegone:biomeswevegone/husbandry/berrily_alive": {
     "criteria": {
-      "has_needed_dye": "2024-12-15 22:37:45 +0000"
+      "blue_berry": "2024-12-15 22:06:50 +0000"
     },
     "done": true
   },
-  "botania:recipes/tools/twig_wand": {
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
-      "has_item": "2024-12-15 22:38:02 +0000"
+      "has_potato": "2024-12-15 22:07:07 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2024-12-15 22:07:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2024-12-15 22:07:07 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:harvest_apricorn_seed": {
+    "criteria": {
+      "check_inv": "2024-12-15 22:09:36 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/adventure/little_house_on_the_prairie": {
+    "criteria": {
+      "abondoned_prairie_house": "2024-12-15 22:15:52 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
@@ -8485,6 +8508,48 @@
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2024-12-15 22:16:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-15 22:16:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-15 22:16:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2024-12-15 22:20:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2024-12-15 22:20:13 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/gray_shiny_flower": {
+    "criteria": {
+      "has_item": "2024-12-15 22:21:01 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_gray": {
+    "criteria": {
+      "has_item": "2024-12-15 22:21:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_magenta_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-12-15 22:37:45 +0000"
     },
     "done": true
   },
@@ -8506,139 +8571,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_beef_from_smoking": {
-    "criteria": {
-      "has_beef": "2024-12-15 21:57:19 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
-    "criteria": {
-      "has_any_ingredient": "2024-12-15 21:57:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/cauldron": {
-    "criteria": {
-      "has_water_bucket": "2024-12-15 23:06:57 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/gray_shiny_flower": {
-    "criteria": {
-      "has_item": "2024-12-15 22:21:01 +0000"
-    },
-    "done": true
-  },
-  "cobblemon:craft_all_balls": {
-    "criteria": {
-      "poke_ball": "2024-12-15 22:52:07 +0000",
-      "roseate_ball": "2024-12-15 23:05:59 +0000"
-    },
-    "done": false
-  },
-  "biomeswevegone:recipes/decorations/foragers_table": {
-    "criteria": {
-      "has_mushrooms": "2024-12-15 22:38:02 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/petal_gray": {
-    "criteria": {
-      "has_item": "2024-12-15 22:21:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oak_planks": {
-    "criteria": {
-      "has_logs": "2024-12-15 22:20:13 +0000"
-    },
-    "done": true
-  },
-  "cobblemon:craft_poke_ball": {
-    "criteria": {
-      "requirement": "2024-12-15 22:52:07 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/apothecary_default": {
-    "criteria": {
-      "has_item": "2024-12-15 22:38:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oak_wood": {
-    "criteria": {
-      "has_log": "2024-12-15 22:20:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_beef": {
-    "criteria": {
-      "has_beef": "2024-12-15 21:57:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
-    "criteria": {
-      "has_potato": "2024-12-15 22:07:07 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:biomeswevegone/husbandry/berrily_alive": {
-    "criteria": {
-      "blue_berry": "2024-12-15 22:06:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bookshelf": {
-    "criteria": {
-      "has_book": "2024-12-15 22:16:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato": {
-    "criteria": {
-      "has_potato": "2024-12-15 22:07:07 +0000"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/consumables/berry_juice": {
-    "criteria": {
-      "has_berries": "2024-12-15 23:07:59 +0000"
-    },
-    "done": true
-  },
-  "cobblemon:harvest_apricorn_seed": {
-    "criteria": {
-      "check_inv": "2024-12-15 22:09:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
-    "criteria": {
-      "has_book": "2024-12-15 22:16:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bone_meal": {
-    "criteria": {
-      "has_bone": "2024-12-15 22:58:50 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:biomeswevegone/adventure/little_house_on_the_prairie": {
-    "criteria": {
-      "abondoned_prairie_house": "2024-12-15 22:15:52 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/food/cooked_mutton": {
-    "criteria": {
-      "has_mutton": "2024-12-15 22:56:44 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dye_magenta_bed": {
     "criteria": {
       "has_needed_dye": "2024-12-15 22:37:45 +0000"
@@ -8651,21 +8583,39 @@
     },
     "done": true
   },
-  "biomeswevegone:recipes/misc/orange_dye_from_bwg_tag": {
+  "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
     "criteria": {
-      "TagKey[minecraft:item / biomeswevegone:dye/makes_orange_dye]": "2024-12-15 21:38:34 +0000"
+      "has_magenta_dye": "2024-12-15 22:37:45 +0000"
     },
     "done": true
   },
-  "cobblemon:recipes/consumables/leek_and_potato_stew": {
+  "botania:recipes/decorations/apothecary_mossy": {
     "criteria": {
-      "has_potato": "2024-12-15 22:41:53 +0000"
+      "has_item": "2024-12-15 22:38:02 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/baked_potato_from_smoking": {
+  "botania:recipes/decorations/apothecary_deepslate": {
     "criteria": {
-      "has_potato": "2024-12-15 22:07:07 +0000"
+      "has_item": "2024-12-15 22:38:02 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/twig_wand": {
+    "criteria": {
+      "has_item": "2024-12-15 22:38:02 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/foragers_table": {
+    "criteria": {
+      "has_mushrooms": "2024-12-15 22:38:02 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/apothecary_default": {
+    "criteria": {
+      "has_item": "2024-12-15 22:38:02 +0000"
     },
     "done": true
   },
@@ -8675,9 +8625,59 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/bone_broth": {
+  "botania:main/lexicon_use": {
     "criteria": {
-      "has_bone": "2024-12-15 22:58:50 +0000"
+      "use_lexicon": "2024-12-15 22:39:53 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2024-12-15 22:41:53 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/consumables/leek_and_potato_stew": {
+    "criteria": {
+      "has_potato": "2024-12-15 22:41:53 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2024-12-15 22:41:53 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:craft_base_balls": {
+    "criteria": {
+      "roseate_ball": "2024-12-15 23:05:59 +0000",
+      "poke_ball": "2024-12-15 22:52:07 +0000"
+    },
+    "done": false
+  },
+  "cobblemon:craft_all_balls": {
+    "criteria": {
+      "poke_ball": "2024-12-15 22:52:07 +0000",
+      "roseate_ball": "2024-12-15 23:05:59 +0000"
+    },
+    "done": false
+  },
+  "cobblemon:craft_poke_ball": {
+    "criteria": {
+      "requirement": "2024-12-15 22:52:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2024-12-15 22:56:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2024-12-15 22:56:44 +0000"
     },
     "done": true
   },
@@ -8693,27 +8693,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
+  "minecraft:recipes/misc/bone_meal": {
     "criteria": {
-      "has_magenta_dye": "2024-12-15 22:37:45 +0000"
+      "has_bone": "2024-12-15 22:58:50 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/food/stuffed_potato": {
+  "farmersdelight:recipes/cooking/bone_broth": {
     "criteria": {
-      "has_baked_potato": "2024-12-15 22:41:53 +0000"
+      "has_bone": "2024-12-15 22:58:50 +0000"
     },
     "done": true
   },
-  "botania:main/lexicon_use": {
+  "minecraft:recipes/brewing/cauldron": {
     "criteria": {
-      "use_lexicon": "2024-12-15 22:39:53 +0000"
+      "has_water_bucket": "2024-12-15 23:06:57 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+  "cobblemon:recipes/consumables/berry_juice": {
     "criteria": {
-      "has_beef": "2024-12-15 21:57:19 +0000"
+      "has_berries": "2024-12-15 23:07:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2024-12-15 23:44:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2024-12-15 23:46:40 +0000"
     },
     "done": true
   },
