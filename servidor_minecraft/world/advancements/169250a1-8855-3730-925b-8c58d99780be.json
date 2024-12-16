@@ -10669,6 +10669,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_dripstone_slab_recycling": {
+    "criteria": {
+      "has_cut_dripstone_slab": "2024-12-16 20:17:50 +0000"
+    },
+    "done": true
+  },
   "cobblemon:first_catch": {
     "criteria": {
       "catch": "2024-12-16 17:22:11 +0000"
