@@ -1532,3 +1532,16 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [16Dec2024 17:48:23.016] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_end_1_pool
 [16Dec2024 17:48:23.016] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_end_1_pool
 [16Dec2024 17:51:51.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nach was shot by Skeleton
+[16Dec2024 18:35:59.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nach has made the advancement [There's a Leek in the Boat!]
+[16Dec2024 18:36:39.850] [Worker-Main-108/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_additions_3_pool
+[16Dec2024 18:36:39.850] [Worker-Main-108/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_end_1_pool
+[16Dec2024 18:37:36.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nach has made the advancement [The Root of Basic Healing]
+[16Dec2024 18:37:38.512] [Worker-Main-115/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_additions_3_pool
+[16Dec2024 18:37:38.513] [Worker-Main-115/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_2_pool
+[16Dec2024 18:37:38.513] [Worker-Main-115/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_1_pool
+[16Dec2024 18:37:38.514] [Worker-Main-115/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_4_pool
+[16Dec2024 18:37:38.514] [Worker-Main-115/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[16Dec2024 18:37:38.515] [Worker-Main-115/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[16Dec2024 18:37:38.516] [Worker-Main-115/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[16Dec2024 18:41:00.520] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 3adb8b25-6784-4d75-b18c-05e061cdf851
+[16Dec2024 18:41:00.521] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 3adb8b25-6784-4d75-b18c-05e061cdf851

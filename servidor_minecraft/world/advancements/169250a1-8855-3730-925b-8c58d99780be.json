@@ -6328,7 +6328,8 @@
     "criteria": {
       "cooked_beef": "2024-12-15 22:40:41 +0000",
       "baked_potato": "2024-12-15 22:41:59 +0000",
-      "apple": "2024-12-13 23:18:12 +0000"
+      "apple": "2024-12-13 23:18:12 +0000",
+      "bread": "2024-12-16 18:33:44 +0000"
     },
     "done": false
   },
@@ -9191,6 +9192,12 @@
     },
     "done": true
   },
+  "cobblemon:obtain_leek": {
+    "criteria": {
+      "check_inv": "2024-12-16 18:35:59 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_veridium_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2024-12-16 18:25:04 +0000"
@@ -9218,6 +9225,12 @@
   "create:recipes/building_blocks/cut_diorite_slab_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-12-16 18:25:44 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/agriculture/medicinal_leek_to_magenta_dye": {
+    "criteria": {
+      "has_leek": "2024-12-16 18:35:59 +0000"
     },
     "done": true
   },
@@ -9359,6 +9372,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2024-12-16 18:34:21 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/consumables/remedy_by_campfire": {
+    "criteria": {
+      "has_root": "2024-12-16 18:37:36 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_granite_brick_stairs_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-12-16 18:28:27 +0000"
@@ -9386,6 +9411,12 @@
   "create:recipes/building_blocks/cut_veridium_stairs_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2024-12-16 18:25:04 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/light_clay": {
+    "criteria": {
+      "has_clay": "2024-12-16 18:34:21 +0000"
     },
     "done": true
   },
@@ -9683,6 +9714,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2024-12-16 18:34:21 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/layered_dripstone_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2024-12-16 18:25:26 +0000"
@@ -9959,6 +9996,13 @@
     },
     "done": true
   },
+  "cobblemon:recipes/consumables/remedy": {
+    "criteria": {
+      "has_root": "2024-12-16 18:37:36 +0000",
+      "has_the_recipe": "2024-12-16 18:37:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_slab": {
     "criteria": {
       "has_diorite": "2024-12-16 18:25:44 +0000"
@@ -10010,6 +10054,12 @@
   "create:recipes/building_blocks/layered_granite_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-12-16 18:28:27 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/consumables/remedy_by_smoking": {
+    "criteria": {
+      "has_root": "2024-12-16 18:37:36 +0000"
     },
     "done": true
   },
@@ -10103,6 +10153,12 @@
     },
     "done": true
   },
+  "cobblemon:recipes/consumables/roasted_leek_by_smoking": {
+    "criteria": {
+      "has_leek": "2024-12-16 18:35:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2024-12-16 18:27:09 +0000"
@@ -10126,6 +10182,12 @@
       "obtain_potion": "2024-12-16 17:30:05 +0000"
     },
     "done": false
+  },
+  "cobblemon:recipes/consumables/roasted_leek": {
+    "criteria": {
+      "has_leek": "2024-12-16 18:35:59 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
@@ -10265,6 +10327,12 @@
     },
     "done": true
   },
+  "cobblemon:recipes/consumables/roasted_leek_by_campfire": {
+    "criteria": {
+      "has_leek": "2024-12-16 18:35:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_granite": "2024-12-16 18:28:27 +0000"
@@ -10388,6 +10456,12 @@
   "create:recipes/misc/crafting/materials/rose_quartz": {
     "criteria": {
       "has_item": "2024-12-16 18:27:09 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:obtain_big_root": {
+    "criteria": {
+      "check_inv": "2024-12-16 18:37:36 +0000"
     },
     "done": true
   },
