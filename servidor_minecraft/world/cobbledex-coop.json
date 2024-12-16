@@ -79,6 +79,14 @@
         "discoveredTimestamp": 1734383381220,
         "caughtTimestamp": 1734383381220
       }
+    },
+    "psyduck": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1734384661870,
+        "caughtTimestamp": 1734384661870
+      }
     }
   }
 }

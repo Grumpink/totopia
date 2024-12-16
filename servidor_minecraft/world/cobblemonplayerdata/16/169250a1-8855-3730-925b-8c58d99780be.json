@@ -80,6 +80,14 @@
             "discoveredTimestamp": 1734383381220,
             "caughtTimestamp": 1734383381220
           }
+        },
+        "psyduck": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1734384661869,
+            "caughtTimestamp": 1734384661869
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -90,12 +98,12 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 9,
+    "totalCaptureCount": 10,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 0,
-    "totalBattleVictoryCount": 11,
+    "totalBattleVictoryCount": 12,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 11,
+    "totalPvWBattleVictoryCount": 12,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
@@ -106,7 +114,8 @@
       "dark": 1,
       "ground": 2,
       "steel": 2,
-      "fire": 1
+      "fire": 1,
+      "water": 1
     },
     "totalDefeatedCounts": {
       "cobblemon:fletchling": 1,
