@@ -40,6 +40,30 @@
             "discoveredTimestamp": 1734378476626,
             "caughtTimestamp": 1734378476626
           }
+        },
+        "rattata": {
+          "alola": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1734379592870,
+            "caughtTimestamp": 1734379592870
+          }
+        },
+        "cleffa": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1734379676975,
+            "caughtTimestamp": 1734379676975
+          }
+        },
+        "diglett": {
+          "alola": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1734379779222,
+            "caughtTimestamp": 1734379779222
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -50,19 +74,22 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 3,
+    "totalCaptureCount": 7,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 0,
-    "totalBattleVictoryCount": 5,
+    "totalBattleVictoryCount": 9,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 5,
+    "totalPvWBattleVictoryCount": 9,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
     "totalTypeCaptureCounts": {
-      "fairy": 2,
-      "normal": 2,
-      "grass": 1
+      "fairy": 3,
+      "normal": 3,
+      "grass": 1,
+      "dark": 1,
+      "ground": 2,
+      "steel": 2
     },
     "totalDefeatedCounts": {
       "cobblemon:fletchling": 1,

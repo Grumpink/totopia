@@ -10146,6 +10146,12 @@
     },
     "done": true
   },
+  "cobblemon:full_party": {
+    "criteria": {
+      "full_party": "2024-12-16 20:07:56 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/limestone_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2024-12-16 19:57:58 +0000"

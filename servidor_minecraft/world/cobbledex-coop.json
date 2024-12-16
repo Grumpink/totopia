@@ -39,6 +39,30 @@
         "discoveredTimestamp": 1734378476626,
         "caughtTimestamp": 1734378476626
       }
+    },
+    "rattata": {
+      "alola": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1734379592871,
+        "caughtTimestamp": 1734379592871
+      }
+    },
+    "cleffa": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1734379676975,
+        "caughtTimestamp": 1734379676975
+      }
+    },
+    "diglett": {
+      "alola": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1734379779223,
+        "caughtTimestamp": 1734379779223
+      }
     }
   }
 }
