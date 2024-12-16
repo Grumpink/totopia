@@ -9558,6 +9558,12 @@
     },
     "done": true
   },
+  "chipped:recipes/botanist_workbench": {
+    "criteria": {
+      "has_botanist_workbench": "2024-12-16 18:46:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2024-12-16 18:28:27 +0000"
@@ -9840,6 +9846,12 @@
     },
     "done": true
   },
+  "chipped:recipes/loom_table": {
+    "criteria": {
+      "has_loom_table": "2024-12-16 18:50:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-16 17:37:55 +0000"
@@ -10057,6 +10069,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2024-12-16 18:42:20 +0000"
+    },
+    "done": true
+  },
   "cobblemon:recipes/consumables/remedy_by_smoking": {
     "criteria": {
       "has_root": "2024-12-16 18:37:36 +0000"
@@ -10201,6 +10219,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/skillet": {
+    "criteria": {
+      "has_brick": "2024-12-16 18:42:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-16 18:18:00 +0000"
@@ -10210,6 +10234,12 @@
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2024-12-16 18:01:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2024-12-16 18:42:20 +0000"
     },
     "done": true
   },
@@ -10423,6 +10453,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2024-12-16 18:42:20 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/layered_veridium_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2024-12-16 18:25:04 +0000"
@@ -10456,6 +10492,12 @@
   "create:recipes/misc/crafting/materials/rose_quartz": {
     "criteria": {
       "has_item": "2024-12-16 18:27:09 +0000"
+    },
+    "done": true
+  },
+  "chipped:recipes/mason_table": {
+    "criteria": {
+      "has_mason_table": "2024-12-16 18:42:47 +0000"
     },
     "done": true
   },
