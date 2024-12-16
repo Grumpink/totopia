@@ -45,9 +45,9 @@
     "totalCaptureCount": 2,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 0,
-    "totalBattleVictoryCount": 3,
+    "totalBattleVictoryCount": 4,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 3,
+    "totalPvWBattleVictoryCount": 4,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
@@ -57,7 +57,8 @@
       "grass": 1
     },
     "totalDefeatedCounts": {
-      "cobblemon:fletchling": 1
+      "cobblemon:fletchling": 1,
+      "cobblemon:flabebe": 1
     },
     "aspectsCollected": {}
   }
