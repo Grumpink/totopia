@@ -36,6 +36,7 @@
       "minecraft:dark_forest": "2024-12-13 23:08:34 +0000",
       "minecraft:river": "2024-12-14 22:46:09 +0000",
       "minecraft:stony_shore": "2024-12-14 00:18:41 +0000",
+      "minecraft:dripstone_caves": "2024-12-16 17:51:33 +0000",
       "minecraft:grove": "2024-12-15 22:09:09 +0000",
       "minecraft:forest": "2024-12-15 22:25:38 +0000",
       "minecraft:lush_caves": "2024-12-16 16:23:14 +0000",
@@ -7242,13 +7243,18 @@
   },
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
+      "biomeswevegone:redwood_thicket": "2024-12-16 17:41:40 +0000",
+      "biomeswevegone:araucaria_savanna": "2024-12-16 17:41:10 +0000",
+      "biomeswevegone:temperate_grove": "2024-12-16 17:27:12 +0000",
       "biomeswevegone:forgotten_forest": "2024-12-15 22:28:05 +0000",
       "biomeswevegone:ironwood_gour": "2024-12-15 22:36:23 +0000",
+      "biomeswevegone:orchard": "2024-12-16 17:34:54 +0000",
       "biomeswevegone:amaranth_grassland": "2024-12-15 22:28:28 +0000",
       "biomeswevegone:weeping_witch_forest": "2024-12-14 00:21:06 +0000",
       "biomeswevegone:prairie": "2024-12-15 22:14:20 +0000",
       "biomeswevegone:aspen_boreal": "2024-12-14 22:46:14 +0000",
-      "biomeswevegone:allium_shrubland": "2024-12-15 22:11:10 +0000"
+      "biomeswevegone:allium_shrubland": "2024-12-15 22:11:10 +0000",
+      "biomeswevegone:baobab_savanna": "2024-12-16 17:41:38 +0000"
     },
     "done": false
   },
@@ -7266,9 +7272,10 @@
   },
   "cobblemon:recipes/balls/nest_ball": {
     "criteria": {
-      "has_green_apricorn": "2024-12-14 00:26:56 +0000"
+      "has_green_apricorn": "2024-12-14 00:26:56 +0000",
+      "has_yellow_apricorn": "2024-12-16 17:27:57 +0000"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:harvest_apricorn": {
     "criteria": {
@@ -7305,16 +7312,19 @@
   },
   "cobblemon:recipes/balls/safari_ball": {
     "criteria": {
-      "has_green_apricorn": "2024-12-14 00:26:56 +0000"
+      "has_green_apricorn": "2024-12-14 00:26:56 +0000",
+      "has_white_apricorn": "2024-12-16 17:28:18 +0000",
+      "has_yellow_apricorn": "2024-12-16 17:27:57 +0000"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:recipes/balls/friend_ball": {
     "criteria": {
       "has_green_apricorn": "2024-12-14 00:26:56 +0000",
-      "has_red_apricorn": "2024-12-14 23:16:39 +0000"
+      "has_red_apricorn": "2024-12-14 23:16:39 +0000",
+      "has_yellow_apricorn": "2024-12-16 17:27:57 +0000"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:recipes/balls/park_ball": {
     "criteria": {
@@ -7413,21 +7423,24 @@
     "criteria": {
       "has_black_apricorn": "2024-12-14 23:23:15 +0000",
       "has_red_apricorn": "2024-12-14 23:16:39 +0000",
+      "has_yellow_apricorn": "2024-12-16 17:27:57 +0000",
       "has_pink_apricorn": "2024-12-14 22:39:12 +0000"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:recipes/balls/heal_ball": {
     "criteria": {
+      "has_white_apricorn": "2024-12-16 17:28:18 +0000",
       "has_pink_apricorn": "2024-12-14 22:39:12 +0000"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:recipes/balls/love_ball": {
     "criteria": {
+      "has_white_apricorn": "2024-12-16 17:28:18 +0000",
       "has_pink_apricorn": "2024-12-14 22:39:12 +0000"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:recipes/balls/roseate_ball": {
     "criteria": {
@@ -8285,9 +8298,10 @@
   },
   "cobblemon:recipes/balls/dive_ball": {
     "criteria": {
-      "has_blue_apricorn": "2024-12-14 23:15:53 +0000"
+      "has_blue_apricorn": "2024-12-14 23:15:53 +0000",
+      "has_white_apricorn": "2024-12-16 17:28:18 +0000"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:recipes/balls/heavy_ball": {
     "criteria": {
@@ -8298,9 +8312,10 @@
   },
   "cobblemon:recipes/balls/quick_ball": {
     "criteria": {
-      "has_blue_apricorn": "2024-12-14 23:15:53 +0000"
+      "has_blue_apricorn": "2024-12-14 23:15:53 +0000",
+      "has_yellow_apricorn": "2024-12-16 17:27:57 +0000"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:recipes/balls/azure_ball": {
     "criteria": {
@@ -8317,9 +8332,11 @@
   "cobblemon:recipes/balls/moon_ball": {
     "criteria": {
       "has_blue_apricorn": "2024-12-14 23:15:53 +0000",
-      "has_black_apricorn": "2024-12-14 23:23:15 +0000"
+      "has_black_apricorn": "2024-12-14 23:23:15 +0000",
+      "has_white_apricorn": "2024-12-16 17:28:18 +0000",
+      "has_yellow_apricorn": "2024-12-16 17:27:57 +0000"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:recipes/balls/great_ball": {
     "criteria": {
@@ -8331,9 +8348,10 @@
   "cobblemon:recipes/balls/net_ball": {
     "criteria": {
       "has_blue_apricorn": "2024-12-14 23:15:53 +0000",
-      "has_black_apricorn": "2024-12-14 23:23:15 +0000"
+      "has_black_apricorn": "2024-12-14 23:23:15 +0000",
+      "has_white_apricorn": "2024-12-16 17:28:18 +0000"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:recipes/balls/poke_ball": {
     "criteria": {
@@ -8344,9 +8362,10 @@
   "cobblemon:recipes/balls/repeat_ball": {
     "criteria": {
       "has_black_apricorn": "2024-12-14 23:23:15 +0000",
-      "has_red_apricorn": "2024-12-14 23:16:39 +0000"
+      "has_red_apricorn": "2024-12-14 23:16:39 +0000",
+      "has_yellow_apricorn": "2024-12-16 17:27:57 +0000"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:recipes/agriculture/red_apricorn_smelt_to_dye": {
     "criteria": {
@@ -8356,29 +8375,34 @@
   },
   "cobblemon:recipes/balls/fast_ball": {
     "criteria": {
-      "has_red_apricorn": "2024-12-14 23:16:39 +0000"
+      "has_white_apricorn": "2024-12-16 17:28:18 +0000",
+      "has_red_apricorn": "2024-12-14 23:16:39 +0000",
+      "has_yellow_apricorn": "2024-12-16 17:27:57 +0000"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:recipes/balls/luxury_ball": {
     "criteria": {
       "has_black_apricorn": "2024-12-14 23:23:15 +0000",
-      "has_red_apricorn": "2024-12-14 23:16:39 +0000"
+      "has_red_apricorn": "2024-12-14 23:16:39 +0000",
+      "has_yellow_apricorn": "2024-12-16 17:27:57 +0000"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:recipes/balls/sport_ball": {
     "criteria": {
+      "has_white_apricorn": "2024-12-16 17:28:18 +0000",
       "has_red_apricorn": "2024-12-14 23:16:39 +0000"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:recipes/balls/timer_ball": {
     "criteria": {
       "has_black_apricorn": "2024-12-14 23:23:15 +0000",
+      "has_white_apricorn": "2024-12-16 17:28:18 +0000",
       "has_red_apricorn": "2024-12-14 23:16:39 +0000"
     },
-    "done": false
+    "done": true
   },
   "botania:recipes/decorations/cyan_shiny_flower": {
     "criteria": {
@@ -8418,9 +8442,10 @@
   },
   "cobblemon:recipes/balls/ultra_ball": {
     "criteria": {
-      "has_black_apricorn": "2024-12-14 23:23:15 +0000"
+      "has_black_apricorn": "2024-12-14 23:23:15 +0000",
+      "has_yellow_apricorn": "2024-12-16 17:27:57 +0000"
     },
-    "done": false
+    "done": true
   },
   "lightmanscurrency:currency/wallet_crafting": {
     "criteria": {
@@ -8653,14 +8678,18 @@
   "cobblemon:craft_base_balls": {
     "criteria": {
       "roseate_ball": "2024-12-15 23:05:59 +0000",
-      "poke_ball": "2024-12-15 22:52:07 +0000"
+      "poke_ball": "2024-12-15 22:52:07 +0000",
+      "premier_ball": "2024-12-16 17:30:43 +0000",
+      "citrine_ball": "2024-12-16 17:30:07 +0000"
     },
     "done": false
   },
   "cobblemon:craft_all_balls": {
     "criteria": {
       "poke_ball": "2024-12-15 22:52:07 +0000",
-      "roseate_ball": "2024-12-15 23:05:59 +0000"
+      "citrine_ball": "2024-12-16 17:30:07 +0000",
+      "roseate_ball": "2024-12-15 23:05:59 +0000",
+      "premier_ball": "2024-12-16 17:30:43 +0000"
     },
     "done": false
   },
@@ -9102,9 +9131,369 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-16 17:41:43 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/premier_ball": {
+    "criteria": {
+      "has_white_apricorn": "2024-12-16 17:28:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-16 17:37:55 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/evolution/upgrade": {
+    "criteria": {
+      "has_amethyst": "2024-12-16 17:44:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_allium_petal_block": {
+    "criteria": {
+      "has_white_allium": "2024-12-16 17:35:37 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-16 17:41:43 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/white_sand": {
+    "criteria": {
+      "has_sand": "2024-12-16 17:37:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-16 17:37:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-16 17:37:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-16 17:44:53 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/sandy_dirt": {
+    "criteria": {
+      "has_sand": "2024-12-16 17:37:55 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:brew_potion": {
+    "criteria": {
+      "check_inv": "2024-12-16 17:30:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-16 17:37:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-16 17:44:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-16 17:44:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-16 17:37:55 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_14": {
+    "criteria": {
+      "has_alt_item": "2024-12-16 17:41:43 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_15": {
+    "criteria": {
+      "has_alt_item": "2024-12-16 17:41:43 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_10": {
+    "criteria": {
+      "has_alt_item": "2024-12-16 17:41:43 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_11": {
+    "criteria": {
+      "has_alt_item": "2024-12-16 17:41:43 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_12": {
+    "criteria": {
+      "has_alt_item": "2024-12-16 17:41:43 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_13": {
+    "criteria": {
+      "has_alt_item": "2024-12-16 17:41:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-16 17:37:55 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/black_sand": {
+    "criteria": {
+      "has_sand": "2024-12-16 17:37:55 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/agriculture/white_apricorn_smelt_to_dye": {
+    "criteria": {
+      "has_apricorn": "2024-12-16 17:28:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-16 17:37:55 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_0": {
+    "criteria": {
+      "has_alt_item": "2024-12-16 17:41:43 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_1": {
+    "criteria": {
+      "has_alt_item": "2024-12-16 17:41:43 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_2": {
+    "criteria": {
+      "has_alt_item": "2024-12-16 17:41:43 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_3": {
+    "criteria": {
+      "has_alt_item": "2024-12-16 17:41:43 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_4": {
+    "criteria": {
+      "has_alt_item": "2024-12-16 17:41:43 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_5": {
+    "criteria": {
+      "has_alt_item": "2024-12-16 17:41:43 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_6": {
+    "criteria": {
+      "has_alt_item": "2024-12-16 17:41:43 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_7": {
+    "criteria": {
+      "has_alt_item": "2024-12-16 17:41:43 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_8": {
+    "criteria": {
+      "has_alt_item": "2024-12-16 17:41:43 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_9": {
+    "criteria": {
+      "has_alt_item": "2024-12-16 17:41:43 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/agriculture/apricorn_bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2024-12-16 17:41:43 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/misc/white_dye_from_bwg_tag": {
+    "criteria": {
+      "TagKey[minecraft:item / biomeswevegone:dye/makes_white_dye]": "2024-12-16 17:35:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-16 17:37:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-16 17:37:55 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/soft_sand": {
+    "criteria": {
+      "has_sand": "2024-12-16 17:37:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-16 17:37:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-16 17:37:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-16 17:37:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-16 17:37:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2024-12-16 17:37:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2024-12-16 17:41:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-16 17:37:55 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/purple_sand": {
+    "criteria": {
+      "has_sand": "2024-12-16 17:37:55 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/agriculture/yellow_apricorn_smelt_to_dye": {
+    "criteria": {
+      "has_apricorn": "2024-12-16 17:27:57 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:brew_all": {
+    "criteria": {
+      "obtain_potion": "2024-12-16 17:30:05 +0000"
+    },
+    "done": false
+  },
+  "cobblemon:recipes/balls/citrine_ball": {
+    "criteria": {
+      "has_yellow_apricorn": "2024-12-16 17:27:57 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/blue_sand": {
+    "criteria": {
+      "has_sand": "2024-12-16 17:37:55 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_orig_recipe": "2024-12-16 17:41:43 +0000"
+    },
+    "done": true
+  },
   "cobblemon:first_catch": {
     "criteria": {
       "catch": "2024-12-16 17:22:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-16 17:37:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2024-12-16 17:37:55 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/pink_sand": {
+    "criteria": {
+      "has_sand": "2024-12-16 17:37:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-16 17:44:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-16 17:37:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2024-12-16 17:41:43 +0000"
     },
     "done": true
   },
