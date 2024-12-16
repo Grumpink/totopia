@@ -1461,3 +1461,12 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [16Dec2024 16:12:30.000] [Netty Epoll Server IO #6/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Nach
 [16Dec2024 16:15:29.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nach was slain by Zombie
 [16Dec2024 16:19:05.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeruuk was blown up by Creeper
+[16Dec2024 16:20:52.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nach: Teleported Nach to -880.500000, 63.000000, -53.500000]
+[16Dec2024 16:21:00.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nach: Teleported Jeruuk to Nach]
+[16Dec2024 16:23:13.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nach: Teleported Nach to Jeruuk]
+[16Dec2024 16:23:16.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nach fell from a high place
+[16Dec2024 16:31:00.873] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: d507b9c3-b2b9-46ff-9b56-528d4b885813
+[16Dec2024 16:31:00.873] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: d507b9c3-b2b9-46ff-9b56-528d4b885813
+[16Dec2024 16:32:19.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeruuk was blown up by Creeper
+[16Dec2024 16:32:58.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nach: Teleported Jeruuk to -794.500000, -2.000000, 28.500000]
+[16Dec2024 16:37:59.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nach was slain by Spider

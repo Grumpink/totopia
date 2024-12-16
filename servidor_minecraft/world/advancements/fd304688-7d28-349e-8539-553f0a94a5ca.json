@@ -8800,5 +8800,89 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_purple_dye": "2024-12-16 16:32:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_candle": {
+    "criteria": {
+      "has_purple_dye": "2024-12-16 16:32:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
+    "criteria": {
+      "has_purple_dye": "2024-12-16 16:32:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_red_rock_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-12-16 16:27:48 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/small_purple_industrial_lamp": {
+    "criteria": {
+      "has_small_purple_industrial_lamp": "2024-12-16 16:32:07 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/purple_industrial_lamp": {
+    "criteria": {
+      "has_purple_industrial_lamp": "2024-12-16 16:32:07 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/choice_scarf": {
+    "criteria": {
+      "has_scarf": "2024-12-16 16:17:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-12-16 16:27:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_purple_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-12-16 16:32:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_purple_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-12-16 16:32:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_purple_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-12-16 16:32:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-12-16 16:27:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2024-12-16 16:27:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-12-16 16:27:48 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
