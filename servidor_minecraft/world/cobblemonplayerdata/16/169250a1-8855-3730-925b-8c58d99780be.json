@@ -64,6 +64,22 @@
             "discoveredTimestamp": 1734379779222,
             "caughtTimestamp": 1734379779222
           }
+        },
+        "vulpix": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1734383045420,
+            "caughtTimestamp": 1734383045420
+          }
+        },
+        "eevee": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1734383381220,
+            "caughtTimestamp": 1734383381220
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -74,22 +90,23 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 7,
+    "totalCaptureCount": 9,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 0,
-    "totalBattleVictoryCount": 9,
+    "totalBattleVictoryCount": 11,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 9,
+    "totalPvWBattleVictoryCount": 11,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
     "totalTypeCaptureCounts": {
       "fairy": 3,
-      "normal": 3,
+      "normal": 4,
       "grass": 1,
       "dark": 1,
       "ground": 2,
-      "steel": 2
+      "steel": 2,
+      "fire": 1
     },
     "totalDefeatedCounts": {
       "cobblemon:fletchling": 1,

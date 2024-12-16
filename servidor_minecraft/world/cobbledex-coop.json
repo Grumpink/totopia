@@ -63,6 +63,22 @@
         "discoveredTimestamp": 1734379779223,
         "caughtTimestamp": 1734379779223
       }
+    },
+    "vulpix": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1734383045420,
+        "caughtTimestamp": 1734383045420
+      }
+    },
+    "eevee": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1734383381220,
+        "caughtTimestamp": 1734383381220
+      }
     }
   }
 }
