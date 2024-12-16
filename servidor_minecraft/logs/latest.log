@@ -1471,3 +1471,8 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [16Dec2024 16:32:58.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nach: Teleported Jeruuk to -794.500000, -2.000000, 28.500000]
 [16Dec2024 16:37:59.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nach was slain by Spider
 [16Dec2024 16:42:04.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nach tried to swim in lava
+[16Dec2024 16:50:36.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeruuk was slain by Zombie
+[16Dec2024 16:51:16.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nach: Teleported Jeruuk to -712.500000, -2.000000, -60.500000]
+[16Dec2024 16:52:09.533] [Server thread/ERROR] [net.minecraft.world.entity.ai.village.poi.PoiSection/]: POI data mismatch: never registered at BlockPos{x=-387, y=71, z=-1504}
+[16Dec2024 16:57:12.619] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nach lost connection: Disconnected
+[16Dec2024 16:57:12.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nach left the game
