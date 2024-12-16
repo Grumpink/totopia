@@ -1470,3 +1470,4 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [16Dec2024 16:32:19.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeruuk was blown up by Creeper
 [16Dec2024 16:32:58.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nach: Teleported Jeruuk to -794.500000, -2.000000, 28.500000]
 [16Dec2024 16:37:59.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nach was slain by Spider
+[16Dec2024 16:42:04.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nach tried to swim in lava
