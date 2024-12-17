@@ -1499,3 +1499,12 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [17Dec2024 23:21:48.864] [Worker-Main-95/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
 [17Dec2024 23:21:48.868] [Worker-Main-95/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
 [17Dec2024 23:23:37.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nach has made the advancement [Healing Power]
+[17Dec2024 23:29:04.731] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jeruuk lost connection: Disconnected
+[17Dec2024 23:29:04.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeruuk left the game
+[17Dec2024 23:29:04.733] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 3f85f13c-ddfe-4dd9-bdbc-fa46cec5c226
+[17Dec2024 23:29:04.734] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 3f85f13c-ddfe-4dd9-bdbc-fa46cec5c226
+[17Dec2024 23:40:20.294] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jeruuk[/100.92.187.4:64614] logged in with entity id 24847 at (-778.1348730217506, 71.0, -52.74678942842931)
+[17Dec2024 23:40:20.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeruuk joined the game
+[17Dec2024 23:40:20.342] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to Jeruuk
+[17Dec2024 23:40:20.738] [Netty Epoll Server IO #7/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Jeruuk
+[17Dec2024 23:40:32.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nach: Teleported Nach to Jeruuk]

@@ -11219,5 +11219,11 @@
     },
     "done": true
   },
+  "cobblemon:healing_machine": {
+    "criteria": {
+      "use_healing_machine": "2024-12-17 23:23:37 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

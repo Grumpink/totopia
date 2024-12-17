@@ -6460,8 +6460,10 @@
   },
   "cobblemon:obtain_all_berries": {
     "criteria": {
+      "obtain_kebia_berry": "2024-12-17 23:22:55 +0000",
       "obtain_chesto_berry": "2024-12-13 23:47:47 +0000",
-      "obtain_persim_berry": "2024-12-15 22:04:46 +0000"
+      "obtain_persim_berry": "2024-12-15 22:04:46 +0000",
+      "obtain_oran_berry": "2024-12-17 23:25:05 +0000"
     },
     "done": false
   },
