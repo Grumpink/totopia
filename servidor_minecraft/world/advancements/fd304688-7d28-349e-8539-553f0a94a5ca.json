@@ -9036,5 +9036,17 @@
     },
     "done": true
   },
+  "cobblemon:recipes/held/heavy_duty_boots": {
+    "criteria": {
+      "has_leather": "2024-12-17 22:47:43 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/misc/white_dye_from_bwg_tag": {
+    "criteria": {
+      "TagKey[minecraft:item / biomeswevegone:dye/makes_white_dye]": "2024-12-17 22:52:13 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

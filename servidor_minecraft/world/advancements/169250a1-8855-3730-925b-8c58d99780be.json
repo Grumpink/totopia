@@ -6296,6 +6296,7 @@
       "minecraft:vindicator": "2024-12-14 00:15:11 +0000",
       "minecraft:spider": "2024-12-13 23:17:52 +0000",
       "minecraft:creeper": "2024-12-17 22:06:00 +0000",
+      "minecraft:witch": "2024-12-17 22:47:12 +0000",
       "minecraft:cave_spider": "2024-12-14 00:27:10 +0000",
       "minecraft:zombie": "2024-12-13 23:20:27 +0000",
       "minecraft:zombie_villager": "2024-12-16 20:46:12 +0000"
@@ -11178,6 +11179,42 @@
   "create:recipes/building_blocks/cut_dripstone_slab": {
     "criteria": {
       "has_cut_dripstone": "2024-12-17 22:31:36 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:obtain_revival_herb": {
+    "criteria": {
+      "check_inv": "2024-12-17 22:49:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-17 22:48:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-17 22:48:28 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/consumables/heal_powder": {
+    "criteria": {
+      "has_herb": "2024-12-17 22:49:59 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/consumables/revive": {
+    "criteria": {
+      "has_herb": "2024-12-17 22:49:59 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/exp_share": {
+    "criteria": {
+      "has_exp": "2024-12-17 22:48:28 +0000"
     },
     "done": true
   },
