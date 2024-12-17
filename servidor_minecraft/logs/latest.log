@@ -1453,3 +1453,9 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [17Dec2024 21:35:41.614] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to Nach
 [17Dec2024 21:35:43.045] [Netty Epoll Server IO #2/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Nach
 [17Dec2024 21:35:43.694] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2920ms or 58 ticks behind
+[17Dec2024 21:58:25.203] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jeruuk[/100.92.187.4:64153] logged in with entity id 2962 at (-880.1227747816134, 63.0, -49.11002780355304)
+[17Dec2024 21:58:25.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeruuk joined the game
+[17Dec2024 21:58:25.305] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to Jeruuk
+[17Dec2024 21:58:26.037] [Netty Epoll Server IO #5/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Jeruuk
+[17Dec2024 21:59:36.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeruuk was shot by Skeleton
+[17Dec2024 22:03:30.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeruuk has made the advancement [Not Today, Thank You]

@@ -8807,6 +8807,42 @@
     },
     "done": true
   },
+  "cobblemon:recipes/held/choice_scarf": {
+    "criteria": {
+      "has_scarf": "2024-12-16 16:17:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_red_rock_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-12-16 16:27:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-12-16 16:27:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-12-16 16:27:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2024-12-16 16:27:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-12-16 16:27:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_purple_dye": "2024-12-16 16:32:07 +0000"
@@ -8825,15 +8861,33 @@
     },
     "done": true
   },
-  "minecraft:adventure/sleep_in_bed": {
+  "ad_astra:recipes/misc/small_purple_industrial_lamp": {
     "criteria": {
-      "slept_in_bed": "2024-12-16 17:17:04 +0000"
+      "has_small_purple_industrial_lamp": "2024-12-16 16:32:07 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/baked_cod_stew": {
+  "ad_astra:recipes/misc/purple_industrial_lamp": {
     "criteria": {
-      "has_any_ingredient": "2024-12-16 17:18:02 +0000"
+      "has_purple_industrial_lamp": "2024-12-16 16:32:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_purple_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-12-16 16:32:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_purple_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-12-16 16:32:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_purple_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-12-16 16:32:07 +0000"
     },
     "done": true
   },
@@ -8849,31 +8903,19 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_red_rock_bricks_from_moss_block": {
-    "criteria": {
-      "has_moss_block": "2024-12-16 16:27:48 +0000"
-    },
-    "done": true
-  },
-  "ad_astra:recipes/misc/small_purple_industrial_lamp": {
-    "criteria": {
-      "has_small_purple_industrial_lamp": "2024-12-16 16:32:07 +0000"
-    },
-    "done": true
-  },
-  "ad_astra:recipes/misc/purple_industrial_lamp": {
-    "criteria": {
-      "has_purple_industrial_lamp": "2024-12-16 16:32:07 +0000"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/held/choice_scarf": {
-    "criteria": {
-      "has_scarf": "2024-12-16 16:17:55 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2024-12-16 17:15:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2024-12-16 17:15:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_water": {
     "criteria": {
       "has_wheat": "2024-12-16 17:15:56 +0000"
     },
@@ -8885,9 +8927,21 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-16 17:17:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_chestplate": "2024-12-16 17:17:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-16 17:18:02 +0000"
     },
     "done": true
   },
@@ -8897,13 +8951,19 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
+  "minecraft:recipes/food/baked_potato": {
     "criteria": {
-      "has_wheat": "2024-12-16 17:15:56 +0000"
+      "has_potato": "2024-12-16 17:18:02 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/baked_potato": {
+  "farmersdelight:recipes/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-16 17:18:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2024-12-16 17:18:02 +0000"
     },
@@ -8921,21 +8981,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/wheat_dough_from_water": {
-    "criteria": {
-      "has_wheat": "2024-12-16 17:15:56 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/decorations/skillet": {
     "criteria": {
       "has_brick": "2024-12-16 17:27:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
-    "criteria": {
-      "has_moss_block": "2024-12-16 16:27:48 +0000"
     },
     "done": true
   },
@@ -8945,63 +8993,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_purple_bed": {
-    "criteria": {
-      "has_needed_dye": "2024-12-16 16:32:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_purple_wool": {
-    "criteria": {
-      "has_needed_dye": "2024-12-16 16:32:07 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/advanced_tool_swapper_upgrade": {
-    "criteria": {
-      "has_tool_swapper_upgrade": "2024-12-16 17:34:33 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/beef_stew": {
-    "criteria": {
-      "has_any_ingredient": "2024-12-16 17:18:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_purple_carpet": {
-    "criteria": {
-      "has_needed_dye": "2024-12-16 16:32:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato_from_smoking": {
-    "criteria": {
-      "has_potato": "2024-12-16 17:18:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_stone_from_moss_block": {
-    "criteria": {
-      "has_moss_block": "2024-12-16 16:27:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/moss_carpet": {
-    "criteria": {
-      "has_moss_block": "2024-12-16 16:27:48 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/flower_pot": {
     "criteria": {
       "has_brick": "2024-12-16 17:27:12 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+  "sophisticatedbackpacks:recipes/misc/advanced_tool_swapper_upgrade": {
     "criteria": {
-      "has_moss_block": "2024-12-16 16:27:48 +0000"
+      "has_tool_swapper_upgrade": "2024-12-16 17:34:33 +0000"
     },
     "done": true
   },
