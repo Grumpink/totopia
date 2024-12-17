@@ -88,6 +88,22 @@
             "discoveredTimestamp": 1734384661869,
             "caughtTimestamp": 1734384661869
           }
+        },
+        "dubwool": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1734477445546,
+            "caughtTimestamp": 1734477445546
+          }
+        },
+        "pachirisu": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1734477623695,
+            "caughtTimestamp": 1734477623695
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -98,24 +114,25 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 10,
+    "totalCaptureCount": 12,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 0,
-    "totalBattleVictoryCount": 13,
+    "totalBattleVictoryCount": 15,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 13,
+    "totalPvWBattleVictoryCount": 15,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
     "totalTypeCaptureCounts": {
       "fairy": 3,
-      "normal": 4,
+      "normal": 5,
       "grass": 1,
       "dark": 1,
       "ground": 2,
       "steel": 2,
       "fire": 1,
-      "water": 1
+      "water": 1,
+      "electric": 1
     },
     "totalDefeatedCounts": {
       "cobblemon:fletchling": 1,

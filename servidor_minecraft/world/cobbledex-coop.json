@@ -87,6 +87,22 @@
         "discoveredTimestamp": 1734384661870,
         "caughtTimestamp": 1734384661870
       }
+    },
+    "dubwool": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1734477445548,
+        "caughtTimestamp": 1734477445548
+      }
+    },
+    "pachirisu": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1734477623696,
+        "caughtTimestamp": 1734477623696
+      }
     }
   }
 }

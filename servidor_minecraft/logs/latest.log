@@ -1491,3 +1491,11 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [17Dec2024 23:03:11.380] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jeruuk lost connection: Disconnected
 [17Dec2024 23:03:11.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeruuk left the game
 [17Dec2024 23:03:37.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nach was slain by Zombie
+[17Dec2024 23:19:04.550] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jeruuk[/100.92.187.4:64471] logged in with entity id 20633 at (-865.5439827655525, 68.0, -56.190658708516004)
+[17Dec2024 23:19:04.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeruuk joined the game
+[17Dec2024 23:19:04.597] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to Jeruuk
+[17Dec2024 23:19:04.847] [Netty Epoll Server IO #5/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Jeruuk
+[17Dec2024 23:21:48.855] [Worker-Main-95/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[17Dec2024 23:21:48.864] [Worker-Main-95/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[17Dec2024 23:21:48.868] [Worker-Main-95/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[17Dec2024 23:23:37.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nach has made the advancement [Healing Power]
