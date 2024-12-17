@@ -1461,3 +1461,18 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [17Dec2024 22:03:30.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeruuk has made the advancement [Not Today, Thank You]
 [17Dec2024 22:12:18.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nach: Teleported Nach to Jeruuk]
 [17Dec2024 22:20:15.919] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jeruuk moved too quickly! -9.947611646375094,-0.8322033533667508,-3.1268733890698286
+[17Dec2024 22:25:25.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nach was shot by Skeleton
+[17Dec2024 22:27:24.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nach was slain by Spider
+[17Dec2024 22:35:03.232] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nach lost connection: Disconnected
+[17Dec2024 22:35:03.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nach left the game
+[17Dec2024 22:37:57.846] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nach[/100.99.77.103:61384] logged in with entity id 12135 at (-394.69999998807907, 71.0, -1509.6582981760655)
+[17Dec2024 22:37:57.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nach joined the game
+[17Dec2024 22:37:57.930] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to Nach
+[17Dec2024 22:37:59.319] [Netty Epoll Server IO #7/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Nach
+[17Dec2024 22:39:56.634] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nach lost connection: Disconnected
+[17Dec2024 22:39:56.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nach left the game
+[17Dec2024 22:43:13.150] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nach[/100.99.77.103:61498] logged in with entity id 13212 at (-395.56395735143127, 71.0, -1512.969190304319)
+[17Dec2024 22:43:13.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nach joined the game
+[17Dec2024 22:43:13.218] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to Nach
+[17Dec2024 22:43:14.989] [Netty Epoll Server IO #1/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Nach
+[17Dec2024 22:44:19.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeruuk was shot by Skeleton

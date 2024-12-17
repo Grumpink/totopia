@@ -7400,6 +7400,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "baked_potato": "2024-12-17 22:31:17 +0000",
       "bread": "2024-12-16 17:17:25 +0000",
       "cooked_rabbit": "2024-12-15 21:56:27 +0000",
       "cooked_chicken": "2024-12-15 22:02:16 +0000"
@@ -9014,6 +9015,24 @@
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2024-12-17 22:03:30 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2024-12-17 22:22:50 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/consumables/leek_and_potato_stew": {
+    "criteria": {
+      "has_potato": "2024-12-17 22:22:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2024-12-17 22:22:50 +0000"
     },
     "done": true
   },

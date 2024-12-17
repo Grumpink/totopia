@@ -11139,21 +11139,45 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/firework_rocket_simple": {
-    "criteria": {
-      "has_gunpowder": "2024-12-17 22:06:03 +0000"
-    },
-    "done": true
-  },
   "botania:recipes/misc/petal_blue_double": {
     "criteria": {
       "has_item": "2024-12-17 21:41:55 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2024-12-17 22:06:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2024-12-17 22:06:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2024-12-17 22:29:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_stairs": {
+    "criteria": {
+      "has_cut_dripstone": "2024-12-17 22:31:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_wall": {
+    "criteria": {
+      "has_cut_dripstone": "2024-12-17 22:31:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_slab": {
+    "criteria": {
+      "has_cut_dripstone": "2024-12-17 22:31:36 +0000"
     },
     "done": true
   },
