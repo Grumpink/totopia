@@ -1508,3 +1508,4 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [17Dec2024 23:40:20.342] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to Jeruuk
 [17Dec2024 23:40:20.738] [Netty Epoll Server IO #7/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Jeruuk
 [17Dec2024 23:40:32.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nach: Teleported Nach to Jeruuk]
+[17Dec2024 23:49:45.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nach has made the advancement [Where's my Victory Music?]

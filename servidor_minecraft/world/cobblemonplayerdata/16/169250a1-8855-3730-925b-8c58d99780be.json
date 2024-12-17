@@ -117,9 +117,9 @@
     "totalCaptureCount": 12,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 0,
-    "totalBattleVictoryCount": 15,
-    "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 15,
+    "totalBattleVictoryCount": 18,
+    "totalPvPBattleVictoryCount": 1,
+    "totalPvWBattleVictoryCount": 17,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
@@ -137,7 +137,9 @@
     "totalDefeatedCounts": {
       "cobblemon:fletchling": 1,
       "cobblemon:flabebe": 1,
-      "cobblemon:mudbray": 1
+      "cobblemon:mudbray": 1,
+      "cobblemon:nickit": 1,
+      "cobblemon:oddish": 1
     },
     "aspectsCollected": {}
   }
