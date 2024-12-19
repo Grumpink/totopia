@@ -1460,3 +1460,4 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [19Dec2024 13:58:29.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nach has made the advancement [Best Friends Forever]
 [19Dec2024 14:50:09.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nach was shot by Pillager
 [19Dec2024 14:59:10.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nach: Set own game mode to Creative Mode]
+[19Dec2024 15:42:53.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nach: Set own game mode to Survival Mode]
