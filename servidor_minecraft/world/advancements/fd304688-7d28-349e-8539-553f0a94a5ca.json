@@ -9861,6 +9861,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2024-12-19 22:53:10 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/building_blocks/witch_hazel_bookshelf": {
     "criteria": {
       "has_witch_hazel_planks": "2024-12-19 21:15:50 +0000"

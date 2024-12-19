@@ -1551,3 +1551,4 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [19Dec2024 22:33:05.364] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nach moved too quickly! 1005.3035287281509,-1.0,2024.1705260833382
 [19Dec2024 22:40:24.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nach: Teleported Nach to Jeruuk]
 [19Dec2024 22:42:56.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nach has made the advancement [A Seedy Place]
+[19Dec2024 22:55:28.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nach: Teleported Nach to Jeruuk]
