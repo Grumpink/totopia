@@ -10089,6 +10089,12 @@
     },
     "done": true
   },
+  "ad_astra:dj": {
+    "criteria": {
+      "has_radio": "2024-12-19 22:32:57 +0000"
+    },
+    "done": true
+  },
   "create:recipes/decorations/andesite_ladder_from_andesite_alloy_stonecutting": {
     "criteria": {
       "has_andesite_alloy": "2024-12-19 21:54:47 +0000"
