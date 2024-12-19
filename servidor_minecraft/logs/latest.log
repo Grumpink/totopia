@@ -1457,3 +1457,4 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [19Dec2024 13:20:49.037] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nach moved too quickly! -87.35795957073509,-65.0,122.28135083334223
 [19Dec2024 13:23:21.028] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nach moved too quickly! -46.87255609188503,43.0,45.52175840809605
 [19Dec2024 13:31:16.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nach was impaled on a stalagmite
+[19Dec2024 13:58:29.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nach has made the advancement [Best Friends Forever]
