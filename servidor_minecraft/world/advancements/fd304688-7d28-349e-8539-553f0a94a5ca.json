@@ -9050,12 +9050,6 @@
     },
     "done": true
   },
-  "cobblemon:trade_pokemon": {
-    "criteria": {
-      "trade": "2024-12-17 23:59:27 +0000"
-    },
-    "done": true
-  },
   "cobblemon:craft_base_balls": {
     "criteria": {
       "roseate_ball": "2024-12-17 23:56:12 +0000"
@@ -9077,6 +9071,12 @@
   "cobblemon:first_catch": {
     "criteria": {
       "catch": "2024-12-17 23:57:36 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:trade_pokemon": {
+    "criteria": {
+      "trade": "2024-12-17 23:59:27 +0000"
     },
     "done": true
   },
