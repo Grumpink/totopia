@@ -11317,6 +11317,36 @@
     },
     "done": true
   },
+  "ad_astra:recipes/compressing/compressing/iron_plate_from_compressing_iron_block": {
+    "criteria": {
+      "has_item": "2024-12-19 21:11:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2024-12-19 21:11:55 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/iron_ball": {
+    "criteria": {
+      "has_iron": "2024-12-19 21:11:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2024-12-19 21:11:55 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/advanced_tool_swapper_upgrade": {
+    "criteria": {
+      "has_tool_swapper_upgrade": "2024-12-19 21:24:34 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_andesite_stairs_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-19 21:46:30 +0000"
@@ -11341,12 +11371,6 @@
     },
     "done": true
   },
-  "ad_astra:recipes/compressing/compressing/iron_plate_from_compressing_iron_block": {
-    "criteria": {
-      "has_item": "2024-12-19 21:11:55 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/small_andesite_brick_stairs_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-19 21:46:30 +0000"
@@ -11368,12 +11392,6 @@
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-19 21:46:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
-    "criteria": {
-      "has_iron_block": "2024-12-19 21:11:55 +0000"
     },
     "done": true
   },
@@ -11461,18 +11479,6 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/advanced_tool_swapper_upgrade": {
-    "criteria": {
-      "has_tool_swapper_upgrade": "2024-12-19 21:24:34 +0000"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/held/iron_ball": {
-    "criteria": {
-      "has_iron": "2024-12-19 21:11:55 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/andesite_pillar_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-19 21:46:30 +0000"
@@ -11515,9 +11521,81 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/anvil": {
+  "biomeswevegone:recipes/misc/blue_dye_from_bwg_tag": {
     "criteria": {
-      "has_iron_block": "2024-12-19 21:11:55 +0000"
+      "TagKey[minecraft:item / biomeswevegone:dye/makes_blue_dye]": "2024-12-19 21:58:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_blue_dye": "2024-12-19 21:59:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_blue_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-12-19 21:59:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
+    "criteria": {
+      "has_blue_dye": "2024-12-19 21:59:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_blue_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-12-19 21:59:04 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/blue_industrial_lamp": {
+    "criteria": {
+      "has_blue_industrial_lamp": "2024-12-19 21:59:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_blue_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-12-19 21:59:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_blue_dye": "2024-12-19 21:59:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_candle": {
+    "criteria": {
+      "has_blue_dye": "2024-12-19 21:59:04 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/small_blue_industrial_lamp": {
+    "criteria": {
+      "has_small_blue_industrial_lamp": "2024-12-19 21:59:04 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/azulejo_0": {
+    "criteria": {
+      "has_item": "2024-12-19 21:59:04 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/white_shiny_flower": {
+    "criteria": {
+      "has_item": "2024-12-19 22:09:55 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_white": {
+    "criteria": {
+      "has_item": "2024-12-19 22:09:55 +0000"
     },
     "done": true
   },
