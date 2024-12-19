@@ -16,6 +16,22 @@
             "discoveredTimestamp": 1734131917965,
             "caughtTimestamp": 1734131917965
           }
+        },
+        "magikarp": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1734479856694,
+            "caughtTimestamp": 1734479856694
+          }
+        },
+        "psyduck": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1734479967809,
+            "caughtTimestamp": 1734479967809
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -26,16 +42,18 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 0,
+    "totalCaptureCount": 1,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 0,
-    "totalBattleVictoryCount": 3,
+    "totalBattleVictoryCount": 4,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 3,
+    "totalPvWBattleVictoryCount": 4,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
-    "totalTradedCount": 0,
-    "totalTypeCaptureCounts": {},
+    "totalTradedCount": 1,
+    "totalTypeCaptureCounts": {
+      "water": 1
+    },
     "totalDefeatedCounts": {
       "cobblemon:buneary": 1,
       "cobblemon:sentret": 1,

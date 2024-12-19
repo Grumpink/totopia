@@ -103,6 +103,22 @@
         "discoveredTimestamp": 1734477623696,
         "caughtTimestamp": 1734477623696
       }
+    },
+    "magikarp": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1734479856694,
+        "caughtTimestamp": 1734479856694
+      }
+    },
+    "plusle": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1734613397727,
+        "caughtTimestamp": 1734613397727
+      }
     }
   }
 }
