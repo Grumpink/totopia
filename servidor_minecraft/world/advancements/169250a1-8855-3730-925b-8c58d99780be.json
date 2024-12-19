@@ -7173,7 +7173,9 @@
   "cobblemon:obtain_all_berries": {
     "criteria": {
       "obtain_chesto_berry": "2024-12-13 23:53:03 +0000",
+      "obtain_coba_berry": "2024-12-19 21:36:12 +0000",
       "obtain_persim_berry": "2024-12-14 23:16:20 +0000",
+      "obtain_razz_berry": "2024-12-19 21:33:33 +0000",
       "obtain_oran_berry": "2024-12-14 23:13:26 +0000",
       "obtain_tanga_berry": "2024-12-17 23:12:27 +0000",
       "obtain_cheri_berry": "2024-12-15 23:09:49 +0000"
@@ -11312,6 +11314,36 @@
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2024-12-19 13:58:29 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/compressing/compressing/iron_plate_from_compressing_iron_block": {
+    "criteria": {
+      "has_item": "2024-12-19 21:11:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2024-12-19 21:11:55 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/advanced_tool_swapper_upgrade": {
+    "criteria": {
+      "has_tool_swapper_upgrade": "2024-12-19 21:24:34 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/iron_ball": {
+    "criteria": {
+      "has_iron": "2024-12-19 21:11:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2024-12-19 21:11:55 +0000"
     },
     "done": true
   },
