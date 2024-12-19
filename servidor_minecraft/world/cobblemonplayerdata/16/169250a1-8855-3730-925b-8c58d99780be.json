@@ -130,12 +130,12 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 14,
+    "totalCaptureCount": 15,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 0,
-    "totalBattleVictoryCount": 21,
+    "totalBattleVictoryCount": 22,
     "totalPvPBattleVictoryCount": 1,
-    "totalPvWBattleVictoryCount": 20,
+    "totalPvWBattleVictoryCount": 21,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 1,
@@ -147,7 +147,7 @@
       "ground": 2,
       "steel": 2,
       "fire": 1,
-      "water": 1,
+      "water": 2,
       "electric": 2
     },
     "totalDefeatedCounts": {

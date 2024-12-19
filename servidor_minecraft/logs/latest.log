@@ -1541,3 +1541,11 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [19Dec2024 22:13:25.470] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_end_1_pool
 [19Dec2024 22:13:25.470] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_end_1_pool
 [19Dec2024 22:13:31.322] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{cobblemon:pc}[facing=south,on=false,part=top,waterlogged=false] but failed at location BlockPos{x=-1663, y=99, z=-1683}
+[19Dec2024 22:16:03.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeruuk has made the advancement [Carbon Footprint]
+[19Dec2024 22:16:10.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nach has made the advancement [What a Deal!]
+[19Dec2024 22:19:19.374] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{cobblemon:pc}[facing=south,on=false,part=top,waterlogged=false] but failed at location BlockPos{x=-1929, y=65, z=-2073}
+[19Dec2024 22:19:43.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeruuk has made the advancement [Smart Blasting]
+[19Dec2024 22:27:31.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeruuk has made the advancement [Rocket Science]
+[19Dec2024 22:32:57.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeruuk has made the advancement [DJ]
+[19Dec2024 22:33:05.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nach: Teleported Nach to Jeruuk]
+[19Dec2024 22:33:05.364] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nach moved too quickly! 1005.3035287281509,-1.0,2024.1705260833382

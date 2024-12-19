@@ -9117,6 +9117,12 @@
     },
     "done": true
   },
+  "ad_astra:recipes/compressing/compressing/steel_plate_from_compressing_steel_blocks": {
+    "criteria": {
+      "has_item": "2024-12-19 22:26:29 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/gantry_shaft": {
     "criteria": {
       "has_item": "2024-12-19 21:54:47 +0000"
@@ -9141,15 +9147,51 @@
     },
     "done": true
   },
+  "ad_astra:recipes/misc/steel_ingot_from_steel_block": {
+    "criteria": {
+      "has_steel_ingot": "2024-12-19 22:26:29 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/steel_block": {
+    "criteria": {
+      "has_steel_block": "2024-12-19 22:23:47 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/super_glue": {
+    "criteria": {
+      "has_item": "2024-12-19 22:16:58 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/andesite_door": {
     "criteria": {
       "has_item": "2024-12-19 22:05:59 +0000"
     },
     "done": true
   },
+  "ad_astra:recipes/misc/zip_gun": {
+    "criteria": {
+      "has_zip_gun": "2024-12-19 22:25:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-12-19 21:31:15 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/encased_iron_block": {
+    "criteria": {
+      "has_encased_iron_block": "2024-12-19 22:16:58 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/nasa_workbench/nasa_workbench/tier_2_rocket_from_nasa_workbench": {
+    "criteria": {
+      "has_item": "2024-12-19 22:27:31 +0000"
     },
     "done": true
   },
@@ -9165,9 +9207,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2024-12-19 22:15:33 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/decorations/witch_hazel_sign": {
     "criteria": {
       "has_planks": "2024-12-19 21:15:50 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/wrench": {
+    "criteria": {
+      "has_wrench": "2024-12-19 22:16:58 +0000"
     },
     "done": true
   },
@@ -9198,6 +9252,18 @@
   "biomeswevegone:recipes/building_blocks/witch_hazel_stairs": {
     "criteria": {
       "has_planks": "2024-12-19 21:15:50 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/fan": {
+    "criteria": {
+      "has_fan": "2024-12-19 22:25:34 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/steel_rod": {
+    "criteria": {
+      "has_steel_rod": "2024-12-19 22:25:34 +0000"
     },
     "done": true
   },
@@ -9273,6 +9339,12 @@
     },
     "done": true
   },
+  "ad_astra:recipes/misc/steel_tank": {
+    "criteria": {
+      "has_steel_tank": "2024-12-19 22:25:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2024-12-19 21:44:00 +0000"
@@ -9282,6 +9354,12 @@
   "ad_astra:under_pressure": {
     "criteria": {
       "has_compressor": "2024-12-19 21:28:07 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/steel_panel": {
+    "criteria": {
+      "has_steel_panel": "2024-12-19 22:25:34 +0000"
     },
     "done": true
   },
@@ -9297,9 +9375,27 @@
     },
     "done": true
   },
+  "ad_astra:recipes/misc/steel_plateblock": {
+    "criteria": {
+      "has_steel_plateblock": "2024-12-19 22:25:34 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/belt_connector": {
     "criteria": {
       "has_item": "2024-12-19 21:54:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2024-12-19 22:25:51 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/compressing/compressing/steel_plate_from_compressing_steel_ingots": {
+    "criteria": {
+      "has_item": "2024-12-19 22:23:47 +0000"
     },
     "done": true
   },
@@ -9327,6 +9423,12 @@
     },
     "done": true
   },
+  "ad_astra:recipes/misc/airlock": {
+    "criteria": {
+      "has_airlock": "2024-12-19 22:25:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2024-12-19 21:44:00 +0000"
@@ -9336,6 +9438,18 @@
   "create:recipes/misc/crafting/curiosities/minecart_coupling": {
     "criteria": {
       "has_item": "2024-12-19 21:54:47 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/iron_rod": {
+    "criteria": {
+      "has_iron_rod": "2024-12-19 22:16:58 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/steel_cable": {
+    "criteria": {
+      "has_steel_cable": "2024-12-19 22:25:34 +0000"
     },
     "done": true
   },
@@ -9357,15 +9471,39 @@
     },
     "done": true
   },
+  "ad_astra:recipes/misc/fuel_refinery": {
+    "criteria": {
+      "has_fuel_refinery": "2024-12-19 22:25:34 +0000"
+    },
+    "done": true
+  },
   "cobblemon:recipes/held/eject_button": {
     "criteria": {
       "has_piston": "2024-12-19 21:26:02 +0000"
     },
     "done": true
   },
+  "ad_astra:recipes/nasa_workbench/nasa_workbench/tier_1_rocket_from_nasa_workbench": {
+    "criteria": {
+      "has_item": "2024-12-19 22:27:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall": {
     "criteria": {
       "has_granite": "2024-12-19 21:44:00 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/nasa_workbench": {
+    "criteria": {
+      "has_nasa_workbench": "2024-12-19 22:25:34 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/oxygen_loader": {
+    "criteria": {
+      "has_oxygen_loader": "2024-12-19 22:25:34 +0000"
     },
     "done": true
   },
@@ -9393,9 +9531,33 @@
     },
     "done": true
   },
+  "ad_astra:recipes/misc/vent": {
+    "criteria": {
+      "has_vent": "2024-12-19 22:25:34 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/ti_69": {
+    "criteria": {
+      "has_ti_69": "2024-12-19 22:25:34 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/oxygen_gear": {
+    "criteria": {
+      "has_oxygen_gear": "2024-12-19 22:25:34 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/granite_pillar_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-12-19 21:44:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/propeller": {
+    "criteria": {
+      "has_item": "2024-12-19 22:16:58 +0000"
     },
     "done": true
   },
@@ -9408,6 +9570,12 @@
   "create:recipes/misc/crafting/kinetics/turntable": {
     "criteria": {
       "has_item": "2024-12-19 21:54:47 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/space_suit": {
+    "criteria": {
+      "has_space_suit": "2024-12-19 22:25:34 +0000"
     },
     "done": true
   },
@@ -9447,6 +9615,24 @@
     },
     "done": true
   },
+  "ad_astra:recipes/misc/steel_trapdoor": {
+    "criteria": {
+      "has_steel_trapdoor": "2024-12-19 22:25:34 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/space_pants": {
+    "criteria": {
+      "has_space_pants": "2024-12-19 22:25:34 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/animated_torch": {
+    "criteria": {
+      "has_item": "2024-12-19 22:25:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2024-12-19 22:02:51 +0000"
@@ -9465,9 +9651,21 @@
     },
     "done": true
   },
+  "ad_astra:rocket_science": {
+    "criteria": {
+      "has_nasa_workbench": "2024-12-19 22:27:31 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/sticky_mechanical_piston": {
     "criteria": {
       "has_item": "2024-12-19 21:54:47 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/encased_fan": {
+    "criteria": {
+      "has_item": "2024-12-19 22:16:58 +0000"
     },
     "done": true
   },
@@ -9489,6 +9687,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/whisk": {
+    "criteria": {
+      "has_item": "2024-12-19 22:16:58 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/display_board": {
     "criteria": {
       "has_item": "2024-12-19 21:54:47 +0000"
@@ -9498,6 +9702,18 @@
   "biomeswevegone:recipes/decorations/witch_hazel_crafting_table": {
     "criteria": {
       "has_witch_hazel_planks": "2024-12-19 21:15:50 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/iron_plating": {
+    "criteria": {
+      "has_iron_plating": "2024-12-19 22:16:58 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/iron_factory_block": {
+    "criteria": {
+      "has_iron_factory_block": "2024-12-19 22:16:58 +0000"
     },
     "done": true
   },
@@ -9525,9 +9741,21 @@
     },
     "done": true
   },
+  "ad_astra:recipes/misc/steel_plating": {
+    "criteria": {
+      "has_steel_plating": "2024-12-19 22:25:34 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/speedometer": {
     "criteria": {
       "has_item": "2024-12-19 21:54:47 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/steel_door": {
+    "criteria": {
+      "has_steel_door": "2024-12-19 22:25:34 +0000"
     },
     "done": true
   },
@@ -9555,15 +9783,39 @@
     },
     "done": true
   },
+  "ad_astra:recipes/misc/iron_plateblock": {
+    "criteria": {
+      "has_iron_plateblock": "2024-12-19 22:16:58 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_granite_brick_wall_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-12-19 21:44:00 +0000"
     },
     "done": true
   },
+  "ad_astra:recipes/misc/radio": {
+    "criteria": {
+      "has_radio": "2024-12-19 22:25:34 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/rocket_fin": {
+    "criteria": {
+      "has_rocket_fin": "2024-12-19 22:25:34 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/mechanical_roller": {
     "criteria": {
       "has_item": "2024-12-19 22:05:59 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/reinforced_door": {
+    "criteria": {
+      "has_reinforced_door": "2024-12-19 22:25:34 +0000"
     },
     "done": true
   },
@@ -9603,9 +9855,21 @@
     },
     "done": true
   },
+  "ad_astra:carbon_footprint": {
+    "criteria": {
+      "has_coal_generator": "2024-12-19 22:16:03 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/building_blocks/witch_hazel_bookshelf": {
     "criteria": {
       "has_witch_hazel_planks": "2024-12-19 21:15:50 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/etrionic_blast_furnace": {
+    "criteria": {
+      "has_etrionic_blast_furnace": "2024-12-19 22:16:58 +0000"
     },
     "done": true
   },
@@ -9615,9 +9879,27 @@
     },
     "done": true
   },
+  "ad_astra:recipes/misc/steel_nugget": {
+    "criteria": {
+      "has_steel_nugget": "2024-12-19 22:23:47 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/space_boots": {
+    "criteria": {
+      "has_space_boots": "2024-12-19 22:25:34 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/mechanical_bearing": {
     "criteria": {
       "has_item": "2024-12-19 22:05:59 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/steel_factory_block": {
+    "criteria": {
+      "has_steel_factory_block": "2024-12-19 22:25:34 +0000"
     },
     "done": true
   },
@@ -9633,9 +9915,21 @@
     },
     "done": true
   },
+  "ad_astra:recipes/alloying/alloying/steel_ingot_from_alloying_iron_ingot_and_coals": {
+    "criteria": {
+      "has_item": "2024-12-19 22:19:43 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/redstone/witch_hazel_button": {
     "criteria": {
       "has_planks": "2024-12-19 21:15:50 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/nasa_workbench/nasa_workbench/tier_3_rocket_from_nasa_workbench": {
+    "criteria": {
+      "has_item": "2024-12-19 22:27:31 +0000"
     },
     "done": true
   },
@@ -9711,6 +10005,12 @@
     },
     "done": true
   },
+  "ad_astra:recipes/misc/gas_tank": {
+    "criteria": {
+      "has_gas_tank": "2024-12-19 22:16:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
     "criteria": {
       "has_smooth_stone": "2024-12-19 21:33:53 +0000"
@@ -9732,6 +10032,12 @@
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-12-19 21:31:15 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/encased_steel_block": {
+    "criteria": {
+      "has_encased_steel_block": "2024-12-19 22:25:34 +0000"
     },
     "done": true
   },
@@ -9759,6 +10065,12 @@
     },
     "done": true
   },
+  "ad_astra:recipes/misc/iron_panel": {
+    "criteria": {
+      "has_iron_panel": "2024-12-19 22:16:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-12-19 21:31:15 +0000"
@@ -9768,6 +10080,12 @@
   "create:recipes/misc/crafting/kinetics/mechanical_mixer": {
     "criteria": {
       "has_item": "2024-12-19 21:54:47 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/wheel": {
+    "criteria": {
+      "has_wheel": "2024-12-19 22:25:34 +0000"
     },
     "done": true
   },
@@ -9783,15 +10101,39 @@
     },
     "done": true
   },
+  "ad_astra:recipes/nasa_workbench/nasa_workbench/tier_4_rocket_from_nasa_workbench": {
+    "criteria": {
+      "has_item": "2024-12-19 22:27:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-12-19 21:31:15 +0000"
     },
     "done": true
   },
+  "ad_astra:recipes/misc/steel_engine": {
+    "criteria": {
+      "has_steel_engine": "2024-12-19 22:25:34 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_granite_brick_slab_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-12-19 21:44:00 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/large_gas_tank": {
+    "criteria": {
+      "has_large_gas_tank": "2024-12-19 22:25:34 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/etrionic_capacitor": {
+    "criteria": {
+      "has_etrionic_capacitor": "2024-12-19 22:25:34 +0000"
     },
     "done": true
   },
@@ -9831,6 +10173,18 @@
     },
     "done": true
   },
+  "ad_astra:recipes/misc/space_helmet": {
+    "criteria": {
+      "has_space_helmet": "2024-12-19 22:25:34 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/launch_pad": {
+    "criteria": {
+      "has_launch_pad": "2024-12-19 22:25:34 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/redstone/witch_hazel_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-19 21:15:50 +0000"
@@ -9843,15 +10197,51 @@
     },
     "done": true
   },
+  "ad_astra:smart_blasting": {
+    "criteria": {
+      "has_etrionic_blast_furnace": "2024-12-19 22:19:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2024-12-19 22:02:51 +0000"
     },
     "done": true
   },
+  "ad_astra:recipes/misc/steel_sliding_door": {
+    "criteria": {
+      "has_steel_sliding_door": "2024-12-19 22:25:34 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/rocket_nose_cone": {
+    "criteria": {
+      "has_rocket_nose_cone": "2024-12-19 22:25:34 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/gearshift": {
     "criteria": {
       "has_item": "2024-12-19 22:05:59 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/engine_frame": {
+    "criteria": {
+      "has_engine_frame": "2024-12-19 22:25:34 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:ad_astra": {
+    "criteria": {
+      "has_coal_generator": "2024-12-19 22:16:03 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/cable_duct": {
+    "criteria": {
+      "has_cable_duct": "2024-12-19 22:25:34 +0000"
     },
     "done": true
   },
