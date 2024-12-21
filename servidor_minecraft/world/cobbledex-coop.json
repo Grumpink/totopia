@@ -119,6 +119,14 @@
         "discoveredTimestamp": 1734613397727,
         "caughtTimestamp": 1734613397727
       }
+    },
+    "drifloon": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1734824663129,
+        "caughtTimestamp": 1734824663129
+      }
     }
   }
 }

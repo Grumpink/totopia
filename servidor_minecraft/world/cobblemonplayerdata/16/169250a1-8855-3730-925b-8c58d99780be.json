@@ -120,22 +120,32 @@
             "discoveredTimestamp": 1734613397724,
             "caughtTimestamp": 1734613397724
           }
+        },
+        "drifloon": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1734824663123,
+            "caughtTimestamp": 1734824663123
+          }
         }
       },
       "name": "cobbledex_discovery"
     },
     "Cobbledex_RewardHistory": {
-      "received": [],
+      "received": [
+        "15"
+      ],
       "name": "Cobbledex_RewardHistory"
     }
   },
   "advancementData": {
-    "totalCaptureCount": 15,
+    "totalCaptureCount": 16,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 0,
-    "totalBattleVictoryCount": 22,
+    "totalBattleVictoryCount": 23,
     "totalPvPBattleVictoryCount": 1,
-    "totalPvWBattleVictoryCount": 21,
+    "totalPvWBattleVictoryCount": 22,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 1,
@@ -148,7 +158,9 @@
       "steel": 2,
       "fire": 1,
       "water": 2,
-      "electric": 2
+      "electric": 2,
+      "ghost": 1,
+      "flying": 1
     },
     "totalDefeatedCounts": {
       "cobblemon:fletchling": 1,
