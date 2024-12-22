@@ -282,6 +282,27 @@
         "status": "SEEN",
         "discoveredTimestamp": 1734908087498
       }
+    },
+    "paras": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1734908662648
+      }
+    },
+    "weedle": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1734908701743
+      }
+    },
+    "shroomish": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1734908734971
+      }
     }
   }
 }

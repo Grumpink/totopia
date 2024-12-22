@@ -107,6 +107,27 @@
             "status": "SEEN",
             "discoveredTimestamp": 1734908087497
           }
+        },
+        "paras": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1734908662647
+          }
+        },
+        "weedle": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1734908701742
+          }
+        },
+        "shroomish": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1734908734971
+          }
         }
       },
       "name": "cobbledex_discovery"

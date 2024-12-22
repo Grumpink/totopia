@@ -1604,3 +1604,12 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [22Dec2024 22:58:53.058] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3, y=142, z=-11} BlockPos{x=-5, y=143, z=-17}
 [22Dec2024 22:58:53.122] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3, y=142, z=-11} BlockPos{x=-5, y=143, z=-17}
 [22Dec2024 22:58:56.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NiceDic was slain by Zombie
+[22Dec2024 22:59:49.397] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=24, y=141, z=-22} BlockPos{x=-3, y=142, z=-16}
+[22Dec2024 23:00:41.708] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2, y=143, z=-14} BlockPos{x=-5, y=142, z=-21}
+[22Dec2024 23:00:41.808] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2, y=143, z=-14} BlockPos{x=-4, y=142, z=-21}
+[22Dec2024 23:00:42.408] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2, y=143, z=-14} BlockPos{x=-5, y=142, z=-23}
+[22Dec2024 23:00:46.990] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2, y=143, z=-14} BlockPos{x=-6, y=145, z=-23}
+[22Dec2024 23:00:47.753] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2, y=143, z=-14} BlockPos{x=-5, y=145, z=-22}
+[22Dec2024 23:01:06.987] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[22Dec2024 23:04:40.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NiceDic has made the advancement [Mother Nature's Bounty]
+[22Dec2024 23:04:40.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NiceDic has made the advancement [Very Berry]

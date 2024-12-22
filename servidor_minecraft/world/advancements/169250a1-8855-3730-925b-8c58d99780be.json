@@ -12400,15 +12400,75 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-12-22 23:02:08 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_ochrum_brick_slab_from_stone_types_ochrum_stonecutting": {
     "criteria": {
       "has_stone_types_ochrum": "2024-12-22 21:53:49 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-12-22 23:02:08 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_ochrum_stairs_from_stone_types_ochrum_stonecutting": {
     "criteria": {
       "has_stone_types_ochrum": "2024-12-22 21:53:49 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/steel_block": {
+    "criteria": {
+      "has_steel_block": "2024-12-22 23:01:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/super_glue": {
+    "criteria": {
+      "has_item": "2024-12-22 23:05:34 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/zip_gun": {
+    "criteria": {
+      "has_zip_gun": "2024-12-22 23:02:11 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/encased_iron_block": {
+    "criteria": {
+      "has_encased_iron_block": "2024-12-22 23:05:34 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/wrench": {
+    "criteria": {
+      "has_wrench": "2024-12-22 23:05:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-12-22 23:02:08 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/fan": {
+    "criteria": {
+      "has_fan": "2024-12-22 23:02:11 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/steel_rod": {
+    "criteria": {
+      "has_steel_rod": "2024-12-22 23:02:11 +0000"
     },
     "done": true
   },
@@ -12430,9 +12490,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-12-22 23:02:08 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/steel_tank": {
+    "criteria": {
+      "has_steel_tank": "2024-12-22 23:02:11 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_ochrum_slab_from_stone_types_ochrum_stonecutting": {
     "criteria": {
       "has_stone_types_ochrum": "2024-12-22 21:53:49 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/steel_panel": {
+    "criteria": {
+      "has_steel_panel": "2024-12-22 23:02:11 +0000"
     },
     "done": true
   },
@@ -12442,9 +12520,99 @@
     },
     "done": true
   },
+  "ad_astra:recipes/misc/steel_plateblock": {
+    "criteria": {
+      "has_steel_plateblock": "2024-12-22 23:02:11 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/compressing/compressing/steel_plate_from_compressing_steel_ingots": {
+    "criteria": {
+      "has_item": "2024-12-22 23:01:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-12-22 23:02:08 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/airlock": {
+    "criteria": {
+      "has_airlock": "2024-12-22 23:02:11 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/iron_rod": {
+    "criteria": {
+      "has_iron_rod": "2024-12-22 23:05:34 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/steel_cable": {
+    "criteria": {
+      "has_steel_cable": "2024-12-22 23:02:11 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/fuel_refinery": {
+    "criteria": {
+      "has_fuel_refinery": "2024-12-22 23:02:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_red_rock_bricks_from_moss_block": {
     "criteria": {
       "has_moss_block": "2024-12-22 21:29:27 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/nasa_workbench": {
+    "criteria": {
+      "has_nasa_workbench": "2024-12-22 23:02:11 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/oxygen_loader": {
+    "criteria": {
+      "has_oxygen_loader": "2024-12-22 23:02:11 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/vent": {
+    "criteria": {
+      "has_vent": "2024-12-22 23:02:11 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/ti_69": {
+    "criteria": {
+      "has_ti_69": "2024-12-22 23:02:11 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/oxygen_gear": {
+    "criteria": {
+      "has_oxygen_gear": "2024-12-22 23:02:11 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/propeller": {
+    "criteria": {
+      "has_item": "2024-12-22 23:05:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-12-22 23:02:08 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/space_suit": {
+    "criteria": {
+      "has_space_suit": "2024-12-22 23:02:11 +0000"
     },
     "done": true
   },
@@ -12454,9 +12622,57 @@
     },
     "done": true
   },
+  "ad_astra:recipes/misc/steel_trapdoor": {
+    "criteria": {
+      "has_steel_trapdoor": "2024-12-22 23:02:11 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/space_pants": {
+    "criteria": {
+      "has_space_pants": "2024-12-22 23:02:11 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/encased_fan": {
+    "criteria": {
+      "has_item": "2024-12-22 23:05:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2024-12-22 22:51:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/whisk": {
+    "criteria": {
+      "has_item": "2024-12-22 23:05:34 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/iron_plating": {
+    "criteria": {
+      "has_iron_plating": "2024-12-22 23:05:34 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/iron_factory_block": {
+    "criteria": {
+      "has_iron_factory_block": "2024-12-22 23:05:34 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/steel_plating": {
+    "criteria": {
+      "has_steel_plating": "2024-12-22 23:02:11 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/steel_door": {
+    "criteria": {
+      "has_steel_door": "2024-12-22 23:02:11 +0000"
     },
     "done": true
   },
@@ -12472,9 +12688,57 @@
     },
     "done": true
   },
+  "ad_astra:recipes/misc/iron_plateblock": {
+    "criteria": {
+      "has_iron_plateblock": "2024-12-22 23:05:34 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/radio": {
+    "criteria": {
+      "has_radio": "2024-12-22 23:02:11 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/rocket_fin": {
+    "criteria": {
+      "has_rocket_fin": "2024-12-22 23:02:11 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/reinforced_door": {
+    "criteria": {
+      "has_reinforced_door": "2024-12-22 23:02:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_feather": "2024-12-22 21:02:38 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/etrionic_blast_furnace": {
+    "criteria": {
+      "has_etrionic_blast_furnace": "2024-12-22 23:05:34 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/steel_nugget": {
+    "criteria": {
+      "has_steel_nugget": "2024-12-22 23:01:48 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/space_boots": {
+    "criteria": {
+      "has_space_boots": "2024-12-22 23:02:11 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/steel_factory_block": {
+    "criteria": {
+      "has_steel_factory_block": "2024-12-22 23:02:11 +0000"
     },
     "done": true
   },
@@ -12490,9 +12754,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-12-22 23:02:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-12-22 23:02:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-12-22 23:02:08 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/gas_tank": {
+    "criteria": {
+      "has_gas_tank": "2024-12-22 23:05:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
     "criteria": {
       "has_moss_block": "2024-12-22 21:29:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-12-22 23:02:08 +0000"
     },
     "done": true
   },
@@ -12502,9 +12796,51 @@
     },
     "done": true
   },
+  "ad_astra:recipes/misc/encased_steel_block": {
+    "criteria": {
+      "has_encased_steel_block": "2024-12-22 23:02:11 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/iron_panel": {
+    "criteria": {
+      "has_iron_panel": "2024-12-22 23:05:34 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_ochrum_from_stone_types_ochrum_stonecutting": {
     "criteria": {
       "has_stone_types_ochrum": "2024-12-22 21:53:49 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/wheel": {
+    "criteria": {
+      "has_wheel": "2024-12-22 23:02:11 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/steel_engine": {
+    "criteria": {
+      "has_steel_engine": "2024-12-22 23:02:11 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/large_gas_tank": {
+    "criteria": {
+      "has_large_gas_tank": "2024-12-22 23:02:11 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/etrionic_capacitor": {
+    "criteria": {
+      "has_etrionic_capacitor": "2024-12-22 23:02:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-12-22 23:02:08 +0000"
     },
     "done": true
   },
@@ -12526,9 +12862,33 @@
     },
     "done": true
   },
+  "ad_astra:recipes/misc/space_helmet": {
+    "criteria": {
+      "has_space_helmet": "2024-12-22 23:02:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-12-22 23:02:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/moss_carpet": {
     "criteria": {
       "has_moss_block": "2024-12-22 21:29:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-12-22 23:02:08 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/launch_pad": {
+    "criteria": {
+      "has_launch_pad": "2024-12-22 23:02:11 +0000"
     },
     "done": true
   },
@@ -12550,9 +12910,33 @@
     },
     "done": true
   },
+  "ad_astra:recipes/misc/steel_sliding_door": {
+    "criteria": {
+      "has_steel_sliding_door": "2024-12-22 23:02:11 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/rocket_nose_cone": {
+    "criteria": {
+      "has_rocket_nose_cone": "2024-12-22 23:02:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
     "criteria": {
       "has_moss_block": "2024-12-22 21:29:27 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/engine_frame": {
+    "criteria": {
+      "has_engine_frame": "2024-12-22 23:02:11 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/cable_duct": {
+    "criteria": {
+      "has_cable_duct": "2024-12-22 23:02:11 +0000"
     },
     "done": true
   },
