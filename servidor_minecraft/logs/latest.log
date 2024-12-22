@@ -10,3 +10,6 @@
 [22Dec2024 00:55:22.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nach has made the advancement [Vivid Wave]
 [22Dec2024 01:02:49.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nach was doomed to fall by Creeper
 [22Dec2024 01:16:08.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nach has made the advancement [Electric Magic]
+[22Dec2024 01:21:11.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nach: Teleported Nach to Jeruuk]
+[22Dec2024 01:24:06.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeruuk has made the advancement [Astronaut]
+[22Dec2024 01:27:19.710] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{cobblemon:pc}[facing=west,on=false,part=top,waterlogged=false] but failed at location BlockPos{x=-205, y=121, z=-2031}

@@ -6329,6 +6329,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2024-12-22 01:23:58 +0000",
       "cooked_beef": "2024-12-15 22:40:41 +0000",
       "baked_potato": "2024-12-15 22:41:59 +0000",
       "apple": "2024-12-13 23:18:12 +0000",
@@ -11926,6 +11927,12 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/floating_hydroangeas": {
+    "criteria": {
+      "has_item": "2024-12-22 01:16:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/pumpkin_seeds": {
     "criteria": {
       "has_pumpkin": "2024-12-22 01:03:11 +0000"
@@ -11935,6 +11942,12 @@
   "botania:recipes/building_blocks/blue_pavement": {
     "criteria": {
       "has_item": "2024-12-22 00:50:46 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/blue_shiny_flower": {
+    "criteria": {
+      "has_item": "2024-12-22 01:14:29 +0000"
     },
     "done": true
   },
@@ -12013,6 +12026,12 @@
   "botania:recipes/misc/petal_white_double": {
     "criteria": {
       "has_alt_item": "2024-12-22 00:16:56 +0000"
+    },
+    "done": true
+  },
+  "botania:main/generating_flower": {
+    "criteria": {
+      "flower": "2024-12-22 01:16:08 +0000"
     },
     "done": true
   },
