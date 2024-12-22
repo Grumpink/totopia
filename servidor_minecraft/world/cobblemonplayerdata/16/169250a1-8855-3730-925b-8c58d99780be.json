@@ -144,6 +144,14 @@
             "discoveredTimestamp": 1734827684314,
             "caughtTimestamp": 1734827684314
           }
+        },
+        "pichu": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1734902281241,
+            "caughtTimestamp": 1734902281241
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -156,12 +164,12 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 18,
+    "totalCaptureCount": 19,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 0,
-    "totalBattleVictoryCount": 32,
+    "totalBattleVictoryCount": 33,
     "totalPvPBattleVictoryCount": 1,
-    "totalPvWBattleVictoryCount": 31,
+    "totalPvWBattleVictoryCount": 32,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 1,
@@ -174,7 +182,7 @@
       "steel": 2,
       "fire": 1,
       "water": 2,
-      "electric": 2,
+      "electric": 3,
       "ghost": 1,
       "flying": 1,
       "poison": 1
