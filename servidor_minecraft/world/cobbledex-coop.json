@@ -151,6 +151,14 @@
         "discoveredTimestamp": 1734902281243,
         "caughtTimestamp": 1734902281243
       }
+    },
+    "pikachu": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1734902588328,
+        "caughtTimestamp": 1734902588328
+      }
     }
   }
 }
