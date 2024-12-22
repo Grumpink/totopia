@@ -128,6 +128,13 @@
             "status": "SEEN",
             "discoveredTimestamp": 1734908734971
           }
+        },
+        "joltik": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1734910564480
+          }
         }
       },
       "name": "cobbledex_discovery"

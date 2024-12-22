@@ -311,6 +311,13 @@
         "discoveredTimestamp": 1734910192787,
         "caughtTimestamp": 1734910192787
       }
+    },
+    "joltik": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1734910564481
+      }
     }
   }
 }

@@ -1710,3 +1710,12 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [22Dec2024 23:21:39.828] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
 [22Dec2024 23:21:50.147] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{cobblemon:pc}[facing=north,on=false,part=top,waterlogged=false] but failed at location BlockPos{x=783, y=133, z=-1613}
 [22Dec2024 23:24:59.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NiceDic has made the advancement [Is it a Fruit or is it a Nut?]
+[22Dec2024 23:30:58.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nach blew up
+[22Dec2024 23:32:25.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nach: Set own game mode to Creative Mode]
+[22Dec2024 23:34:05.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nach: Set own game mode to Survival Mode]
+[22Dec2024 23:34:11.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nach: Teleported Nach to Jeruuk]
+[22Dec2024 23:36:41.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NiceDic has made the advancement [Bonfire Lit]
+[22Dec2024 23:37:16.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NiceDic was blown up by Creeper
+[22Dec2024 23:39:44.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeruuk has made the advancement [Ocean Cleanup]
+[22Dec2024 23:45:15.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nach: Teleported Nach to Jeruuk]
+[22Dec2024 23:47:35.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nach has made the advancement [Ocean Cleanup]
