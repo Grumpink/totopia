@@ -13,3 +13,10 @@
 [22Dec2024 01:21:11.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nach: Teleported Nach to Jeruuk]
 [22Dec2024 01:24:06.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeruuk has made the advancement [Astronaut]
 [22Dec2024 01:27:19.710] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{cobblemon:pc}[facing=west,on=false,part=top,waterlogged=false] but failed at location BlockPos{x=-205, y=121, z=-2031}
+[22Dec2024 01:32:01.209] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_main_room_pool
+[22Dec2024 01:32:01.210] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_additions_1_pool
+[22Dec2024 01:32:01.210] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_additions_2_pool
+[22Dec2024 01:32:01.210] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_additions_3_pool
+[22Dec2024 01:32:07.057] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{cobblemon:pc}[facing=south,on=false,part=top,waterlogged=false] but failed at location BlockPos{x=-319, y=69, z=-2323}
+[22Dec2024 01:36:12.510] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jeruuk lost connection: Disconnected
+[22Dec2024 01:36:12.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeruuk left the game

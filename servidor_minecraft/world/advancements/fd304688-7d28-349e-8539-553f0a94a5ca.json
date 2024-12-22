@@ -10684,6 +10684,12 @@
     },
     "done": true
   },
+  "ad_astra:astronaut": {
+    "criteria": {
+      "has_astronaut": "2024-12-22 01:24:06 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/building_blocks/purple_sand": {
     "criteria": {
       "has_sand": "2024-12-22 00:47:51 +0000"
