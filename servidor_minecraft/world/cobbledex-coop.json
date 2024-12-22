@@ -303,6 +303,14 @@
         "status": "SEEN",
         "discoveredTimestamp": 1734908734971
       }
+    },
+    "gimmighoul": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1734910192787,
+        "caughtTimestamp": 1734910192787
+      }
     }
   }
 }
