@@ -1613,3 +1613,6 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [22Dec2024 23:01:06.987] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
 [22Dec2024 23:04:40.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NiceDic has made the advancement [Mother Nature's Bounty]
 [22Dec2024 23:04:40.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NiceDic has made the advancement [Very Berry]
+[22Dec2024 23:09:48.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nach has made the advancement [Astronaut]
+[22Dec2024 23:12:28.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NiceDic has made the advancement [Berrily Alive]
+[22Dec2024 23:14:37.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NiceDic was slain by Spider

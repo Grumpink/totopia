@@ -12754,6 +12754,12 @@
     },
     "done": true
   },
+  "ad_astra:astronaut": {
+    "criteria": {
+      "has_astronaut": "2024-12-22 23:09:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-12-22 23:02:08 +0000"
