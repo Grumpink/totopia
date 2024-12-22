@@ -168,6 +168,22 @@
             "discoveredTimestamp": 1734903927336,
             "caughtTimestamp": 1734903927336
           }
+        },
+        "heracross": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1734905512022,
+            "caughtTimestamp": 1734905512022
+          }
+        },
+        "phanpy": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1734906475685,
+            "caughtTimestamp": 1734906475685
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -180,12 +196,12 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 21,
+    "totalCaptureCount": 23,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 0,
-    "totalBattleVictoryCount": 35,
+    "totalBattleVictoryCount": 40,
     "totalPvPBattleVictoryCount": 1,
-    "totalPvWBattleVictoryCount": 34,
+    "totalPvWBattleVictoryCount": 39,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 1,
@@ -194,14 +210,16 @@
       "normal": 7,
       "grass": 1,
       "dark": 1,
-      "ground": 3,
+      "ground": 4,
       "steel": 3,
       "fire": 1,
       "water": 2,
       "electric": 4,
       "ghost": 1,
       "flying": 1,
-      "poison": 1
+      "poison": 1,
+      "bug": 1,
+      "fighting": 1
     },
     "totalDefeatedCounts": {
       "cobblemon:fletchling": 1,
@@ -214,9 +232,12 @@
       "cobblemon:taillow": 1,
       "cobblemon:pidgey": 1,
       "cobblemon:zigzagoon": 1,
-      "cobblemon:bunnelby": 1,
+      "cobblemon:bunnelby": 2,
       "cobblemon:combee": 1,
-      "cobblemon:wooloo": 1
+      "cobblemon:wooloo": 1,
+      "cobblemon:mightyena": 1,
+      "cobblemon:buneary": 1,
+      "cobblemon:koffing": 1
     },
     "aspectsCollected": {}
   }

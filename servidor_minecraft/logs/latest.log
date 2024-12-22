@@ -1500,3 +1500,107 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [22Dec2024 22:06:49.656] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jeruuk moved too quickly! 19.04017265415962,72.0,-34.38243066555009
 [22Dec2024 22:06:56.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nach: Teleported NiceDic to Nach]
 [22Dec2024 22:08:09.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NiceDic has made the advancement [Monster Hunter]
+[22Dec2024 22:08:58.669] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NiceDic lost connection: Timed out
+[22Dec2024 22:08:58.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NiceDic left the game
+[22Dec2024 22:08:58.719] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[22Dec2024 22:18:40.286] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NiceDic[/100.80.228.98:65374] logged in with entity id 19610 at (-917.0047449652557, 118.0, -389.2451424540541)
+[22Dec2024 22:18:40.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NiceDic joined the game
+[22Dec2024 22:18:40.332] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to NiceDic
+[22Dec2024 22:18:44.444] [Netty Epoll Server IO #7/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from NiceDic
+[22Dec2024 22:23:13.847] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_main_room_pool
+[22Dec2024 22:23:13.848] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_additions_3_pool
+[22Dec2024 22:23:13.849] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_additions_2_pool
+[22Dec2024 22:23:13.849] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_additions_1_pool
+[22Dec2024 22:25:59.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeruuk has made the advancement [Sneak 100]
+[22Dec2024 22:28:22.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeruuk was obliterated by a sonically-charged shriek
+[22Dec2024 22:30:24.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nach: Teleported Jeruuk to -850.500000, -35.000000, -336.500000]
+[22Dec2024 22:31:20.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nach: Teleported Jeruuk to Nach]
+[22Dec2024 22:31:48.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NiceDic was slain by Spider
+[22Dec2024 22:33:52.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NiceDic has made the advancement [Best Friends Forever]
+[22Dec2024 22:33:54.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nach: Teleported Jeruuk to Nach]
+[22Dec2024 22:35:23.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nach: Teleported Jeruuk to Nach]
+[22Dec2024 22:40:59.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nach> you can tell me if you need tp to your corpse or things like that
+[22Dec2024 22:44:20.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NiceDic has made the advancement [Stone Age]
+[22Dec2024 22:45:19.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NiceDic has made the advancement [Getting an Upgrade]
+[22Dec2024 22:45:39.588] [Worker-Main-22/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_2_pool
+[22Dec2024 22:45:39.589] [Worker-Main-22/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_4_pool
+[22Dec2024 22:45:39.590] [Worker-Main-22/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[22Dec2024 22:45:39.590] [Worker-Main-22/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[22Dec2024 22:45:39.590] [Worker-Main-22/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[22Dec2024 22:46:05.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NiceDic has made the advancement [The World of Cobblemon!]
+[22Dec2024 22:47:04.915] [Worker-Main-21/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[22Dec2024 22:47:04.916] [Worker-Main-21/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_2_pool
+[22Dec2024 22:47:04.916] [Worker-Main-21/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_4_pool
+[22Dec2024 22:47:04.916] [Worker-Main-21/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_1_pool
+[22Dec2024 22:47:04.917] [Worker-Main-21/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[22Dec2024 22:47:04.917] [Worker-Main-21/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[22Dec2024 22:47:04.918] [Worker-Main-21/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[22Dec2024 22:47:04.919] [Worker-Main-21/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_additions_3_pool
+[22Dec2024 22:47:04.919] [Worker-Main-21/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[22Dec2024 22:47:04.920] [Worker-Main-21/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[22Dec2024 22:49:11.186] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-376, y=31, z=-419}
+[22Dec2024 22:49:14.143] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-286, y=25, z=-317}
+[22Dec2024 22:49:15.353] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-294, y=31, z=-316}
+[22Dec2024 22:49:15.353] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-292, y=26, z=-305}
+[22Dec2024 22:49:15.353] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-296, y=31, z=-312}
+[22Dec2024 22:49:15.354] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-293, y=31, z=-307}
+[22Dec2024 22:49:15.354] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-294, y=31, z=-306}
+[22Dec2024 22:49:15.354] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-287, y=26, z=-308}
+[22Dec2024 22:49:17.982] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-297, y=25, z=-317}
+[22Dec2024 22:49:23.306] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-226, y=31, z=-338}
+[22Dec2024 22:49:23.307] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-227, y=31, z=-338}
+[22Dec2024 22:49:23.307] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-223, y=26, z=-337}
+[22Dec2024 22:49:23.308] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-223, y=26, z=-336}
+[22Dec2024 22:49:29.140] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-351, y=31, z=-337}
+[22Dec2024 22:49:29.141] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-348, y=36, z=-334}
+[22Dec2024 22:49:29.264] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-351, y=31, z=-337}
+[22Dec2024 22:49:29.264] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-343, y=30, z=-333}
+[22Dec2024 22:49:29.264] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-348, y=36, z=-334}
+[22Dec2024 22:49:29.271] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-343, y=30, z=-333}
+[22Dec2024 22:49:29.271] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-349, y=30, z=-329}
+[22Dec2024 22:49:30.106] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-349, y=30, z=-329}
+[22Dec2024 22:50:35.689] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:house_basement_pool
+[22Dec2024 22:50:35.690] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[22Dec2024 22:50:35.690] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[22Dec2024 22:50:35.690] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_end_1_pool
+[22Dec2024 22:50:36.243] [Worker-Main-22/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-323, y=31, z=-358}
+[22Dec2024 22:50:36.244] [Worker-Main-22/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-323, y=36, z=-361}
+[22Dec2024 22:50:36.419] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-376, y=31, z=-419}
+[22Dec2024 22:53:41.776] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-18, y=140, z=-6} BlockPos{x=-14, y=144, z=-16}
+[22Dec2024 22:56:10.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeruuk has made the advancement [Baby's First Rocket]
+[22Dec2024 22:58:45.410] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3, y=142, z=-11} BlockPos{x=-3, y=143, z=-17}
+[22Dec2024 22:58:46.559] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3, y=142, z=-11} BlockPos{x=-4, y=143, z=-17}
+[22Dec2024 22:58:46.699] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3, y=142, z=-11} BlockPos{x=-4, y=143, z=-17}
+[22Dec2024 22:58:46.773] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3, y=142, z=-11} BlockPos{x=-4, y=143, z=-17}
+[22Dec2024 22:58:46.868] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3, y=142, z=-11} BlockPos{x=-4, y=143, z=-17}
+[22Dec2024 22:58:46.901] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3, y=142, z=-11} BlockPos{x=-4, y=143, z=-17}
+[22Dec2024 22:58:47.002] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3, y=142, z=-11} BlockPos{x=-3, y=143, z=-17}
+[22Dec2024 22:58:47.068] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3, y=142, z=-11} BlockPos{x=-3, y=143, z=-17}
+[22Dec2024 22:58:47.174] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3, y=142, z=-11} BlockPos{x=-3, y=143, z=-17}
+[22Dec2024 22:58:47.258] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3, y=142, z=-11} BlockPos{x=-3, y=143, z=-17}
+[22Dec2024 22:58:47.372] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3, y=142, z=-11} BlockPos{x=-3, y=143, z=-17}
+[22Dec2024 22:58:47.478] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3, y=142, z=-11} BlockPos{x=-3, y=143, z=-17}
+[22Dec2024 22:58:47.583] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3, y=142, z=-11} BlockPos{x=-3, y=143, z=-17}
+[22Dec2024 22:58:47.651] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3, y=142, z=-11} BlockPos{x=-3, y=143, z=-17}
+[22Dec2024 22:58:47.706] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3, y=142, z=-11} BlockPos{x=-3, y=143, z=-17}
+[22Dec2024 22:58:47.806] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3, y=142, z=-11} BlockPos{x=-3, y=143, z=-17}
+[22Dec2024 22:58:47.904] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3, y=142, z=-11} BlockPos{x=-3, y=143, z=-17}
+[22Dec2024 22:58:47.967] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3, y=142, z=-11} BlockPos{x=-3, y=143, z=-17}
+[22Dec2024 22:58:48.071] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3, y=142, z=-11} BlockPos{x=-3, y=143, z=-17}
+[22Dec2024 22:58:48.158] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3, y=142, z=-11} BlockPos{x=-3, y=143, z=-17}
+[22Dec2024 22:58:48.251] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3, y=142, z=-11} BlockPos{x=-3, y=143, z=-17}
+[22Dec2024 22:58:48.310] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3, y=142, z=-11} BlockPos{x=-3, y=143, z=-17}
+[22Dec2024 22:58:48.410] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3, y=142, z=-11} BlockPos{x=-3, y=143, z=-17}
+[22Dec2024 22:58:48.449] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3, y=142, z=-11} BlockPos{x=-3, y=143, z=-17}
+[22Dec2024 22:58:48.519] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3, y=142, z=-11} BlockPos{x=-3, y=143, z=-17}
+[22Dec2024 22:58:48.605] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3, y=142, z=-11} BlockPos{x=-3, y=143, z=-17}
+[22Dec2024 22:58:48.722] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3, y=142, z=-11} BlockPos{x=-3, y=143, z=-17}
+[22Dec2024 22:58:48.859] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3, y=142, z=-11} BlockPos{x=-3, y=143, z=-17}
+[22Dec2024 22:58:52.706] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3, y=142, z=-11} BlockPos{x=-4, y=143, z=-17}
+[22Dec2024 22:58:52.758] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3, y=142, z=-11} BlockPos{x=-4, y=143, z=-17}
+[22Dec2024 22:58:52.826] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3, y=142, z=-11} BlockPos{x=-4, y=143, z=-17}
+[22Dec2024 22:58:52.962] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3, y=142, z=-11} BlockPos{x=-4, y=143, z=-17}
+[22Dec2024 22:58:53.010] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3, y=142, z=-11} BlockPos{x=-4, y=143, z=-17}
+[22Dec2024 22:58:53.058] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3, y=142, z=-11} BlockPos{x=-5, y=143, z=-17}
+[22Dec2024 22:58:53.122] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3, y=142, z=-11} BlockPos{x=-5, y=143, z=-17}
+[22Dec2024 22:58:56.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NiceDic was slain by Zombie
