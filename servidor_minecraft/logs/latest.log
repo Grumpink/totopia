@@ -1528,3 +1528,41 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [22Dec2024 13:21:35.664] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nach was kicked for floating too long!
 [22Dec2024 13:21:35.714] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nach lost connection: Flying is not enabled on this server
 [22Dec2024 13:21:35.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nach left the game
+[22Dec2024 13:22:18.185] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nach[/100.99.77.103:60068] logged in with entity id 8168 at (-1663.9738095774753, 157.1665914209238, -2445.651567439872)
+[22Dec2024 13:22:18.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nach joined the game
+[22Dec2024 13:22:18.257] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to Nach
+[22Dec2024 13:22:18.550] [Netty Epoll Server IO #4/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Nach
+[22Dec2024 13:22:28.463] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nach was kicked for floating too long!
+[22Dec2024 13:22:28.464] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nach lost connection: Flying is not enabled on this server
+[22Dec2024 13:22:28.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nach left the game
+[22Dec2024 13:22:28.515] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[22Dec2024 13:22:44.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[22Dec2024 13:23:05.681] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nach[/100.99.77.103:60080] logged in with entity id 8243 at (-1663.9738095774753, 157.1665914209238, -2445.651567439872)
+[22Dec2024 13:23:05.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nach joined the game
+[22Dec2024 13:23:05.731] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to Nach
+[22Dec2024 13:23:06.088] [Netty Epoll Server IO #5/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Nach
+[22Dec2024 13:23:06.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set Nach's game mode to Creative Mode
+[22Dec2024 13:23:52.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nach: Set own game mode to Survival Mode]
+[22Dec2024 13:24:04.094] [Worker-Main-17/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[22Dec2024 13:24:04.130] [Worker-Main-17/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[22Dec2024 13:24:04.130] [Worker-Main-17/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[22Dec2024 13:24:35.490] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_2_pool
+[22Dec2024 13:24:35.491] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[22Dec2024 13:24:35.492] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_4_pool
+[22Dec2024 13:24:35.493] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_1_pool
+[22Dec2024 13:24:35.493] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[22Dec2024 13:24:35.494] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[22Dec2024 13:24:35.494] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[22Dec2024 13:24:35.495] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_additions_3_pool
+[22Dec2024 13:24:35.496] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[22Dec2024 13:24:35.496] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[22Dec2024 13:24:35.496] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[22Dec2024 13:26:41.217] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_nugget
+[22Dec2024 13:26:41.217] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[22Dec2024 13:26:41.218] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[22Dec2024 13:32:09.489] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=92, y=-55, z=-40}
+[22Dec2024 13:32:09.490] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=90, y=-55, z=-40}
+[22Dec2024 13:32:09.490] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=94, y=-54, z=-40}
+[22Dec2024 13:32:09.490] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=96, y=-55, z=-40}
+[22Dec2024 13:32:09.815] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{cobblemon:pc}[facing=west,on=false,part=top,waterlogged=false] but failed at location BlockPos{x=-1425, y=70, z=-2529}
+[22Dec2024 13:32:09.815] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{cobblemon:pc}[facing=west,on=false,part=top,waterlogged=false] but failed at location BlockPos{x=-1425, y=70, z=-2531}
