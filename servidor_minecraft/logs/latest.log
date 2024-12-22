@@ -1475,3 +1475,56 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [22Dec2024 12:54:31.564] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to Nach
 [22Dec2024 12:54:32.103] [Netty Epoll Server IO #2/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Nach
 [22Dec2024 12:54:33.367] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2156ms or 43 ticks behind
+[22Dec2024 13:16:58.791] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_1_pool
+[22Dec2024 13:16:58.792] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_2_pool
+[22Dec2024 13:16:58.792] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[22Dec2024 13:16:58.793] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_4_pool
+[22Dec2024 13:16:58.805] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[22Dec2024 13:16:58.806] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[22Dec2024 13:16:58.820] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[22Dec2024 13:16:58.820] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[22Dec2024 13:17:28.153] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_main_room_pool
+[22Dec2024 13:17:28.154] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_additions_1_pool
+[22Dec2024 13:17:28.154] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_additions_3_pool
+[22Dec2024 13:17:28.154] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_additions_2_pool
+[22Dec2024 13:18:28.731] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nach was kicked for floating too long!
+[22Dec2024 13:18:28.735] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nach lost connection: Flying is not enabled on this server
+[22Dec2024 13:18:28.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nach left the game
+[22Dec2024 13:18:28.806] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[22Dec2024 13:18:43.795] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nach[/100.99.77.103:60037] logged in with entity id 7753 at (-1663.9738095774753, 157.1665914209238, -2445.651567439872)
+[22Dec2024 13:18:43.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nach joined the game
+[22Dec2024 13:18:44.039] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to Nach
+[22Dec2024 13:18:44.423] [Netty Epoll Server IO #4/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Nach
+[22Dec2024 13:18:56.413] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nach was kicked for floating too long!
+[22Dec2024 13:18:56.464] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nach lost connection: Flying is not enabled on this server
+[22Dec2024 13:18:56.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nach left the game
+[22Dec2024 13:19:19.356] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nach[/100.99.77.103:60041] logged in with entity id 7902 at (-1663.9738095774753, 157.1665914209238, -2445.651567439872)
+[22Dec2024 13:19:19.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nach joined the game
+[22Dec2024 13:19:19.481] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to Nach
+[22Dec2024 13:19:19.743] [Netty Epoll Server IO #6/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Nach
+[22Dec2024 13:19:30.765] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nach was kicked for floating too long!
+[22Dec2024 13:19:30.815] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nach lost connection: Flying is not enabled on this server
+[22Dec2024 13:19:30.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nach left the game
+[22Dec2024 13:19:53.736] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nach[/100.99.77.103:60043] logged in with entity id 7964 at (-1663.9738095774753, 157.1665914209238, -2445.651567439872)
+[22Dec2024 13:19:53.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nach joined the game
+[22Dec2024 13:19:53.795] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to Nach
+[22Dec2024 13:19:54.151] [Netty Epoll Server IO #0/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Nach
+[22Dec2024 13:20:05.016] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nach was kicked for floating too long!
+[22Dec2024 13:20:05.065] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nach lost connection: Flying is not enabled on this server
+[22Dec2024 13:20:05.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nach left the game
+[22Dec2024 13:20:55.697] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nach[/100.99.77.103:60056] logged in with entity id 8029 at (-1663.9738095774753, 157.1665914209238, -2445.651567439872)
+[22Dec2024 13:20:55.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nach joined the game
+[22Dec2024 13:20:55.764] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to Nach
+[22Dec2024 13:20:56.029] [Netty Epoll Server IO #1/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Nach
+[22Dec2024 13:21:05.814] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nach was kicked for floating too long!
+[22Dec2024 13:21:05.865] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nach lost connection: Flying is not enabled on this server
+[22Dec2024 13:21:05.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nach left the game
+[22Dec2024 13:21:21.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown game mode: nach
+[22Dec2024 13:21:21.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...emode nach creative<--[HERE]
+[22Dec2024 13:21:24.183] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nach[/100.99.77.103:60064] logged in with entity id 8094 at (-1663.9738095774753, 157.1665914209238, -2445.651567439872)
+[22Dec2024 13:21:24.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nach joined the game
+[22Dec2024 13:21:24.258] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to Nach
+[22Dec2024 13:21:24.467] [Netty Epoll Server IO #2/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Nach
+[22Dec2024 13:21:35.664] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nach was kicked for floating too long!
+[22Dec2024 13:21:35.714] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nach lost connection: Flying is not enabled on this server
+[22Dec2024 13:21:35.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nach left the game
