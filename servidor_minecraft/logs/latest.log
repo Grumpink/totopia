@@ -1474,3 +1474,29 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [22Dec2024 21:37:21.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeruuk joined the game
 [22Dec2024 21:37:21.240] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to Jeruuk
 [22Dec2024 21:37:21.514] [Netty Epoll Server IO #7/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Jeruuk
+[22Dec2024 21:47:48.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nach was slain by Zombie
+[22Dec2024 21:48:07.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nach was slain by Zombie
+[22Dec2024 21:48:23.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nach: Set own game mode to Creative Mode]
+[22Dec2024 21:51:38.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nach: Set own game mode to Survival Mode]
+[22Dec2024 21:52:19.792] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NiceDic[/100.80.228.98:65242] logged in with entity id 12671 at (6.5, 154.0, -35.5)
+[22Dec2024 21:52:19.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NiceDic joined the game
+[22Dec2024 21:52:19.846] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to NiceDic
+[22Dec2024 21:52:19.854] [Server thread/INFO] [Cobbledex/]: Added 0 entries in NiceDic's Cobbledex
+[22Dec2024 21:52:20.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NiceDic has made the advancement [My first penny!]
+[22Dec2024 21:52:20.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NiceDic has made the advancement [A Christmas Shopping Spree!]
+[22Dec2024 21:52:29.920] [Netty Epoll Server IO #1/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from NiceDic
+[22Dec2024 21:52:40.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nach fell from a high place
+[22Dec2024 21:54:21.419] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NiceDic lost connection: Disconnected
+[22Dec2024 21:54:21.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NiceDic left the game
+[22Dec2024 21:55:32.539] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[22Dec2024 21:56:57.662] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[22Dec2024 22:03:49.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nach: Teleported Nach to Jeruuk]
+[22Dec2024 22:05:58.434] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NiceDic[/100.80.228.98:65300] logged in with entity id 16606 at (6.5, 154.0, -35.5)
+[22Dec2024 22:05:58.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NiceDic joined the game
+[22Dec2024 22:05:58.480] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to NiceDic
+[22Dec2024 22:06:03.523] [Netty Epoll Server IO #4/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from NiceDic
+[22Dec2024 22:06:09.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nach: Teleported NiceDic to Jeruuk]
+[22Dec2024 22:06:49.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nach: Teleported Jeruuk to Nach]
+[22Dec2024 22:06:49.656] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jeruuk moved too quickly! 19.04017265415962,72.0,-34.38243066555009
+[22Dec2024 22:06:56.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nach: Teleported NiceDic to Nach]
+[22Dec2024 22:08:09.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NiceDic has made the advancement [Monster Hunter]

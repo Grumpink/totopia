@@ -160,6 +160,14 @@
             "discoveredTimestamp": 1734902588327,
             "caughtTimestamp": 1734902588327
           }
+        },
+        "dugtrio": {
+          "alola": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1734903927336,
+            "caughtTimestamp": 1734903927336
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -172,12 +180,12 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 20,
+    "totalCaptureCount": 21,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 0,
-    "totalBattleVictoryCount": 34,
+    "totalBattleVictoryCount": 35,
     "totalPvPBattleVictoryCount": 1,
-    "totalPvWBattleVictoryCount": 33,
+    "totalPvWBattleVictoryCount": 34,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 1,
@@ -186,8 +194,8 @@
       "normal": 7,
       "grass": 1,
       "dark": 1,
-      "ground": 2,
-      "steel": 2,
+      "ground": 3,
+      "steel": 3,
       "fire": 1,
       "water": 2,
       "electric": 4,

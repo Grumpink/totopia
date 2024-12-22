@@ -159,6 +159,14 @@
         "discoveredTimestamp": 1734902588328,
         "caughtTimestamp": 1734902588328
       }
+    },
+    "dugtrio": {
+      "alola": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1734903927337,
+        "caughtTimestamp": 1734903927337
+      }
     }
   }
 }
