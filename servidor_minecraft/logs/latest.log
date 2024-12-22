@@ -1466,3 +1466,11 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [22Dec2024 21:24:12.425] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
 [22Dec2024 21:25:25.224] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: d48dbeab-b315-4964-b17c-01cc2a47b190
 [22Dec2024 21:25:25.225] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: d48dbeab-b315-4964-b17c-01cc2a47b190
+[22Dec2024 21:30:04.872] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[22Dec2024 21:30:09.939] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[22Dec2024 21:35:08.318] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jeruuk lost connection: Disconnected
+[22Dec2024 21:35:08.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeruuk left the game
+[22Dec2024 21:37:21.141] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jeruuk[/100.92.187.4:63550] logged in with entity id 8870 at (-717.1436145456776, 50.0, -95.1473368550229)
+[22Dec2024 21:37:21.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeruuk joined the game
+[22Dec2024 21:37:21.240] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to Jeruuk
+[22Dec2024 21:37:21.514] [Netty Epoll Server IO #7/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Jeruuk
