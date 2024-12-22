@@ -128,6 +128,22 @@
             "discoveredTimestamp": 1734824663123,
             "caughtTimestamp": 1734824663123
           }
+        },
+        "munchlax": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1734826907665,
+            "caughtTimestamp": 1734826907665
+          }
+        },
+        "nidoranf": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1734827684314,
+            "caughtTimestamp": 1734827684314
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -140,18 +156,18 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 16,
+    "totalCaptureCount": 18,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 0,
-    "totalBattleVictoryCount": 23,
+    "totalBattleVictoryCount": 25,
     "totalPvPBattleVictoryCount": 1,
-    "totalPvWBattleVictoryCount": 22,
+    "totalPvWBattleVictoryCount": 24,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 1,
     "totalTypeCaptureCounts": {
       "fairy": 3,
-      "normal": 6,
+      "normal": 7,
       "grass": 1,
       "dark": 1,
       "ground": 2,
@@ -160,7 +176,8 @@
       "water": 2,
       "electric": 2,
       "ghost": 1,
-      "flying": 1
+      "flying": 1,
+      "poison": 1
     },
     "totalDefeatedCounts": {
       "cobblemon:fletchling": 1,

@@ -127,6 +127,22 @@
         "discoveredTimestamp": 1734824663129,
         "caughtTimestamp": 1734824663129
       }
+    },
+    "munchlax": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1734826907665,
+        "caughtTimestamp": 1734826907665
+      }
+    },
+    "nidoranf": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1734827684315,
+        "caughtTimestamp": 1734827684315
+      }
     }
   }
 }
