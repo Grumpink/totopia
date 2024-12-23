@@ -135,6 +135,13 @@
             "status": "SEEN",
             "discoveredTimestamp": 1734910564480
           }
+        },
+        "magikarp": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1734913193426
+          }
         }
       },
       "name": "cobbledex_discovery"

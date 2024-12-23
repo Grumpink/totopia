@@ -5303,6 +5303,7 @@
       "minecraft:dark_forest": "2024-12-22 21:52:20 +0000",
       "minecraft:river": "2024-12-22 23:10:16 +0000",
       "minecraft:stony_shore": "2024-12-22 23:10:05 +0000",
+      "minecraft:lush_caves": "2024-12-22 23:54:46 +0000",
       "minecraft:ocean": "2024-12-22 23:09:02 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-22 22:32:36 +0000"
     },
@@ -6091,6 +6092,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2024-12-22 23:55:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-22 23:03:33 +0000"
@@ -6148,6 +6155,12 @@
   "minecraft:recipes/building_blocks/birch_slab": {
     "criteria": {
       "has_planks": "2024-12-22 22:40:01 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/light_clay": {
+    "criteria": {
+      "has_clay": "2024-12-22 23:55:08 +0000"
     },
     "done": true
   },
@@ -6247,6 +6260,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-12-22 23:52:35 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/mangrove_drakkar": {
     "criteria": {
       "in_water": "2024-12-22 23:09:03 +0000"
@@ -6262,6 +6281,12 @@
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2024-12-22 22:33:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2024-12-22 23:52:35 +0000"
     },
     "done": true
   },
@@ -6379,6 +6404,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_red_rock_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-12-22 23:59:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2024-12-22 22:39:53 +0000"
@@ -6460,6 +6491,12 @@
   "biomeswevegone:recipes/redstone/witch_hazel_fence_gate": {
     "criteria": {
       "has_planks": "2024-12-22 23:48:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2024-12-22 23:55:08 +0000"
     },
     "done": true
   },
@@ -6635,6 +6672,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-22 23:28:14 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/misc/white_dye_from_bwg_tag": {
+    "criteria": {
+      "TagKey[minecraft:item / biomeswevegone:dye/makes_white_dye]": "2024-12-23 00:18:17 +0000"
     },
     "done": true
   },
@@ -6896,6 +6939,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2024-12-22 23:57:52 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/building_blocks/witch_hazel_bookshelf": {
     "criteria": {
       "has_witch_hazel_planks": "2024-12-22 23:48:26 +0000"
@@ -7037,6 +7086,12 @@
   "biomeswevegone:recipes/transportation/baobab_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-22 23:03:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-12-22 23:59:31 +0000"
     },
     "done": true
   },
@@ -7256,6 +7311,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-12-22 23:59:31 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/rainbow_eucalyptus_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-22 23:03:33 +0000"
@@ -7331,6 +7392,12 @@
   "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
     "criteria": {
       "has_rotten_flesh": "2024-12-22 23:12:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2024-12-22 23:59:31 +0000"
     },
     "done": true
   },
@@ -7430,6 +7497,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-12-22 23:59:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2024-12-22 22:40:15 +0000"
@@ -7445,6 +7518,12 @@
   "smallships:recipes/transportation/cherry_cog": {
     "criteria": {
       "in_water": "2024-12-22 23:09:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-12-22 23:52:35 +0000"
     },
     "done": true
   },
