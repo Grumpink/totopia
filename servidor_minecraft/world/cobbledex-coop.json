@@ -318,6 +318,13 @@
         "status": "SEEN",
         "discoveredTimestamp": 1734910564481
       }
+    },
+    "ferroseed": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1734915656832
+      }
     }
   }
 }

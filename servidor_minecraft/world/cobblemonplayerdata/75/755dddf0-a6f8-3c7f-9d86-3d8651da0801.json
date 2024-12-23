@@ -142,6 +142,13 @@
             "status": "SEEN",
             "discoveredTimestamp": 1734913193426
           }
+        },
+        "ferroseed": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1734915656831
+          }
         }
       },
       "name": "cobbledex_discovery"

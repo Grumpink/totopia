@@ -13,3 +13,21 @@
 [23Dec2024 00:41:39.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nach: Teleported Jeruuk to Nach]
 [23Dec2024 00:41:40.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeruuk has made the advancement [Danger: High Voltage]
 [23Dec2024 00:46:49.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nach has made the advancement [Spice Up Your Life]
+[23Dec2024 00:52:04.443] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=590, y=75, z=-1597} BlockPos{x=588, y=75, z=-1580}
+[23Dec2024 00:52:11.504] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=590, y=76, z=-1582} BlockPos{x=590, y=76, z=-1580}
+[23Dec2024 00:52:15.142] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=591, y=75, z=-1579} BlockPos{x=589, y=75, z=-1576}
+[23Dec2024 00:52:15.174] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=591, y=75, z=-1579} BlockPos{x=589, y=75, z=-1576}
+[23Dec2024 00:56:48.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nach was slain by Mayan Warrior
+[23Dec2024 00:57:12.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nach was slain by Mayan Warrior
+[23Dec2024 00:57:29.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nach: Set own game mode to Creative Mode]
+[23Dec2024 00:59:15.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nach: Set own game mode to Survival Mode]
+[23Dec2024 00:59:50.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nach was slain by Mayan Warrior
+[23Dec2024 01:00:19.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nach was slain by Mayan Warrior
+[23Dec2024 01:00:27.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nach: Set own game mode to Creative Mode]
+[23Dec2024 01:02:55.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nach: Set own game mode to Spectator Mode]
+[23Dec2024 01:05:09.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nach: Set own game mode to Survival Mode]
+[23Dec2024 01:11:16.823] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=581, y=72, z=-1582} BlockPos{x=588, y=70, z=-1581}
+[23Dec2024 01:16:57.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nach disturbed the avatar of Kukulkan, the Ancient Feathered Serpent, God of Rebirth
+[23Dec2024 01:17:02.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nach was slain by Kukulkan
+[23Dec2024 01:17:12.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nach: Set own game mode to Creative Mode]
+[23Dec2024 01:18:49.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nach: Set own game mode to Survival Mode]
